@@ -1,0 +1,148 @@
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
+# 『日テレNEWS』は、日本テレビ報道局が運営するニュースメディアです。最新の映像ニュースを24時間配信中。
+#EXTINF:-1 tvg-dt="47" tvg-id="rch_News1" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
+# 最新の気象・地震情報を24時間365日生放送でお伝えします。
+#EXTINF:-1 tvg-dt="45" tvg-id="rch_WeatherNews" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="Rakuten-JP",ウェザーニュースLiVE
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+# 『５時に夢中！』などTOKYO MXの人気コンテンツを生配信します。
+#EXTINF:-1 tvg-dt="88" tvg-id="rch_TokyoMX" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Rakuten-JP",TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+
+# 共同通信が、国内外で取材した最新ニュースから、深掘りした話題までお届けします。
+#EXTINF:-1 tvg-dt="56" tvg-id="rch_News3" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="Rakuten-JP",共同通信News
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+
+# オリコンが運営する芸能ニュースチャンネルです。記者会見やイベント等の最新ニュースを24時間配信！
+#EXTINF:-1 tvg-dt="54" tvg-id="rch_News2" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png" group-title="Rakuten-JP",オリコンニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+
+# 東京証券取引所のストックボイス・スタジオからリアルタイムでの市況解説を中心に様々な投資情報をお届けします。
+#EXTINF:-1 tvg-dt="83" tvg-id="rch_StockVoice" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_stockvoice.png" group-title="Rakuten-JP",STOCK VOICE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+
+# ブルームバーグTV＋は、ビジネスと市場のニュース、データ、分析を世界に配信中。
+#EXTINF:-1 tvg-dt="70" tvg-id="rch_BloombergPlus" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_bloombergtv.png" group-title="Rakuten-JP",[英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV＋
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+
+# ヨーロッパでナンバーワンの国際ニュースチャンネル。
+#EXTINF:-1 tvg-dt="90" tvg-id="rch_A_Euronews" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_euronews.png" group-title="Rakuten-JP",[英語]ユーロニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+
+# TOP BARxc7Aは、FCバルセロナの試合や独占コンテンツを提供します。
+#EXTINF:-1 tvg-dt="89" tvg-id="rch_BarcaTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_top-barca.png" group-title="Rakuten-JP",TOP BARxc7A
+https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+
+# トッププロ・有名コーチによる上達レッスン、プロの素顔に迫ったバラエティ、ゴルフギア解説を配信
+#EXTINF:-1 tvg-dt="75" tvg-id="rch_A_Golf" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/123_albatvgolf.png" group-title="Rakuten-JP",ALBA TV  l  ゴルフ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
+
+# 1953年以降、日本テレビで放送されたプロレス中継の名勝負・名場面をテーマごとにまとめてお届けします！
+#EXTINF:-1 tvg-dt="97" tvg-id="rch_NTVProWres" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_ntvprowrestling.png" group-title="Rakuten-JP",日ﾃﾚﾌﾟﾛﾚｽ ｱｰｶｲ部
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+
+# 思わず体験したくなるスポーツコンテンツを中心に、スカイAよりおとどけします！
+#EXTINF:-1 tvg-dt="49" tvg-id="rch_Sky A" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png" group-title="Rakuten-JP",スカイA　サプリ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-skyacmaf-rakutenjp/playlist.m3u8
+
+# 刺激ストロングのスポーツ専用チャンネル！サッカーポルトガルリーグの試合やゴルフなどを配信！
+#EXTINF:-1 tvg-dt="48" tvg-id="rch_shigeki sports" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png" group-title="Rakuten-JP",刺激ストロングSPORTS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
+
+# もう一度見たいプロレス名勝負やテニス、モータースポーツなど国内外のスポーツ&バラエティーをお届け!!
+#EXTINF:-1 tvg-dt="51" tvg-id="rch_GAORA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/130_gaorazero.png" group-title="Rakuten-JP",GAORA ZERO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8
+
+# FUEL TVはスケートボード、サーフィン、BMXなどのエクストリームスポーツとそのカルチャーを配信するチャンネルです。
+#EXTINF:-1 tvg-dt="64" tvg-id="rch_FuelTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png" group-title="Rakuten-JP",FUEL TV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+
+# 「鉄腕アトム」や「ブラック・ジャック」、最新作の「GO！GO！アトム」まで手塚作品を一気にお届け！
+#EXTINF:-1 tvg-dt="73" tvg-id="rch_Anime_5" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png" group-title="Rakuten-JP",手塚プロダクションTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+# テレビ「しまじろうのわお！」や <こどもちゃれんじ>の生活習慣・知育・学びに関する番組を配信中です。
+#EXTINF:-1 tvg-dt="61" tvg-id="rch_Benesse" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png" group-title="Rakuten-JP",しまじろうチャンネル
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
+
+# ようこそ、ベイビーシャークの世界へ
+#EXTINF:-1 tvg-dt="80" tvg-id="rch_A_BabySharkTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/148_babyshark.png" group-title="Rakuten-JP",BABY SHARK TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-babyshark-cmaf-rakutenjp/playlist.m3u8
+
+# 未就学児向けの安全で楽しい子どものためのエンタメ・学習チャンネル！rn  Let's have fun and learn English together!
+#EXTINF:-1 tvg-dt="65" tvg-id="rch_KidsEnglish" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png" group-title="Rakuten-JP",キッズ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+
+# 24時間KPOP！最高のアーティストの音楽番組、PV、バライエティー、ドラマを配信中！
+#EXTINF:-1 tvg-dt="96" tvg-id="rch_NI_NewKpop" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png" group-title="Rakuten-JP",NEW KPOP
+https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165&apikey=dc76a93e-178d-5156-d492-c01a0429525f&auth=3ba56277-fd5f03a0-8b874b17-894d93c7
+
+# アメリカのみならず世界中から厳選!バラエティに富んだジャンルのムービー&ドラマ【ムビドラ】が満載！
+#EXTINF:-1 tvg-dt="34" tvg-id="rch_Movie_and_Drama_3" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png" group-title="Rakuten-JP",ムビドラTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+
+# 世界最大の歴史エンタメブランド。隠された真実に焦点を当てた番組は、驚きと感動が満載。
+#EXTINF:-1 tvg-dt="43" tvg-id="rch_History_Amagi" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png" group-title="Rakuten-JP",HISTORY
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8
+
+# Lifetime：世界110ヶ国以上で配信中。”全ての女性のために”がコンセプト。占いドキュメンタリー、恋愛リアリティー、映画、ドラマなど多彩なラインナップでお届けします。rnCrime + Investigation：犯罪捜査、未解決事件、刑務所・警察の裏側をリアルに描くドキュメンタリー。rn殺人事件の真相、刑務所潜入、法廷カメラ映像など、人間の裏側を映し出す番組をお届けします。
+#EXTINF:-1 tvg-dt="44" tvg-id="rch_CplusI_Amagi" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/181_lt-ci.png" group-title="Rakuten-JP",Lifetime／C+I
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-cplusicmaf-rakutenjp/playlist.m3u8
+
+# 運転室展望映像や有名女優や著名人が旅をする「旅色」など、癒しのチャンネル。
+#EXTINF:-1 tvg-dt="30" tvg-id="rch_new_train_and_travel" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png" group-title="Rakuten-JP",鉄道・旅
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
+
+# ペットとの毎日がもっと楽しくなる！日本最大級のペットメディアPECOが提供するワンちゃん、ネコちゃんの愛らしい姿を24時間お届けします。
+#EXTINF:-1 tvg-dt="86" tvg-id="rch_Pet" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png" group-title="Rakuten-JP",ワンニャンチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+
+# Everyday釣り見放題！初心者から釣り経験者でも楽しめる、情報満載の釣り番組をお届けします！
+#EXTINF:-1 tvg-dt="46" tvg-id="rch_Fishing" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png" group-title="Rakuten-JP",釣り
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8
+
+# 初心者でも高段者でも楽しめる！プロ棋戦や棋譜解説、将棋が上手くなる番組が満載！
+#EXTINF:-1 tvg-dt="36" tvg-id="rch_Shogi" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png" group-title="Rakuten-JP",将棋
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shogicmaf-rakutenjp/playlist.m3u8
+
+# 日本プロ麻雀連盟が主催するリーグ戦、タイトル戦などトッププロの対局を多数配信!!
+#EXTINF:-1 tvg-dt="74" tvg-id="rch_A_Mahjong" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png" group-title="Rakuten-JP",麻雀
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
+
+# パチンコ・パチスロ専門チャンネル。懐かしの機種から新作まで多彩なラインアップ！
+#EXTINF:-1 tvg-dt="35" tvg-id="rch_Pachi-slo" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png" group-title="Rakuten-JP",パチンコ・パチスロ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
+
+# ハイステークなポーカーの大会を通じて、数々のミリオネアたちを誕生させてきたWorld Poker Tour。大会の生配信や過去の大会の模様をお届けします。
+#EXTINF:-1 tvg-dt="77" tvg-id="rch_WPT" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/208_wpt.png" group-title="Rakuten-JP",World Poker Tour
+https://cdn-apne1.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-wptenglishsubfeedcmaf-rakutenjp/playlist.m3u8
+
+# パチンコや麻雀、ホラー、バラエティなど、大人の好奇心を刺激するオリジナル番組がめじろ押し！
+#EXTINF:-1 tvg-dt="37" tvg-id="rch_NagoyaTVNext" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png" group-title="Rakuten-JP",エンタメ～テレDEEP
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+
+# あの名曲から新譜まで、24時間演歌や歌謡曲が聴き放題！
+#EXTINF:-1 tvg-dt="85" tvg-id="rch_A_Enka" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png" group-title="Rakuten-JP",演歌・歌謡
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
+
+# 地上波NGのエロバラエティや人気グラビアが目白押し！オトナの夢が詰まったセクシー総合チャンネル！
+#EXTINF:-1 tvg-dt="98" tvg-id="rch_RVariety" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png" group-title="Rakuten-JP",セクシーエンタメチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+
+# あなたの五感と好奇心を満たす…、大人の魅力満載のエンターテイメントチャンネル
+#EXTINF:-1 tvg-dt="59" tvg-id="rch_MensNeco" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png" group-title="Rakuten-JP",おとなの歓楽街 by MEN’S NECO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+
+# 人気グラビアアイドルの映像がいっぱい！24時間楽しめるエンタメチャンネル。
+#EXTINF:-1 tvg-dt="41" tvg-id="rch_Gravure" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png" group-title="Rakuten-JP",アイドル・グラビア
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+
+# 大人のわくわくドキドキがつまった、刺激強めなバラエティ番組やエキサイティングなスポーツを配信！
+#EXTINF:-1 tvg-dt="40" tvg-id="rch_ShigekiStrong" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png" group-title="Rakuten-JP",刺激ストロング
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+
+# ドラマチックで官能的。そして刺激的なロマンあふれる大人のための映画チャンネル。
+#EXTINF:-1 tvg-dt="42" tvg-id="rch_Movie_2" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="Rakuten-JP",映画（年齢制限あり）
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
