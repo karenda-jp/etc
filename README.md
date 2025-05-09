@@ -4,5 +4,4 @@
 https://channel.rakuten.co.jp/
 
 
-![image](https://github.com/user-attachments/assets/bfdfa36c-29b3-4c78-a8fa-d5d93f01bfe4)
-
+![image](https://github.com/user-attachments/assets/eb0c0c32-9b9e-40fe-b1a8-a0da6d4db621)
