@@ -1,5 +1,5 @@
 
-### "jp-rakuten rch" & "jp-abematv" guides.xml
+### "jp-rakuten rch" & "jp-abematv" & "jp-???(test)"　guides.xml
 
 ## CM前後で読み込み止まるのは仕様です。再選択要。
 
