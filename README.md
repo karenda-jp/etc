@@ -13,7 +13,7 @@ https://channel.rakuten.co.jp/
 
 ## "">> A Japanese IP address is required to watch <<""
 
-2025-05　Rch側でtvg-idへ変更がありました。<br/>
+2025-05　Rch側でtvg-idへ使っていたデータに変更がありました。<br/>
 私のリストでは、rch_channel-idで対応する事に暫定的に決めました。
 
 ![image](https://github.com/user-attachments/assets/c6629db5-6145-4199-b554-32d881f9b9cb)
