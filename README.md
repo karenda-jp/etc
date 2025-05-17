@@ -2,6 +2,12 @@
 ### "jp-rakuten rch" & "jp-abematv" & "jp-???(test)"　guides.xml
 ~~~
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
+
+私の知る限り、出回っているIPTV-m3uリストのほとんどをカバーしてると思います。
+編集を直接行いたいので "gz" しません。
+
+EPGの取得・結合・UPが地味にメンドクサイんですよね。。
+
 ~~~
 
 ## 一部のEPGデータで1日ズレたり歯抜けてたり？ 取得ｱﾌﾟﾘ側の不具合です。
