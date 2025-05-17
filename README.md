@@ -4,6 +4,9 @@
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
 ~~~
 
+## 一部のEPGデータで1日ズレたりしていますが、
+## 取得アプリ側の不具合の為、どうする事もできません。(ﾐｭｰｼﾞｯｸｼﾞｬﾊﾟﾝ等 ｽｶﾊﾟｰ系)
+
 ## m3u CM前後で読み込み止まるのは仕様です。再選択要。
 
 https://channel.rakuten.co.jp/
