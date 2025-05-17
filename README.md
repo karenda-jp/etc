@@ -1,7 +1,10 @@
 
 ### "jp-rakuten rch" & "jp-abematv" & "jp-???(test)"　guides.xml
+~~~
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
+~~~
 
-## CM前後で読み込み止まるのは仕様です。再選択要。
+## m3u CM前後で読み込み止まるのは仕様です。再選択要。
 
 https://channel.rakuten.co.jp/
 
