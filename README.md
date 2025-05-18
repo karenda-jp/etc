@@ -29,5 +29,6 @@ https://channel.rakuten.co.jp/
 <br/>
 ![image](https://github.com/user-attachments/assets/b8a08e60-1907-441b-aa0c-99a5754f7f5e)
 <br/>
-![image](https://github.com/user-attachments/assets/bac53793-472a-4f96-a190-93b95d541086)
+![image](https://github.com/user-attachments/assets/d26ddab7-b217-48f7-a3d3-d72d9031cf03)
+
 <br/>
