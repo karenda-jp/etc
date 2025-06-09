@@ -25,12 +25,16 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-raku
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
 
 # ブルームバーグTV＋は、ビジネスと市場のニュース、データ、分析を世界に配信中。
-#EXTINF:-1 tvg-dt="70" tvg-id="rch_70" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_bloombergtv.png" group-title="Rakuten-JP",[英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV＋
+#EXTINF:-1 tvg-dt="70" tvg-id="rch_70" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png" group-title="Rakuten-JP",[英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV＋
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
 
 # ヨーロッパでナンバーワンの国際ニュースチャンネル。
-#EXTINF:-1 tvg-dt="90" tvg-id="rch_90" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_euronews.png" group-title="Rakuten-JP",[英語]ユーロニュース
+#EXTINF:-1 tvg-dt="90" tvg-id="rch_90" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png" group-title="Rakuten-JP",[英語]ユーロニュース
 https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+
+# 見る、買える！24時間365日放送中の、お買い物チャンネルQVC。1日限りの特別価格の商品も登場！
+#EXTINF:-1 tvg-dt="102" tvg-id="rch_102" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_qvc.png" group-title="Rakuten-JP",QVC
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
 
 # TOP BARxc7Aは、FCバルセロナの試合や独占コンテンツを提供します。
 #EXTINF:-1 tvg-dt="89" tvg-id="rch_89" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_top-barca.png" group-title="Rakuten-JP",TOP BARxc7A
@@ -103,6 +107,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakut
 # Everyday釣り見放題！初心者から釣り経験者でも楽しめる、情報満載の釣り番組をお届けします！
 #EXTINF:-1 tvg-dt="46" tvg-id="rch_46" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png" group-title="Rakuten-JP",釣り
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8
+
+# 「竜星戦」「銀河戦」「霧島酒造杯 女流王将戦」など囲碁と将棋の珠玉の名対局をお届けします！
+#EXTINF:-1 tvg-dt="100" tvg-id="rch_100" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/204_igoshogi.png" group-title="Rakuten-JP",囲碁・将棋ライト
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
 
 # 初心者でも高段者でも楽しめる！プロ棋戦や棋譜解説、将棋が上手くなる番組が満載！
 #EXTINF:-1 tvg-dt="36" tvg-id="rch_36" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png" group-title="Rakuten-JP",将棋
