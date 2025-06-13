@@ -1,5 +1,5 @@
 
-### "jp-rakuten rch" & "jp-abematv" & "jp-???(test)"　guides.xml
+### "jp-rakuten rch" & "jp-abematv" & "jp-iptv(test)" & "jp-tver" MIX 　guides.xml
 ~~~
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
 
@@ -15,9 +15,11 @@ DRMに関連するチャンネルとDASH(MPD)には興味ありません。排�
 ~~~
 
 ## 一部のEPGデータで1日ズレたり歯抜けてたり？ 取得ｱﾌﾟﾘ側の不具合です。
+### 　※というか、データ破損を防ぐ為の仕様だそうです。(アプリ Tempest-EPG-Generator 確認済)
+## 不具合を排除する様に "site_config" 自作して取得していますが :)
 ## 日付をまたぐ一挙放送等で表示されなかったり。 ｱﾌﾟﾘの挙動は人それぞれです。
 
-## m3u CM前後で読み込み止まるのは仕様です。再選択要。
+## RCH m3u CM前後で読み込み止まるのは仕様です。再選択要。
 
 https://channel.rakuten.co.jp/
 
