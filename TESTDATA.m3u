@@ -1,0 +1,55 @@
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_entmt" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/32/XBxfudqaiOW4MbETVD1oaZM7TkJWaQNsfATx2Vyw.png",とりあえず
+https://amg02570-amg02570c7-bbm-worldwide-3423.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-entertainment-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_healt" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/40/Sjl1xTglSA4BUbFawwl6UGdDhpsaTH3aA9drpA9H.png",ウェルネスチャンネル
+https://amg02570-amg02570c12-bbm-worldwide-3473.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-health-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_kids" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/41/F81vlDUmpB3AA3TWTsnYzSPU6kMlWlxOpkpXJRXw.jpg",キッズステーションEX
+https://amg02570-amg02570c13-bbm-worldwide-3474.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-kids-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_cokng" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/34/KZfUcrvHw5sQjbLPvVn0tEWOKLOqyXFZ3Ik9z4U3.png",つまみ堂
+https://amg02570-amg02570c5-bbm-worldwide-3421.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-cooking-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_krdrm" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/43/KnCRz4vMKLwcWdyKN7iFle9dWct4hl2Oo449qouS.jpg",韓流チャンネル
+https://amg02570-amg02570c15-bbm-worldwide-4697.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-koreandrama-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_recip" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/42/NnPcJNtssjnP5MgoVKe5fkYATCQvgYPBtBwVEdC6.png",観るたび PRODUCED by るるぶ
+https://amg02570-amg02570c14-bbm-worldwide-3475.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-recipe-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_travl" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/33/ge0sxMQ5q82Hf9xCOyPF5V7mNubY12E3BRKLFw7G.png",今日のごはん、なに⤴？
+https://amg02570-amg02570c8-bbm-worldwide-3476.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-travel-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_camng" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/35/XGe302QS9Um4BqQ2Q43XpHgn3uxVnwKIAyOKJpGT.png",キャンプ・アウトドアチャンネルPowered byハピキャン
+https://amg02570-amg02570c6-bbm-worldwide-3422.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-camping-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_samri" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/30/INtnk2kg0AU2gPInpuF97dvQgbjMYqXtiehIhFMl.png",時代劇TV（Powered by 時代劇専門チャンネル）
+https://amg02570-amg02570c4-bbm-worldwide-3425.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-samurai-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_busns" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/39/CMbgulH1AjxAZRdAgNI4sklTS3ZEAxrWVAliagdD.png",ビジネス・プレミアムチャンネル
+https://amg02570-amg02570c11-bbm-worldwide-3467.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-business-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_pett1" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/38/6TlrNDEzjJfMJtj48xEEHTFDElRCiQKK0XpJdurz.png",ペットTV
+https://amg02570-amg02570c3-bbm-worldwide-3424.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-pet-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_snyon" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/46/H2oQxlVjO8d65Cq4eWIZU2OJCLxBdtzja4FoYJ3J.png",FASHION+
+https://amg02570-amg02570c18-bbm-worldwide-6637.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-sonyone-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_bgolf" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/45/FMnehrH4IIODecqi0bbimj4bpoLl9V1yylxFKsSN.png",GOLF LIFE
+https://amg02570-amg02570c17-bbm-worldwide-6651.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-golf-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_entns" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/49/fP7GjPbGOA51JZBhYdQlJljEiwTobd4u5BGNnzSw.png",エンタメニュース POWERED BY ORICON NEWS
+https://amg02570-amg02570c21-bbm-worldwide-6640.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-entertainmentnews-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_asdrm" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/47/xLIrNKPcN0rrtE0LUwof6CKnz7TOLznD8kCdlPbF.png",エンタメ・アジアFree
+https://amg02570-amg02570c19-bbm-worldwide-6638.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-asiandrama-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_comdy" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/48/PZtZwxPINo9Uc9LOMLEKjY9FISiCZhws3uQbAKrv.png",Lemino TV
+https://amg02570-amg02570c20-bbm-worldwide-6639.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-lemon-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_news1" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/44/18L6OlLHZPvyVeeliL8K2DaM40rWphJX3FXO5S4U.png",丸ごと九州ch
+https://amg02570-amg02570c16-bbm-worldwide-4798.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-news1-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_jpthp" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/50/MckCK9nWgo7mhQSvcgeiCw7yUWM6SgmuvegTgXmS.png",ぴあ落語ざんまい
+https://amg02570-amg02570c22-bbm-worldwide-6641.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-rakugo-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
