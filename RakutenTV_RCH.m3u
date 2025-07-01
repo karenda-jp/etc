@@ -4,8 +4,12 @@
 #EXTINF:-1 tvg-dt="47" tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP",日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
+# 深層ニュース＆気になる話題が盛りだくさん！あなたの知りたい情報を毎日更新！
+#EXTINF:-1 tvg-dt="101" tvg-id="rch_101" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_ntvnewsselect.png" group-title="Rakuten-JP",日テレNEWSセレクト グルメや生活情報、ニュース解説満載！
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+
 # 最新の気象・地震情報を24時間365日生放送でお伝えします。
-#EXTINF:-1 tvg-dt="45" tvg-id="rch_45" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="Rakuten-JP",ウェザーニュースLiVE
+#EXTINF:-1 tvg-dt="45" tvg-id="rch_45" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/107_whethernews.png" group-title="Rakuten-JP",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
 # 『５時に夢中！』などTOKYO MXの人気コンテンツを生配信します。
@@ -21,7 +25,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-raku
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
 
 # 東京証券取引所のストックボイス・スタジオからリアルタイムでの市況解説を中心に様々な投資情報をお届けします。
-#EXTINF:-1 tvg-dt="83" tvg-id="rch_83" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_stockvoice.png" group-title="Rakuten-JP",STOCK VOICE
+#EXTINF:-1 tvg-dt="83" tvg-id="rch_83" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png" group-title="Rakuten-JP",STOCK VOICE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
 
 # ブルームバーグTV＋は、ビジネスと市場のニュース、データ、分析を世界に配信中。
