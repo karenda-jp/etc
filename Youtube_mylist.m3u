@@ -1,0 +1,51 @@
+#EXTM3U
+# ###########################################################################################################
+# プログラムを自由に使わせたく無い為(各自のch追加等)AESにて暗号化してチャンネルロック掛けています。
+# 私のyoutubeアカウント情報を使い動画情報を取得しています。
+# 短時間に連続でチャンネルを選択するとエラーになります。制御や仕組みを知らないソフトで決して読み込まないで下さい。
+# リンク先は実行可能なphpプログラムですので。
+# エラーをしつこく繰り返す方は自動的にブラックリストへ登録され、私のサイトから追放させて頂きます。
+# チャンネル/ライブ/動画の追加リクエスト等は受け付けておりません。
+# 常時監視していません。youtubeの仕様変更やプログラムのバグ等で、想定した動作と異なる場合があります。
+# ###########################################################################################################
+#EXTINF:-1 group-title="youtube tvg-logo="https://i.imgur.com/A8uRSTS.png"",Weather News (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=azg4a081WkU3RUh2ZjloT0xYOEN0dGw5cTQwZlczM0I5cDl6WU54dFZxaz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/R7rYrH5.png",The Real-time Earthquake Alert (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=VXM1eTBLTmdQa2FxVVZjeDVpQmRpc2pzUzFnN1Bha1QrVGo0UEY1Ky9Udz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/l6O9viXT0NUEet41Y2IAjKvuTbULIaErR8UUppXhtNeW7r-Z7hgruiBOxoCJaSQMlbHv4Cii=s160-c-k-c0x00ffffff-no-rj",日テレNEWS (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=eUR1WVF1RTdhdm9lRkV6alBRYzZGcWpKYmZsTjlEeEtkSzRKT2JtWVo1MD0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/E-A54dDrjqIAfIqwdEGPolaKeVj-jW4kEQR-M6BMR-hiBtw1DhwM_kXGT-4uezIq0-ioeoElZg=s160-c-k-c0x00ffffff-no-rj",TBS NEWS DIG (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=NysxekVKY3lKRDc3c3JFQWFnMGY1bEJBZ3R6RjNPUmgyVjhvWjBINVJRbz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/yqUItvM.png",HTB北海道テレビNEWS (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=VktrUVBFK05MRFpUbkVUMGljak80R2tHeHRjbWRsVDd1TUM0aEhJQjZ0bz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg",STV札幌テレビ放送NEWS  (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=aUZSWmNxS0tBeGdHT0RoTkUreEdQUkJqRXFzT2phSEN0K2dMUzRKRlNuZz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/Ty4ejcEAZzuQZ7rplYaVGkISkcPdQyFFJWRxr9gp9fwzkF5EByonQTW1aM4bnTl2I_ZkXFtBpw=s160-c-k-c0x00ffffff-no-rj",ABC朝日放送テレビNEWS (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=ZFd3bVJKNUFFOUN1NTJKNEVRd1FmKzhabVJSR2IxSDlIQ0tCWVdzTXRNWT0=
+
+#EXTINF:-1group-title="youtube" tvg-logo="https://i.imgur.com/JBkXyvj.jpg",TOSテレビ大分 NEWS (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=WTI3SG42U3RCVmtYeXJ2UU1zVGh1ZkZwRUxQYUpibXE1WmhobS9INk5oYz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s160-c-k-c0x00ffffff-no-rj",avex 24/7 Music Live (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=Sm9Gb1NBeE9DdDNlZ3dYdk14eDhickM4T2JUUjlBMDBDayt0a0VnQkFuRT0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/KLeAp_Ld3R_SPHCzNT0prmj4QDQLalKIW_P_HNnsN_e2mZPcHeu4QsnoWtaonoguDcdVJ_8svw=s160-c-k-c0x00ffffff-no-rj",avex Japanese Anime songs (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=akM4aHVOeVdVNDBSaXYzNXZ1dUNPV2VBOXAxNEllTzZ5YVdoN1NURFNoWT0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/qNVsml2wAFCR4mKTjuRWavEziCjytk-bjpsqlkB_gjyLWxddsu5dXIlGbD4Eec1fQqSdDSEv=s160-c-k-c0x00ffffff-no-rj",アニソン24時間365日ラジオ｜Anileap (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=WnAwOE5CMEJ4UzA2T1J3dHBiNkhtNlJRZlFjdFFXZTN1N0l6aXdpS3pRZz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s176-c-k-c0x00ffffff-no-rj-mo",ANN JapaNews24 (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?video=em9rUnczbFFQeHl5OUFXZkQ2RXNGUT09
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video すずめ - 十明 (Suzume OST) / BML2023 Shanghai
+https://ss267603.stars.ne.jp/YbL5r/?play=TUhXZFppSTBtbUNtbmhzaXBnRTBlZz09
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video 水樹奈々 x 日笠陽子 - 不死鳥のフランメ
+https://ss267603.stars.ne.jp/YbL5r/?play=MEJ5WlNDVWtDemx6UzVvV1dRLzlpUT09
