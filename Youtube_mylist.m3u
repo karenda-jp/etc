@@ -8,7 +8,7 @@
 # チャンネル/ライブ/動画の追加リクエスト等は受け付けておりません。
 # 常時監視していません。youtubeの仕様変更やプログラムのバグ等で、想定した動作と異なる場合があります。
 # ###########################################################################################################
-#EXTINF:-1 group-title="youtube tvg-logo="https://i.imgur.com/A8uRSTS.png"",Weather News (Youtube)
+#EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/A8uRSTS.png",Weather News (Youtube)
 https://ss267603.stars.ne.jp/YbL5r/?channel=azg4a081WkU3RUh2ZjloT0xYOEN0dGw5cTQwZlczM0I5cDl6WU54dFZxaz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/R7rYrH5.png",The Real-time Earthquake Alert (Youtube)
@@ -47,5 +47,5 @@ https://ss267603.stars.ne.jp/YbL5r/?video=em9rUnczbFFQeHl5OUFXZkQ2RXNGUT09
 #EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video すずめ - 十明 (Suzume OST) / BML2023 Shanghai
 https://ss267603.stars.ne.jp/YbL5r/?play=TUhXZFppSTBtbUNtbmhzaXBnRTBlZz09
 
-#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video 水樹奈々 x 日笠陽子 - 不死鳥のフランメ
+#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video 水樹奈々 x 日笠陽子 － 不死鳥のフランメ
 https://ss267603.stars.ne.jp/YbL5r/?play=MEJ5WlNDVWtDemx6UzVvV1dRLzlpUT09
