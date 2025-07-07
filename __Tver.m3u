@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
+
+#EXTINF:-1 tvg-id="tver_ntv" tvg-logo="https://statics.tver.jp/images/icon/ntv.jpg?v=2" group-title="Tver",Tver 日テレ系
+https://ss267603.stars.ne.jp/Txn8tveRLive/?channel=R0ZWdU40cTJLRzdGNUYxazFDblZDQT09
+
+#EXTINF:-1 tvg-id="tver_ex" tvg-logo="https://statics.tver.jp/images/icon/ex.jpg?v=2" group-title="Tver",Tver テレ朝系
+https://ss267603.stars.ne.jp/Txn8tveRLive/?channel=TTNjL2JKcHNuTEwwODUzN0lKQjB0dz09
+
+#EXTINF:-1 tvg-id="tver_tbs" tvg-logo="https://statics.tver.jp/images/icon/tbs.jpg?v=2" group-title="Tver",Tver TBS系
+https://ss267603.stars.ne.jp/Txn8tveRLive/?channel=eGhvYjYxTGhwcnA0MnFDQ05ONC8zZz09
+
+#EXTINF:-1 tvg-id="tver_tx" tvg-logo="https://statics.tver.jp/images/icon/tx.jpg?v=2" group-title="Tver",Tver テレ東系
+https://ss267603.stars.ne.jp/Txn8tveRLive/?channel=cERSOWhVaVBuNlhlSit5WlBwTWtFUT09
+
+#EXTINF:-1 tvg-id="tver_cx" tvg-logo="https://statics.tver.jp/images/icon/cx.jpg?v=2" group-title="Tver",Tver フジ系
+https://ss267603.stars.ne.jp/Txn8tveRLive/?channel=eEJ1SmRieDEyUGdzOVN5TlNObWdBZz09
+
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/content/thumbnail/series/small/srp4vygpgh.jpg?v=7" group-title="Tver",Tver 日テレ NEWS24
+https://ss267603.stars.ne.jp/Txn8tveRLive/?channel=a2xlYUxqa2pCcU5BZ3VKQjVrdVorUT09
+
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/content/thumbnail/series/small/srdevad6wg.jpg?v=3" group-title="Tver",Tver FNN フジテレビNEWS24
+https://ss267603.stars.ne.jp/Txn8tveRLive/?channel=djNQSytKMTFyWUNON2lONlVqa2d1UT09
+
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/content/thumbnail/series/small/srk4h7vfcw.jpg?v=4" group-title="Tver",Tver TBS NEWS DIG
+https://ss267603.stars.ne.jp/Txn8tveRLive/?channel=NzNYZ2dYS2JOQ0ZYR25MUmZNaldpZz09
