@@ -7,6 +7,7 @@
 # エラーをしつこく繰り返す方は自動的にブラックリストへ登録され、私のサイトから追放させて頂きます。
 # チャンネル/ライブ/動画の追加リクエスト等は受け付けておりません。
 # 常時監視していません。youtubeの仕様変更やプログラムのバグ等で、想定した動作と異なる場合があります。
+# 2025-07-15 youtube側に規制される時間帯は取得に失敗する様です。※BOT error. 数パターン在る様だ。
 # ###########################################################################################################
 #EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/A8uRSTS.png",Weather News (Youtube)
 https://ss267603.stars.ne.jp/YbL5r/?channel=azg4a081WkU3RUh2ZjloT0xYOEN0dGw5cTQwZlczM0I5cDl6WU54dFZxaz0=
@@ -32,6 +33,12 @@ https://ss267603.stars.ne.jp/YbL5r/?channel=ZFd3bVJKNUFFOUN1NTJKNEVRd1FmKzhabVJS
 #EXTINF:-1group-title="youtube" tvg-logo="https://i.imgur.com/JBkXyvj.jpg",TOSテレビ大分 NEWS (Youtube)
 https://ss267603.stars.ne.jp/YbL5r/?channel=WTI3SG42U3RCVmtYeXJ2UU1zVGh1ZkZwRUxQYUpibXE1WmhobS9INk5oYz0=
 
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s176-c-k-c0x00ffffff-no-rj-mo",ANN JapaNews24 (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?video=em9rUnczbFFQeHl5OUFXZkQ2RXNGUT09
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/r4tXuxECbmc47zQvoO414UgVL0oZ_xBg8Es5nypM-agBrpvfyzFISsoK2Km-AMorSD_Hx9kbiw=s160-c-k-c0x00ffffff-no-rj",メ～テレ NEWS LIVE 24 (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?video=VTkvVGpqV1hlb1BEZ1NUMmdMbXJTdz09
+
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s160-c-k-c0x00ffffff-no-rj",avex 24/7 Music Live (Youtube)
 https://ss267603.stars.ne.jp/YbL5r/?channel=Sm9Gb1NBeE9DdDNlZ3dYdk14eDhickM4T2JUUjlBMDBDayt0a0VnQkFuRT0=
 
@@ -41,10 +48,10 @@ https://ss267603.stars.ne.jp/YbL5r/?channel=akM4aHVOeVdVNDBSaXYzNXZ1dUNPV2VBOXAx
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/qNVsml2wAFCR4mKTjuRWavEziCjytk-bjpsqlkB_gjyLWxddsu5dXIlGbD4Eec1fQqSdDSEv=s160-c-k-c0x00ffffff-no-rj",アニソン24時間365日ラジオ｜Anileap (Youtube)
 https://ss267603.stars.ne.jp/YbL5r/?channel=WnAwOE5CMEJ4UzA2T1J3dHBiNkhtNlJRZlFjdFFXZTN1N0l6aXdpS3pRZz0=
 
-#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s176-c-k-c0x00ffffff-no-rj-mo",ANN JapaNews24 (Youtube)
-https://ss267603.stars.ne.jp/YbL5r/?video=em9rUnczbFFQeHl5OUFXZkQ2RXNGUT09
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/8hySIA7Ed6amMiAHJVNsG9oph0zoSlCAffYTmINH3gXJ8vvcToB_xh7uIlKSHA9fBEae3e_yl6I=s160-c-k-c0x00ffffff-no-rj",GB News Live (Youtube)
+https://ss267603.stars.ne.jp/YbL5r/?channel=REE4Z205RzdRSy9RakhHeEtrMDBpcnJYSGp5WEpvclAreEp2U0pIOGtlWT0=
 
-#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video すずめ - 十明 (Suzume OST) / BML2023 Shanghai
+#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video すずめ － 十明 (Suzume OST) / BML2023 Shanghai
 https://ss267603.stars.ne.jp/YbL5r/?play=TUhXZFppSTBtbUNtbmhzaXBnRTBlZz09
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video 水樹奈々 x 日笠陽子 － 不死鳥のフランメ
