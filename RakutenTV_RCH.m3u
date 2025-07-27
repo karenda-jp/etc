@@ -85,7 +85,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-babyshark-cmaf
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
 
 # 24時間KPOP！最高のアーティストの音楽番組、PV、バライエティー、ドラマを配信中！
-#EXTINF:-1 tvg-dt="96" tvg-id="rch_96" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png" group-title="Rakuten-JP",NEW KPOP
+#EXTINF:-1 tvg-dt="94" tvg-id="rch_94" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png" group-title="Rakuten-JP",NEW KPOP
 https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165&apikey=dc76a93e-178d-5156-d492-c01a0429525f&auth=3ba56277-fd5f03a0-8b874b17-894d93c7
 
 # アメリカのみならず世界中から厳選!バラエティに富んだジャンルのムービー&ドラマ【ムビドラ】が満載！
