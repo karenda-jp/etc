@@ -45,7 +45,7 @@ https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
 https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
 
 # トッププロ・有名コーチによる上達レッスン、プロの素顔に迫ったバラエティ、ゴルフギア解説を配信
-#EXTINF:-1 tvg-dt="75" tvg-id="rch_75" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/123_albatvgolf.png" group-title="Rakuten-JP",ALBA TV  l  ゴルフ
+#EXTINF:-1 tvg-dt="75" tvg-id="rch_75" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/123_golf.png" group-title="Rakuten-JP",ゴルフ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
 
 # 1953年以降、日本テレビで放送されたプロレス中継の名勝負・名場面をテーマごとにまとめてお届けします！
@@ -55,10 +55,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestl
 # 思わず体験したくなるスポーツコンテンツを中心に、スカイAよりおとどけします！
 #EXTINF:-1 tvg-dt="49" tvg-id="rch_49" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png" group-title="Rakuten-JP",スカイA　サプリ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-skyacmaf-rakutenjp/playlist.m3u8
-
-# 刺激ストロングのスポーツ専用チャンネル！サッカーポルトガルリーグの試合やゴルフなどを配信！
-#EXTINF:-1 tvg-dt="48" tvg-id="rch_48" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png" group-title="Rakuten-JP",刺激ストロングSPORTS
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
 
 # もう一度見たいプロレス名勝負やテニス、モータースポーツなど国内外のスポーツ&バラエティーをお届け!!
 #EXTINF:-1 tvg-dt="51" tvg-id="rch_51" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/130_gaorazero.png" group-title="Rakuten-JP",GAORA ZERO
@@ -95,10 +91,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakuten
 # 世界最大の歴史エンタメブランド。隠された真実に焦点を当てた番組は、驚きと感動が満載。
 #EXTINF:-1 tvg-dt="43" tvg-id="rch_43" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png" group-title="Rakuten-JP",HISTORY
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8
-
-# Lifetime：世界110ヶ国以上で配信中。”全ての女性のために”がコンセプト。占いドキュメンタリー、恋愛リアリティー、映画、ドラマなど多彩なラインナップでお届けします。rnCrime + Investigation：犯罪捜査、未解決事件、刑務所・警察の裏側をリアルに描くドキュメンタリー。rn殺人事件の真相、刑務所潜入、法廷カメラ映像など、人間の裏側を映し出す番組をお届けします。
-#EXTINF:-1 tvg-dt="44" tvg-id="rch_44" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/181_lt-ci.png" group-title="Rakuten-JP",Lifetime／C+I
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-cplusicmaf-rakutenjp/playlist.m3u8
 
 # 運転室展望映像や有名女優や著名人が旅をする「旅色」など、癒しのチャンネル。
 #EXTINF:-1 tvg-dt="30" tvg-id="rch_30" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png" group-title="Rakuten-JP",鉄道・旅
