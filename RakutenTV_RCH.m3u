@@ -40,8 +40,8 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakuten
 #EXTINF:-1 tvg-dt="102" tvg-id="rch_102" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_qvc.png" group-title="Rakuten-JP",QVC
 https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
 
-# TOP BARxc7Aは、FCバルセロナの試合や独占コンテンツを提供します。
-#EXTINF:-1 tvg-dt="89" tvg-id="rch_89" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_top-barca.png" group-title="Rakuten-JP",TOP BARxc7A
+# TOP BARÇAは、FCバルセロナの試合や独占コンテンツを提供します。
+#EXTINF:-1 tvg-dt="89" tvg-id="rch_89" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_top-barca.png" group-title="Rakuten-JP",TOP BARÇA
 https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
 
 # トッププロ・有名コーチによる上達レッスン、プロの素顔に迫ったバラエティ、ゴルフギア解説を配信
@@ -76,7 +76,8 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehl
 #EXTINF:-1 tvg-dt="80" tvg-id="rch_80" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/148_babyshark.png" group-title="Rakuten-JP",BABY SHARK TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-babyshark-cmaf-rakutenjp/playlist.m3u8
 
-# 未就学児向けの安全で楽しい子どものためのエンタメ・学習チャンネル！rn  Let's have fun and learn English together!
+# 未就学児向けの安全で楽しい子どものためのエンタメ・学習チャンネル！
+  Let's have fun and learn English together!
 #EXTINF:-1 tvg-dt="65" tvg-id="rch_65" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png" group-title="Rakuten-JP",キッズ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
 
