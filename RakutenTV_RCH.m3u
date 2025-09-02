@@ -8,6 +8,10 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-raku
 #EXTINF:-1 tvg-dt="101" tvg-id="rch_101" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_ntvnewsselect.png" group-title="Rakuten-JP",日テレNEWSセレクト グルメや生活情報、ニュース解説満載！
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
 
+# フジテレビ系列28局のデジタルニュースメディア「FNNプライムオンライン」です。国内外の取材網を生かし、政治・経済・社会・国際・スポーツ・エンタメなど、様々な分野のニュースをお届けします。
+#EXTINF:-1 tvg-dt="108" tvg-id="rch_108" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_fnn.png" group-title="Rakuten-JP",FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+
 # 最新の気象・地震情報を24時間365日生放送でお伝えします。
 #EXTINF:-1 tvg-dt="45" tvg-id="rch_45" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/107_whethernews.png" group-title="Rakuten-JP",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
