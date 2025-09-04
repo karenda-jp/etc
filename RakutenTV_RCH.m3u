@@ -32,6 +32,11 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-raku
 #EXTINF:-1 tvg-dt="83" tvg-id="rch_83" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png" group-title="Rakuten-JP",STOCK VOICE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
 
+# 【AIで日本語字幕を表示しています】
+現実世界の視点で世界８つの主要グローバル・ニュースを２４時間ノンストップでお届するライブ・ニュースチャンネル。
+#EXTINF:-1 tvg-dt="103" tvg-id="rch_103" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_NewsWorld.png" group-title="Rakuten-JP",NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+
 # ブルームバーグTV＋は、ビジネスと市場のニュース、データ、分析を世界に配信中。
 #EXTINF:-1 tvg-dt="70" tvg-id="rch_70" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png" group-title="Rakuten-JP",[英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV＋
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
@@ -132,6 +137,22 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-wptenglishsubfee
 # パチンコや麻雀、ホラー、バラエティなど、大人の好奇心を刺激するオリジナル番組がめじろ押し！
 #EXTINF:-1 tvg-dt="37" tvg-id="rch_37" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png" group-title="Rakuten-JP",エンタメ～テレDEEP
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+
+# NOW 70sは、あなたのための24時間ノンストップ７０年代パーティ・チャンネルです。NOW That’s What I Call Musicチームが、ABBA、エルトン・ジョン、マーヴィン・ゲイなどグラムロック、ニューウェーブ、ディスコの時代からの１０年間の数多くのヒット曲に特化したチャンネルをお届けします。
+#EXTINF:-1 tvg-dt="104" tvg-id="rch_104" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_now70s.png" group-title="Rakuten-JP",NOW 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+
+# NOW 80sは、あなたのための24時間ノンストップ８０年代パーティ・チャンネルです。シンセポップ、ソフトロック、レッグ・ウォーマーズ、ライクラ、そしてビッグ・ヘアが満載！このチャンネルは時代を超えたクラシック・ポップミュージックの宝庫です。デュラン・デュラン、マイケル・ジャクソン、ホイットニー・ヒューストンなど数多くの名曲をお楽しみください。
+#EXTINF:-1 tvg-dt="105" tvg-id="rch_105" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/228_now80s.png" group-title="Rakuten-JP",NOW 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+
+# NOW 90s00sは、あなたのための９０年代と２０００年代のポップヒット・チャンネルです。ボーイバンド、ガールズグループ、ポップ＆ハンドバッグハウスなど９０年代から２０００年代の名曲ばかりをお届けします。スパイス・ガールズ、ハンソン、レディー・ガガ、エイミー・ワインハウスなど数多くのアーティストのヒット曲も収録しています。
+#EXTINF:-1 tvg-dt="106" tvg-id="rch_106" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/229_now90s00s.png" group-title="Rakuten-JP",NOW 90s00s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+
+# NOW ROCKは、ブルースやグランジからソフトロック、ヘビーメタルまで６０年にわたる伝説的なロックンロールの素晴らしいセレクションをお届けします。ロック界のレジェンド、スージー・クアトロやキャロル・デッカー、ラジオ界のレジェンド、ニッキー・ホーンなどビッグアーティスト達がプレゼンターを務めます。
+#EXTINF:-1 tvg-dt="107" tvg-id="rch_107" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/230_nowrock.png" group-title="Rakuten-JP",NOW ROCK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
 
 # あの名曲から新譜まで、24時間演歌や歌謡曲が聴き放題！
 #EXTINF:-1 tvg-dt="85" tvg-id="rch_85" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png" group-title="Rakuten-JP",演歌・歌謡
