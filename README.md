@@ -24,10 +24,7 @@ DRMに関連するチャンネルとDASH(MPD)には興味ありません。排�
 ~~~
 ※2025.10.13～ Youtube仕様変更につき公開 中止　Liveは高確率にて取得失敗します。playは再生不可
 ~~~
-<img width="905" height="604" alt="nontitle" src="https://github.com/user-attachments/assets/cd8d9824-305b-4e22-ab32-ea71b4c05c1f" />
-パラメータ爆増！(仮
 
- 
 ### 一部のEPGデータで1日ズレたり歯抜けてたり？ 取得ｱﾌﾟﾘ側の不具合です。
 ### 　※というか、データ破損を防ぐ為の仕様だそうです。(アプリ Tempest-EPG-Generator 確認済)
 ### 不具合を排除する様に "site_config" 自作して取得していますが :)
