@@ -55,6 +55,4 @@ https://channel.rakuten.co.jp/
 <br/>
 ![image](https://github.com/user-attachments/assets/d26ddab7-b217-48f7-a3d3-d72d9031cf03)
 <br/>
-[![EPG動作テスト](https://img.youtube.com/vi/hEJWYEmGOUQ/0.jpg)](https://www.youtube.com/watch?v=hEJWYEmGOUQ)
-<br/>
 
