@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
 
+
 #EXTINF:-1 group-title="" tvg-id="NHK東京・総合_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png?",NHK東京・総合
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="NHK東京・教育_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png?",NHK東京・教育
@@ -226,15 +227,17 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png?",日テレNEWS
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="rch_101" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_ntvnewsselect.png?",日テレNEWSセレクト グルメや生活情報、ニュース解説満載！
+#EXTINF:-1 group-title="" tvg-id="rch_108" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png?",FNNプライムオンライン
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="rch_108" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_fnn.png?",FNNプライムオンライン
+#EXTINF:-1 group-title="" tvg-id="rch_115" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png?",MBSニュース
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_45" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/107_whethernews.png?",ウェザーニュースLiVE
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_88" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png?",TOKYO MX チャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_56" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png?",共同通信News
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="rch_101" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/110_ntvnewsselect.png?",日テレNEWSセレクト グルメや生活情報、ニュース解説満載！
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_54" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews_02.png?",オリコンニュース
 http://127.0.0.1/
@@ -249,8 +252,6 @@ http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_102" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_qvc.png?",QVC
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_112" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_gstv.png?",GSTV（宝石専門ch）
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="rch_109" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_sumo.png?",大相撲ロンドン公演inロイヤル・アルバート・ホール（生中継＆リピート）
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_89" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_top-barca.png?",TOP BARÇA
 http://127.0.0.1/
@@ -280,7 +281,11 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_30" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png?",鉄道・旅
 http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="rch_114" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png?",九州・沖縄　街ネタ
+http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_86" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png?",ワンニャンチャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="rch_113" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png?",ぷれいば！ ～ゲーム専門チャンネル～
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_46" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png?",釣り
 http://127.0.0.1/
@@ -340,9 +345,9 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="special-plus-7" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png?",アニメSPECIALチャンネル
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="jumpfesta" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/jumpfesta/logo.png?",ジャンプフェスタチャンネル
-http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="isekai-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png?",異世界・ファンタジーアニメチャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="anime-live" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png?",アニメLIVEチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="isekai-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-2/logo.png?",異世界・ファンタジーアニメ2チャンネル
 http://127.0.0.1/
@@ -354,13 +359,15 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="late-night-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/late-night-anime/logo.png?",深夜アニメチャンネル
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="anime-live" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png?",アニメLIVEチャンネル
+#EXTINF:-1 group-title="" tvg-id="chibimaruko" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chibimaruko/logo.png?",ちびまる子ちゃんチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png?",あたしンちチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="pokemon-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png?",アニメ ポケットモンスターチャンネル1
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="pokemon-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png?",アニメ ポケットモンスターチャンネル2
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="onepiece" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/onepiece/logo.png?",ONE PIECEチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="family-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png?",ファミリーアニメ
 http://127.0.0.1/
@@ -389,8 +396,6 @@ http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png?",ドラマ映画チャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png?",ドラマ映画チャンネル2
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="drama-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/drama-3/logo.png?",ドラマ映画チャンネル3
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="mahjong" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png?",麻雀チャンネル
 http://127.0.0.1/
