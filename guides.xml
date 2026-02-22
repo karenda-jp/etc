@@ -597,20 +597,20 @@
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png"/>
   </channel>
   <channel id="rch_104">
-    <display-name lang="ja">NOW 70s</display-name>
-    <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_now70s.png"/>
+    <display-name lang="ja">that’s 70s</display-name>
+    <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_thats_70s.png"/>
   </channel>
   <channel id="rch_105">
-    <display-name lang="ja">NOW 80s</display-name>
-    <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/228_now80s.png"/>
+    <display-name lang="ja">that’s 80s</display-name>
+    <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/228_thats_80s.png"/>
   </channel>
   <channel id="rch_106">
-    <display-name lang="ja">NOW 90s00s</display-name>
-    <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/229_now90s00s.png"/>
+    <display-name lang="ja">that’s 90s00s</display-name>
+    <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/229_thats_90s00s.png"/>
   </channel>
   <channel id="rch_107">
-    <display-name lang="ja">NOW ROCK</display-name>
-    <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/230_nowrock.png"/>
+    <display-name lang="ja">that’s Rock</display-name>
+    <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/230_thats_rock.png"/>
   </channel>
   <channel id="rch_85">
     <display-name lang="ja">演歌・歌謡</display-name>
@@ -119396,7 +119396,7 @@
   </programme>
   <programme start="20260222205600 +0900" stop="20260222221500 +0900" channel="tver_ex">
     <title lang="ja">有働Times</title>
-    <desc lang="ja">日曜夜、有働由美子が視聴者をおもてなし！ニュースのナゼを独自視点で徹底深掘り▽千々岩官邸キャップ解説▽週末スポーツを超速報！▽片岡信和“ピアノ弾き語り天気”</desc>
+    <desc lang="ja">５月並み暖かさの三連休‥異例少雨で断水恐れも▽トランプ関税にＮО！違憲判決で世界に影響は▽フィギュア王者が集結▽有働が侍Ｊ合宿を直撃‥監督明かす“大谷の後ろ”</desc>
   </programme>
   <programme start="20260222221500 +0900" stop="20260223215400 +0900" channel="tver_ex">
     <title lang="ja">50分間の恋人</title>
@@ -119452,7 +119452,7 @@
   </programme>
   <programme start="20260222190000 +0900" stop="20260222210000 +0900" channel="tver_tbs">
     <title lang="ja">坂上&amp;指原のつぶれない店</title>
-    <desc lang="ja">ロピア・オーケー・トライアル西友！スーパー超激戦区SP</desc>
+    <desc lang="ja">ロピア・オーケー・トライアル西友！激戦を同時定点調査!?</desc>
   </programme>
   <programme start="20260222210000 +0900" stop="20260222215400 +0900" channel="tver_tbs">
     <title lang="ja">リブート</title>
@@ -119512,7 +119512,7 @@
   </programme>
   <programme start="20260224190000 +0900" stop="20260224205500 +0900" channel="tver_tbs">
     <title lang="ja">バナナサンド</title>
-    <desc lang="ja">バナナサンド☆Snow Man佐久間・椎名桔平★グルメ対決＆JO1ハモリ我慢！</desc>
+    <desc lang="ja">Snow Man佐久間・椎名桔平★グルメ対決＆JO1ハモリ我慢！</desc>
   </programme>
   <programme start="20260224205500 +0900" stop="20260224220000 +0900" channel="tver_tbs">
     <title lang="ja">マツコの知らない世界</title>
@@ -119564,7 +119564,7 @@
   </programme>
   <programme start="20260226190000 +0900" stop="20260226214000 +0900" channel="tver_tbs">
     <title lang="ja">ニンゲン観察バラエティ モニタリング</title>
-    <desc lang="ja">ニンゲン観察モニタリングSP★今年一番面白かったVTRは？モニタリング大賞</desc>
+    <desc lang="ja">今年一番面白かったVTRは？モニタリング大賞</desc>
   </programme>
   <programme start="20260226214000 +0900" stop="20260226230000 +0900" channel="tver_tbs">
     <title lang="ja">櫻井･有吉THE夜会</title>
@@ -120949,13 +120949,21 @@
     <title lang="ja">３０代で孫がいる女性を調査</title>
     <desc lang="ja">若くして妊娠・出産を経験した女性の子どもがさらに若くして妊娠・出産を経験…そうして誕生する「３０代で孫がいる女性」の家族を小森純が徹底調査</desc>
   </programme>
-  <programme start="20260222200000 +0900" stop="20260222210000 +0900" channel="abema-special">
+  <programme start="20260222200000 +0900" stop="20260222205700 +0900" channel="abema-special">
     <title lang="ja">ななにー 地下ABEMA #107 ギャルマインド降臨！？イケイケ女社長SP</title>
     <desc lang="ja">伝説的アイドルグループBisの元メンバーがアイドルをやりながら社長も驚くべき戦略とは？年商４０億女性社長海外向けのアイデアサブスクその中身とは？大手企業の会議にギャルを送り込むギャル式ブレストってなに？</desc>
   </programme>
-  <programme start="20260222210000 +0900" stop="20260222230000 +0900" channel="abema-special">
+  <programme start="20260222205700 +0900" stop="20260222210000 +0900" channel="abema-special">
+    <title lang="ja">ダイキン空気予報 2/22</title>
+    <desc lang="ja">人々の生活をよりよくする空気をお届けしたい。そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！【提供】ダイキン工業</desc>
+  </programme>
+  <programme start="20260222210000 +0900" stop="20260222225700 +0900" channel="abema-special">
     <title lang="ja">秘密のママ園#4: 整形費2000万円！美魔女ママ&amp;可愛いすぎる鳶職人ママの涙</title>
     <desc lang="ja">建前爆破！本音を語る、ママによる、ママのための、情報バラエティ！「のぞき見！隣のママ」建設業社長！かわいすぎるママが登場！「仕事のために体重増量」、「女のくせに」と言われながらもママと仕事を頑張る理由に、峯岸みなみ思わず涙。「ママも、恋していいですか？」このまま終わりたくない…。元暴走族総長シンママが涙。四角関係に終止符が打たれる。カップル成立にタキマキ、大感動&amp;大絶賛！「絶対に言えない”ここだけの内緒話”」妊娠中に夫から言われたありえない一言から整形を決意。整形費用2000万円！奇跡の49歳ママが整形にハマった理由とは？その美貌にMC全員驚愕！「秘密の匿名アフタヌーンティー」離婚を考えているが専業主婦だから決断できない。タキマキ「離婚がよぎった事は一瞬もない」今泉佑唯が離婚届を取りに行った時の心境を語る。子育てマニアが教える究極の答え！「ママママ・マニア」「子ども乗せ電動アシスト自転車試乗した回数」日本一のマニアさんが登場！イモトアヤコも愛用！キーレス機能を体験、MC陣感動！「もうこれじゃない？」</desc>
+  </programme>
+  <programme start="20260222225700 +0900" stop="20260222230000 +0900" channel="abema-special">
+    <title lang="ja">ダイキン空気予報 2/22</title>
+    <desc lang="ja">人々の生活をよりよくする空気をお届けしたい。そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！【提供】ダイキン工業</desc>
   </programme>
   <programme start="20260222230000 +0900" stop="20260223000000 +0900" channel="abema-special">
     <title lang="ja">チャンスの時間 #350〜名言か迷言か!?怪しすぎる求道者&amp;禁断キスBar潜入</title>
@@ -121273,9 +121281,13 @@
     <title lang="ja">恋髪オーディション #1~3</title>
     <desc lang="ja">◾️恋髪オーディションとは◾️得意なスタイルで「女性史上最高のベストヘア」を創り出し、女性の恋を髪から輝かせる“次世代のスター美容師”を発掘するオーディションプロジェクト。決勝の舞台は東京ガールズコレクション、優勝賞金は300万円！#恋髪オーディション SNS総再生数は5000万回超。オーディションは多種多様なカットモデルが登場し、サバイバル形式で行われる。◾️番組内容◾️櫻井優衣(FRUITS ZIPPER)、なえなの、本田紗来が初MCに挑戦！須賀健太の学生時代の甘酸っぱい恋の話から、櫻井優衣の初恋エピソードも！なえなの「ボブにしてからの方がモテた」と恋髪トークをぶっちゃける！さらに櫻井優衣の「過去一可愛い髪型」を大公開！＜1次審査＞SNSで「#恋髪オーディション」で投稿されたビフォーアフター写真や動画で審査。2次審査へ進めるのは24名。＜2次審査＞カットモデルは女子高生・2日間かけて「私史上最高ヘア」を創り出す。3次審査へ進めるのは12名。【協賛】株式会社ミルボン株式会社ネイリーEssentialMEMEME株式会社KINUJO</desc>
   </programme>
-  <programme start="20260222190000 +0900" stop="20260222221200 +0900" channel="special-plus">
+  <programme start="20260222190000 +0900" stop="20260222220900 +0900" channel="special-plus">
     <title lang="ja">「山本裕典、ホストになる。」新店舗編 全話一挙</title>
     <desc lang="ja">「山本裕典、ホストになる。」新章開幕大阪での奮闘を終え、歌舞伎町に戻ってきた山本はキャストの７割が新人未経験の新店舗で働くことに爆撃竜馬をはじめ強力な新ライバルといきなり衝突!?</desc>
+  </programme>
+  <programme start="20260222220900 +0900" stop="20260222221200 +0900" channel="special-plus">
+    <title lang="ja">ダイキン空気予報 2/22</title>
+    <desc lang="ja">人々の生活をよりよくする空気をお届けしたい。そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！【提供】ダイキン工業</desc>
   </programme>
   <programme start="20260222221200 +0900" stop="20260222224300 +0900" channel="special-plus">
     <title lang="ja">しくじり先生 #317 コンプラ上等!裸芸でしくじり!芸人vsサラブレッド!?</title>
@@ -121607,7 +121619,7 @@
   </programme>
   <programme start="20260222200000 +0900" stop="20260222210000 +0900" channel="abema-anime">
     <title lang="ja">「今からでも間に合う！TVアニメ『魔術師クノンは見えている』特番」</title>
-    <desc lang="ja">このたび「ABEMA」にて独占無料放送が決定した『今からでも間に合う！TVアニメ『魔術師クノンは見えている』特番』には、早見沙織（クノン・グリオン 役）、鬼頭明里（ミリカ・ヒューグリア 役）が出演。ハイライト映像とともにこれまでの物語を振り返るほか、今後の見どころについてもたっぷりとお届けいたします。</desc>
+    <desc lang="ja">このたび「ABEMA」にて独占無料放送が決定した『今からでも間に合う！TVアニメ『魔術師クノンは見えている』特番』には、早見沙織（クノン・グリオン 役）、鬼頭明里（ミリカ・ヒューグリア 役）が出演。ハイライト映像とともにこれまでの物語を振り返るほか、今後の見どころについてもたっぷりとお届けいたします。衣装協力：cuore*</desc>
   </programme>
   <programme start="20260222210000 +0900" stop="20260222213000 +0900" channel="abema-anime">
     <title lang="ja">正反対な君と僕 #7【最速配信】</title>
@@ -123957,9 +123969,13 @@
     <title lang="ja">映画クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん【無料ビデオ1週間】</title>
     <desc lang="ja">ある日、ギックリ腰を治しにマッサージに行ったとーちゃん。そしたら…なんと、ロボットになって帰ってきた！？ロボットになったひろしに戸惑うみさえと大喜びのしんのすけ。 美味しい料理を作ったり、家をピカピカにしたり、リモコン操作もできる“ロボとーちゃん”は、ちょー便利。しかしそれは、家庭での立場がすっかり弱くなってしまった日本の父親たちの復権をもくろむ、 父ゆれ同盟（父よ、勇気で立ち上がれ同盟）による巨大な陰謀だったのだ！ 正気を失った父親たちによる“父親革命”が勃発し、野原家も春日部も崩壊寸前！！その時、“ロボとーちゃん”がしんのすけと一緒に立ち上がる！！はたして、野原一家の、そしてロボひろしの運命は！？ 今、日本中の家族の愛が試される！</desc>
   </programme>
-  <programme start="20260222200000 +0900" stop="20260222215500 +0900" channel="family-anime-1">
+  <programme start="20260222200000 +0900" stop="20260222215200 +0900" channel="family-anime-1">
     <title lang="ja">映画クレヨンしんちゃん 電撃！ブタのヒヅメ大作戦【無料1週間】</title>
     <desc lang="ja">オラ、のはらしんのすけ５才。またまた地球の大ピンチだゾ！！　時は現代。世界征服をもくろむ秘密組織“ブタのヒヅメ”は、電子工学の天才・大袋博士とその助手アンジェラ小梅をだまし、恐ろしいコンピュータウィルスを作り出した。それを知った正義の秘密組織“ＳＭＬ”の一員、コードネーム〈お色気〉は、機械を動かすために必要なパスワードが入っているトランクを盗み、お台場の海に逃げ込んだ。彼女が救いを求めて転がり込んだ屋形船では、なぜかふたば幼稚園の先生としんのすけたち園児が、大宴会中だった！？　巨大飛行船を舞台に、“ＳＭＬ”の一員’お色気’と春日部防衛隊のみんなも地球の平和を守るために大活躍だゾ！父ちゃん、母ちゃんもひまわりを連れてオラたち救出のために立ち上がった！よ～し、おバカ・パワー全開だぁ！！</desc>
+  </programme>
+  <programme start="20260222215200 +0900" stop="20260222215500 +0900" channel="family-anime-1">
+    <title lang="ja">ダイキン空気予報 2/22</title>
+    <desc lang="ja">人々の生活をよりよくする空気をお届けしたい。そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！【提供】ダイキン工業</desc>
   </programme>
   <programme start="20260222215500 +0900" stop="20260222235000 +0900" channel="family-anime-1">
     <title lang="ja">映画クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん【無料ビデオ1週間】</title>
@@ -126849,9 +126865,13 @@
     <title lang="ja">UNIVERSE LEAGUE #4〜5</title>
     <desc lang="ja">新曲を巡る選手達の戦い!レギュラーチームは監督達の想いが詰まった新曲を守ることができるのか。それとも、ベンチチームが逆転勝利を果たすのか。生き残りをかけた対決の結果は果たして!?</desc>
   </programme>
-  <programme start="20260222182500 +0900" stop="20260222210000 +0900" channel="k-world">
+  <programme start="20260222182500 +0900" stop="20260222205700 +0900" channel="k-world">
     <title lang="ja">【無料独占】アイドルアイ #9～10(終)</title>
     <desc lang="ja">クム社長とウソンの通話内容が明らかになり、ウソンが他事務所との契約を進めていたことを知ったライクは、ウソンの悩みを見抜けなかったことにショックを受ける。セナはそんなライクに1日だけ“通行人”になることを提案する。</desc>
+  </programme>
+  <programme start="20260222205700 +0900" stop="20260222210000 +0900" channel="k-world">
+    <title lang="ja">ダイキン空気予報 2/22</title>
+    <desc lang="ja">人々の生活をよりよくする空気をお届けしたい。そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！【提供】ダイキン工業</desc>
   </programme>
   <programme start="20260222210000 +0900" stop="20260222232500 +0900" channel="k-world">
     <title lang="ja">Star is Born #5〜6</title>
@@ -128329,9 +128349,13 @@
     <title lang="ja">Princess of the year2026 セミファイナル2日目</title>
     <desc lang="ja">Mリーグルールに準拠した女流プロ雀士によるトーナメント#プリンセス2026 PRINCESS of the YEAR Semi Final Day2。約半年にわたる戦いを勝ち抜いてきた女流プロ8名。誰が決勝戦へ駒を進めるのか、注目の準決勝!</desc>
   </programme>
-  <programme start="20260222230000 +0900" stop="20260223000000 +0900" channel="mahjong">
+  <programme start="20260222230000 +0900" stop="20260222235700 +0900" channel="mahjong">
     <title lang="ja">Mリーグベストコレクション</title>
     <desc lang="ja">ほんの一握りのトッププロだけが出場できる、麻雀プロリーグ戦「M.LEAGUE(Mリーグ)」。数々の名対局を見せるトッププロ達の対局を厳選。「スカッとする一発ツモ」「想像もしない和了ルート」「ビタ止め」など、チーム別で視聴可能となっており、隙間視聴でもイッキ見でもお楽しみいただけます。</desc>
+  </programme>
+  <programme start="20260222235700 +0900" stop="20260223000000 +0900" channel="mahjong">
+    <title lang="ja">ダイキン空気予報 2/22</title>
+    <desc lang="ja">人々の生活をよりよくする空気をお届けしたい。そんな想いをコンセプトに、明日の天気と空気情報を毎日放送する天気予報番組。天気のことはもちろん、温度や湿度バランスから美容や集中度などにまつわる、お役立ち”空気”予報をお届けします！【提供】ダイキン工業</desc>
   </programme>
   <programme start="20260223000000 +0900" stop="20260223030400 +0900" channel="mahjong">
     <title lang="ja">第10回 女流モンド杯 #13,14</title>
