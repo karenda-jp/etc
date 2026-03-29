@@ -8,12 +8,17 @@
 # チャンネル/ライブ/動画の追加リクエスト等は受け付けておりません。
 # 常時監視していません。youtubeの仕様変更やプログラムのバグ等で、想定した動作と異なる場合があります。
 # 2025-07-15 youtube側に規制される時間帯は取得に失敗する様です。※BOT error. 数パターン在る様だ。
+# 2026-03-24 より強いBOT規制により取得の失敗率上昇
+# 一部再生アプリでカクつく現象はアプリ由来の現象につき、使用アプリを別の物へ変更してみて下さい。
 # ###########################################################################################################
 #EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/A8uRSTS.png",Weather News (Youtube)
 https://script.google.com/macros/s/AKfycbzLCeysr1gXlCUuIY_V1eRWaxx9aTfcXrNf5XQUQmH_IXhaBwnKsgY8CSgXRWEjWGwf/exec?f=0&p=azg4a081WkU3RUh2ZjloT0xYOEN0dGw5cTQwZlczM0I5cDl6WU54dFZxaz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/R7rYrH5.png",The Real-time Earthquake Alert (Youtube)
 https://script.google.com/macros/s/AKfycbzLCeysr1gXlCUuIY_V1eRWaxx9aTfcXrNf5XQUQmH_IXhaBwnKsgY8CSgXRWEjWGwf/exec?f=0&p=VXM1eTBLTmdQa2FxVVZjeDVpQmRpc2pzUzFnN1Bha1QrVGo0UEY1Ky9Udz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6M7Zwjb3jCaJBrEXEm9TVgcy9XktRc8vsUue1lVt9Zg=s160-c-k-c0x00ffffff-no-rj",JDQ―地震情報 (Youtube)
+https://script.google.com/macros/s/AKfycbzLCeysr1gXlCUuIY_V1eRWaxx9aTfcXrNf5XQUQmH_IXhaBwnKsgY8CSgXRWEjWGwf/exec?f=0&p=Zno1MU5rVHcrNkNKZ25uanRBZDlSb2VINVA2K2lnVlRSdWV4T2dXQkthcz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/l6O9viXT0NUEet41Y2IAjKvuTbULIaErR8UUppXhtNeW7r-Z7hgruiBOxoCJaSQMlbHv4Cii=s160-c-k-c0x00ffffff-no-rj",日テレNEWS (Youtube)
 https://script.google.com/macros/s/AKfycbzLCeysr1gXlCUuIY_V1eRWaxx9aTfcXrNf5XQUQmH_IXhaBwnKsgY8CSgXRWEjWGwf/exec?f=0&p=eUR1WVF1RTdhdm9lRkV6alBRYzZGcWpKYmZsTjlEeEtkSzRKT2JtWVo1MD0=
@@ -59,4 +64,3 @@ https://script.google.com/macros/s/AKfycbzLCeysr1gXlCUuIY_V1eRWaxx9aTfcXrNf5XQUQ
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video QUEENDOM / チキチキバンバン（TVアニメ「パリピ孔明」スペシャルMV）
 https://script.google.com/macros/s/AKfycbzLCeysr1gXlCUuIY_V1eRWaxx9aTfcXrNf5XQUQmH_IXhaBwnKsgY8CSgXRWEjWGwf/exec?f=2&p=YXZKTGFxRTBKdXFobWVmUXNaaWJlQT09
-
