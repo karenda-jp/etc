@@ -3,6 +3,7 @@
 
 
 
+
 #EXTINF:-1 group-title="" tvg-id="NHK東京・総合_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png?",NHK東京・総合
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="NHK東京・教育_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png?",NHK東京・教育
@@ -10,8 +11,6 @@ http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="テレビ神奈川_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E77-031-400x400.png?",テレビ神奈川
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="テレ玉_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E27-031-400x400.png?",テレ玉
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="TeNY_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E04-041-400x400.png?",TeNY
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="日本テレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png?",日本テレビ
 http://127.0.0.1/
@@ -63,7 +62,7 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="BS11-イレブン_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png?",BS11-イレブン
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="BS12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-203-400x400.png?",BS12トゥエルビ
+#EXTINF:-1 group-title="" tvg-id="BS12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png?",BS12トゥエルビ
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="ムービープラス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png?",ムービープラス
 http://127.0.0.1/
@@ -145,9 +144,9 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="WOWOWプラス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png?",WOWOWプラス
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="BS10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-110-400x400.png?",BS10
+#EXTINF:-1 group-title="" tvg-id="BS10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png?",BS10
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="BS10プレミアム_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png?",BS10プレミアム
+#EXTINF:-1 group-title="" tvg-id="BS10プレミアム_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png?",BS10プレミアム
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="MONDOTV_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png?",MONDOTV
 http://127.0.0.1/
@@ -187,17 +186,15 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="釣りビジョン_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png?",釣りビジョン
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="J-COM-BS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png?",J-COM-BS
+#EXTINF:-1 group-title="" tvg-id="J-COM-BS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png?",J-COM-BS
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="BSよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-179-400x400.png?",BSよしもと
+#EXTINF:-1 group-title="" tvg-id="BSよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png?",BSよしもと
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="スポーツライブ+_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png?",スポーツライブ+
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="エンタメ～テレ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-187-400x400.png?",エンタメ～テレ
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="FIGHTING-TV-サムライ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png?",FIGHTING-TV-サムライ
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="ダンスチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-105-400x400.png?",ダンスチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="NHKワールド-JAPAN_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-038-400x400.png?",NHKワールド-JAPAN
 http://127.0.0.1/
@@ -207,25 +204,25 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="ジュエリー☆GSTV_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-192-400x400.png?",ジュエリー☆GSTV
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="チャンネル銀河_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_664.gif?",チャンネル銀河
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="鉄道チャンネル_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_546.gif?",鉄道チャンネル
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="ミュージック・ジャパンTV_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_639.gif?",ミュージック・ジャパンTV
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="MUSIC-ON!-TV(エムオン!)_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_641.gif?",MUSIC-ON!-TV(エムオン!)
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="スーパー!ドラマTV_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_647.gif?",スーパー!ドラマTV
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="Pigoo_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_663.gif?",Pigoo
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="V-パラダイス_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_635.gif?",V-パラダイス
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="スカチャン-1_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_581.gif?",スカチャン-1
+#EXTINF:-1 group-title="" tvg-id="チャンネル銀河_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png?",チャンネル銀河
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="TOKYO・MX2_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png?",TOKYO・MX2
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="NHKワールド-PREMIUM_jp" tvg-logo="https://nhkworldpremium.com/img/common/logo.png?",NHKワールド-PREMIUM
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="Pigoo_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-663-75x75.png?",Pigoo
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="鉄道チャンネル_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-546-75x75.png?",鉄道チャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="ミュージック・ジャパンTV_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-639-75x75.png?",ミュージック・ジャパンTV
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="V-パラダイス_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-635-75x75.png?",V-パラダイス
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="MUSIC-ON!-TV(エムオン!)_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-641-75x75.png?",MUSIC-ON!-TV(エムオン!)
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="スーパー!ドラマTV_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-647-75x75.png?",スーパー!ドラマTV
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="スカチャン-1_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_801.gif?",スカチャン-1
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png?",日テレNEWS
 http://127.0.0.1/
@@ -251,7 +248,7 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_90" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png?",[英語]ユーロニュース
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="rch_102" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_qvc.png?",QVC
+#EXTINF:-1 group-title="" tvg-id="rch_102" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_qvc-02.png?",QVC
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_112" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_gstv.png?",GSTV（宝石専門ch）
 http://127.0.0.1/
@@ -349,7 +346,17 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="anime-special-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png?",アニメSPECIAL2チャンネル
 http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="animejapan-red" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/animejapan-red/logo.png?",AnimeJapan REDステージチャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="animejapan-green" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/animejapan-green/logo.png?",AnimeJapan GREENステージチャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="animejapan-blue" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/animejapan-blue/logo.png?",AnimeJapan BLUEステージチャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="animejapan-white" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/animejapan-white/logo.png?",AnimeJapan WHITEステージチャンネル
+http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="anime-live" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png?",アニメLIVEチャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="anime-live2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png?",アニメLIVEチャンネル2
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="chibimaruko" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chibimaruko/logo.png?",ちびまる子ちゃんチャンネル
 http://127.0.0.1/
@@ -379,7 +386,7 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="dailylife-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/dailylife-anime/logo.png?",日常・青春アニメチャンネル
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="gintama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/gintama/logo.png?",銀魂チャンネル
+#EXTINF:-1 group-title="" tvg-id="bo-bobo" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/bo-bobo/logo.png?",ボボボーボ・ボーボボチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="late-night-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/late-night-anime/logo.png?",深夜アニメチャンネル
 http://127.0.0.1/
@@ -413,9 +420,11 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="shogi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png?",将棋チャンネル
 http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="mahjong-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png?",麻雀チャンネル2
+http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="world-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png?",SPORTSチャンネル
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png?",MOTOR SPORTチャンネル
+#EXTINF:-1 group-title="" tvg-id="world-sports-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png?",SPORTS LIVE1 チャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png?",格闘チャンネル
 http://127.0.0.1/
@@ -423,43 +432,41 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png?",CMチャンネル
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="boatrace" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png?",BOATRACEチャンネル
-http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?",競輪・オートレースチャンネル
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_healt" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/healt/channel_logo?",《v2》ウェルネスチャンネル
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_busns" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo?",《v2》ビジネス・プレミアムチャンネル
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_pett1" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo?",《v2》ペットTV
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_samri" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo?",《v2》時代劇TV（Powered by 時代劇専門チャンネル）
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_bgolf" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo?",《v2》GOLF LIFE
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_jpthp" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo?",《v2》ぴあ落語ざんまい
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_entns" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo?",《v2》エンタメニュース POWERED BY ORICON NEWS
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_comdy" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo?",《v2》Lemino TV
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="fastch_v2_entmt" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entmt/channel_logo?",《v2》とりあえず
 http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_healt" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/healt/channel_logo?",《v2》ウェルネスチャンネル
+http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="fastch_v2_kids" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo?",《v2》キッズステーションEX
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_snyon" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo?",《v2》FASHION+
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_cokng" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/cokng/channel_logo?",《v2》つまみ堂
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_krdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo?",《v2》韓流チャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_recip" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo?",《v2》観るたび PRODUCED by るるぶ
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="fastch_v2_travl" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo?",《v2》今日のごはん なに？
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="fastch_v2_camng" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo?",《v2》キャンプ・アウトドアチャンネルPowered byハピキャン
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_cokng" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/cokng/channel_logo?",《v2》つまみ堂
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_samri" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo?",《v2》時代劇TV（Powered by 時代劇専門チャンネル）
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_busns" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo?",《v2》ビジネス・プレミアムチャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_pett1" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo?",《v2》ペットTV
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_snyon" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo?",《v2》FASHION+
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_bgolf" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo?",《v2》GOLF LIFE
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_entns" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo?",《v2》エンタメニュース POWERED BY ORICON NEWS
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="fastch_v2_asdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo?",《v2》エンタメ・アジアFree
 http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_comdy" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo?",《v2》Lemino TV
+http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="fastch_v2_news1" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo?",《v2》丸ごと九州ch
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_recip" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo?",《v2》観るたび PRODUCED by るるぶ
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="fastch_v2_krdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo?",《v2》韓流チャンネル
+#EXTINF:-1 group-title="" tvg-id="fastch_v2_jpthp" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo?",《v2》ぴあ落語ざんまい
 http://127.0.0.1/
