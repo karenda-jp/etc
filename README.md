@@ -48,7 +48,7 @@ EPGの取得・結合・UPが地味にメンドクサイんですよね。。
 ### 日付をまたぐ一挙放送等で表示されなかったり。 ｱﾌﾟﾘの挙動は人それぞれです。
 ### Tver-EPG 直ったと思います（願望）
 #### 当方の主なデータ収集先　　　↓　全データの約9割＝j-comな件
- 「[J:COM](https://tvguide.myjcom/)」DT,BS,CS,BS4K,CSP、 「[docomo](https://www.hikaritv.net/tv/schedule/)」CSP、<br />
+ 「[J:COM](https://tvguide.myjcom.jp/)」DT,BS,CS,BS4K,CSP、 「[docomo](https://www.hikaritv.net/tv/schedule/)」CSP、<br />
  「[IPG](https://bangumi.org/)」DT,BS,CS,BS4K,CSP、  「[スカパー](https://bangumi.org/)」BS,CS,CSP、<br />
  「[TVer](https://tver.jp/program/)」Tver、DT、BS、「[Rch](https://channel.rakuten.co.jp/)」Rch、　など他多数 <br />
 <br />
