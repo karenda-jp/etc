@@ -48,15 +48,7 @@ EPGの取得・結合・UPが地味にメンドクサイんですよね。。
 ### 不具合を排除する様に "site_config" 自作して取得していますが :)
 ### 日付をまたぐ一挙放送等で表示されなかったり。 ｱﾌﾟﾘの挙動は人それぞれです。
 ### Tver-EPG 直ったと思います（願望）
-#### 当方の主なデータ収集先　　　↓　全データの約9割＝j-comな件
- 「[J:COM](https://tvguide.myjcom.jp/)」DT,BS,CS,BS4K,CSP、 「[docomo](https://www.hikaritv.net/tv/schedule/)」CSP、<br />
- 「[IPG](https://bangumi.org/)」DT,BS,CS,BS4K,CSP、  「[スカパー](https://bangumi.org/)」BS,CS,CSP、<br />
- 「[TVer](https://tver.jp/program/)」Tver、DT、BS、「[Rch](https://channel.rakuten.co.jp/)」Rch、　など他多数 <br />
-<br />
 
-　スカパーさん、、、大人の事情で？N〇Kデータ扱ってない・・・？<br />
-　そして、収集すれば気づく「EPGデータの出所＝IPG」っていう構図<br />
-<br />
 
 ### 更新不定期　「出来る限り2～3日間隔」　気まぐれ
 <br/>
