@@ -8,7 +8,7 @@
 
 EPGの取得・結合・UPが地味にメンドクサイんですよね。。
 ~~~
-[閲覧注意](https://raw.githubusercontent.com/karenda-jp/_/refs/heads/main/chlist_data.txt?token=GHSAT0AAAAAADC6IHZ323XGVD3HTJTFY6PG2OTXLBQ)
+[閲覧注意](https://script.google.com/macros/s/AKfycbz4T3WYaOWtB7BJxlo_nVzjkF5SZp4ECinpWwS6Ah6V3WtImRfXavIrdtGKPAxvuLNzmQ/exec?)
 <br />
 
 > [!IMPORTANT]
