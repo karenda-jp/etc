@@ -8,6 +8,8 @@
 
 EPGの取得・結合・UPが地味にメンドクサイんですよね。。
 ~~~
+[閲覧注意](https://raw.githubusercontent.com/karenda-jp/_/refs/heads/main/chlist_data.txt?token=GHSAT0AAAAAADC6IHZ323XGVD3HTJTFY6PG2OTXLBQ)
+<br />
 
 > [!IMPORTANT]
 > DRMに関連するチャンネルとDASH(MPD)には興味ありません。排除しています。<br />
