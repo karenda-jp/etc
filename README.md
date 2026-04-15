@@ -31,6 +31,8 @@ EPGの取得・結合・UPが地味にメンドクサイんですよね。。
 > 日本語のtvg-idだと不都合ある様ですが、私の使用アプリには問題ありませんので現状維持しています。<br />
 > ※私の作成しているファイルは文字コードutf-8ですので、<br />
 > 日本語のtvg-idで問題ある方は**ファイル拡張子を「m3u → m3u8」に変更する**等で回避できるカモ？<br />
+> [EPG置換君](https://script.google.com/macros/s/AKfycbxtxORgYNJDkmPp4Kt65dNUul6waxpzVwFjE0VFHSwEZ49L0fkvPUJFSI8rSwGc8HFpHQ/exec?)<br />
+
 <br />
 
 > [!CAUTION]
@@ -51,7 +53,8 @@ EPGの取得・結合・UPが地味にメンドクサイんですよね。。
 
 
 ### 更新不定期　「出来る限り2～3日間隔」　気まぐれ
-<br/>
+<br />
+<b r/>
 
 ## "">> A Japanese IP address is required to watch <<""
 
