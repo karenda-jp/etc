@@ -1,3 +1,4 @@
+
 ## 自分が使う用にEPGファイル等を作って置いてます！
 ### "jp-rakuten rch" & "jp-abematv" & "jp-iptv(test)" & "jp-tver" MIX 　guides.xml
 **更新不定期　「出来る限り2～3日間隔」　気まぐれ 注意！** <br />
@@ -55,7 +56,7 @@ EPGの取得・結合・UPが地味にメンドクサイんですよね。。
 > 日本語のtvg-idだと不都合ある様ですが、私の使用アプリには問題ありませんので現状維持しています。<br />
 > ※私の作成しているファイルは文字コードutf-8ですので、<br />
 > 日本語のtvg-idで問題ある方は**ファイル拡張子を「m3u → m3u8」に変更する**等で回避できるカモ？<br />
-> [EPG置換君](https://script.google.com/macros/s/AKfycbz0bjqGlzeLFoi1qIndLdu7eJk5HMyPsXmmWyAppts17OJ9dcMqaLCNKRwPp2Jk-kUmFQ/exec?)<br />
+> [EPG置換君](https://script.google.com/macros/s/AKfycbwSKBtqUIxFb8iMmElw6izbpnIqJCMbUvMoMSBfcvCaTl9IYnQl9tOX9os7cpmfTZ_n9A/exec?)<br />
 
 <br />
 
