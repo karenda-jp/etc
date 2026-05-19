@@ -11,68 +11,61 @@
 # 2026-03-24 より強いBOT規制により取得の失敗率上昇
 # 2026-04-06 ほぼ毎日、youtubeはBOT規制を変化させており、映らなければ諦めて下さい。
 #            全力「cURLでアクセスするBOT」なのであ～～る（＾＾；
+# 2026-05-19 Liveモードのみ復旧　動画再生モードはどれだけ試行錯誤してもダメ。削除しました。（－－；
+# 
 # 一部再生アプリでカクつく現象はアプリ由来の現象につき、使用アプリを別の物へ変更してみて下さい。
 # 
 # 注意：実際に映像が映るまでに約10秒ほど掛かる場合がございます。
 # 
 # ###########################################################################################################
 #EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/A8uRSTS.png",Weather News (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=azg4a081WkU3RUh2ZjloT0xYOEN0dGw5cTQwZlczM0I5cDl6WU54dFZxaz0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=azg4a081WkU3RUh2ZjloT0xYOEN0dGw5cTQwZlczM0I5cDl6WU54dFZxaz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/R7rYrH5.png",The Real-time Earthquake Alert (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=VXM1eTBLTmdQa2FxVVZjeDVpQmRpc2pzUzFnN1Bha1QrVGo0UEY1Ky9Udz0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=VXM1eTBLTmdQa2FxVVZjeDVpQmRpc2pzUzFnN1Bha1QrVGo0UEY1Ky9Udz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6M7Zwjb3jCaJBrEXEm9TVgcy9XktRc8vsUue1lVt9Zg=s160-c-k-c0x00ffffff-no-rj",JDQ―地震情報 (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=Zno1MU5rVHcrNkNKZ25uanRBZDlSb2VINVA2K2lnVlRSdWV4T2dXQkthcz0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=Zno1MU5rVHcrNkNKZ25uanRBZDlSb2VINVA2K2lnVlRSdWV4T2dXQkthcz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m9YDtPWqgZW91_-QTdsVWLbnR0ZQ1BaHX38ZcSRVGnfd0=s160-c-k-c0x00ffffff-no-rj",NHK WORLD-JAPAN (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=VDVGYklnQTZhU081Z3ZUK0F6aHlCK1BiZC9PVEtXdDlrUGlJZk5PcG9QMD0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=VDVGYklnQTZhU081Z3ZUK0F6aHlCK1BiZC9PVEtXdDlrUGlJZk5PcG9QMD0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/l6O9viXT0NUEet41Y2IAjKvuTbULIaErR8UUppXhtNeW7r-Z7hgruiBOxoCJaSQMlbHv4Cii=s160-c-k-c0x00ffffff-no-rj",日テレNEWS (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=eUR1WVF1RTdhdm9lRkV6alBRYzZGcWpKYmZsTjlEeEtkSzRKT2JtWVo1MD0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=eUR1WVF1RTdhdm9lRkV6alBRYzZGcWpKYmZsTjlEeEtkSzRKT2JtWVo1MD0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/E-A54dDrjqIAfIqwdEGPolaKeVj-jW4kEQR-M6BMR-hiBtw1DhwM_kXGT-4uezIq0-ioeoElZg=s160-c-k-c0x00ffffff-no-rj",TBS NEWS DIG (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=NysxekVKY3lKRDc3c3JFQWFnMGY1bEJBZ3R6RjNPUmgyVjhvWjBINVJRbz0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=NysxekVKY3lKRDc3c3JFQWFnMGY1bEJBZ3R6RjNPUmgyVjhvWjBINVJRbz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kcbf1NEt1_bXqZY0oSj-CXYDjANZmcw8k3rfqhobwVmo4=s160-c-k-c0x00ffffff-no-rj",FNNプライムオンライン (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=WEw4Z0I1VW93MGJSNXZYN0gyU0YvUXJrUWQ2K1R5MStMRjNaK1lnWHJKZz0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=WEw4Z0I1VW93MGJSNXZYN0gyU0YvUXJrUWQ2K1R5MStMRjNaK1lnWHJKZz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/yqUItvM.png",HTB北海道テレビNEWS (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=VktrUVBFK05MRFpUbkVUMGljak80R2tHeHRjbWRsVDd1TUM0aEhJQjZ0bz0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=VktrUVBFK05MRFpUbkVUMGljak80R2tHeHRjbWRsVDd1TUM0aEhJQjZ0bz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg",STV札幌テレビ放送NEWS  (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=aUZSWmNxS0tBeGdHT0RoTkUreEdQUkJqRXFzT2phSEN0K2dMUzRKRlNuZz0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=aUZSWmNxS0tBeGdHT0RoTkUreEdQUkJqRXFzT2phSEN0K2dMUzRKRlNuZz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/Ty4ejcEAZzuQZ7rplYaVGkISkcPdQyFFJWRxr9gp9fwzkF5EByonQTW1aM4bnTl2I_ZkXFtBpw=s160-c-k-c0x00ffffff-no-rj",ABC朝日放送テレビNEWS (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=ZFd3bVJKNUFFOUN1NTJKNEVRd1FmKzhabVJSR2IxSDlIQ0tCWVdzTXRNWT0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=ZFd3bVJKNUFFOUN1NTJKNEVRd1FmKzhabVJSR2IxSDlIQ0tCWVdzTXRNWT0=
 
 #EXTINF:-1group-title="youtube" tvg-logo="https://i.imgur.com/JBkXyvj.jpg",TOSテレビ大分 NEWS (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=WTI3SG42U3RCVmtYeXJ2UU1zVGh1ZkZwRUxQYUpibXE1WmhobS9INk5oYz0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=WTI3SG42U3RCVmtYeXJ2UU1zVGh1ZkZwRUxQYUpibXE1WmhobS9INk5oYz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s176-c-k-c0x00ffffff-no-rj-mo",ANN JapaNews24 (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=1&p=em9rUnczbFFQeHl5OUFXZkQ2RXNGUT09
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=1&p=em9rUnczbFFQeHl5OUFXZkQ2RXNGUT09
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/r4tXuxECbmc47zQvoO414UgVL0oZ_xBg8Es5nypM-agBrpvfyzFISsoK2Km-AMorSD_Hx9kbiw=s160-c-k-c0x00ffffff-no-rj",メ～テレ NEWS LIVE 24 (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=1&p=VTkvVGpqV1hlb1BEZ1NUMmdMbXJTdz09
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=1&p=VTkvVGpqV1hlb1BEZ1NUMmdMbXJTdz09
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s160-c-k-c0x00ffffff-no-rj",avex 24/7 Music Live (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=Sm9Gb1NBeE9DdDNlZ3dYdk14eDhickM4T2JUUjlBMDBDayt0a0VnQkFuRT0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=Sm9Gb1NBeE9DdDNlZ3dYdk14eDhickM4T2JUUjlBMDBDayt0a0VnQkFuRT0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/qNVsml2wAFCR4mKTjuRWavEziCjytk-bjpsqlkB_gjyLWxddsu5dXIlGbD4Eec1fQqSdDSEv=s160-c-k-c0x00ffffff-no-rj",アニソン24時間365日ラジオ｜Anileap (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=WnAwOE5CMEJ4UzA2T1J3dHBiNkhtNlJRZlFjdFFXZTN1N0l6aXdpS3pRZz0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=WnAwOE5CMEJ4UzA2T1J3dHBiNkhtNlJRZlFjdFFXZTN1N0l6aXdpS3pRZz0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/8hySIA7Ed6amMiAHJVNsG9oph0zoSlCAffYTmINH3gXJ8vvcToB_xh7uIlKSHA9fBEae3e_yl6I=s160-c-k-c0x00ffffff-no-rj",GB News Live (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=REE4Z205RzdRSy9RakhHeEtrMDBpcnJYSGp5WEpvclAreEp2U0pIOGtlWT0=
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=REE4Z205RzdRSy9RakhHeEtrMDBpcnJYSGp5WEpvclAreEp2U0pIOGtlWT0=
 
 #EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.ggpht.com/wuh-Cv0PLVg7N6on8SS_P8s81Gc_35F5_qQwr1shcSzbqmNP432vcO-kp9ri4IrCgysLtEkuzA=s48-c-k-c0x00ffffff-no-rj",World Poker Tour (Youtube)
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=0&p=Smdya0FLOEN3c0Nwdm9oKzJYbEdVbHNvTkQvYzlaNkhid2s2NWMxOTROQT0=
-
-#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video すずめ － 十明 (Suzume OST) / BML2023 Shanghai
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=2&p=TUhXZFppSTBtbUNtbmhzaXBnRTBlZz09
-
-#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video 水樹奈々 x 日笠陽子 － 不死鳥のフランメ
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=2&p=MEJ5WlNDVWtDemx6UzVvV1dRLzlpUT09
-
-#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video QUEENDOM / チキチキバンバン（TVアニメ「パリピ孔明」スペシャルMV）
-https://script.google.com/macros/s/AKfycbxwauc07XF-HwURWClOaBMwnCTMnXI8TxeiUz-eDJoBoDzmScHIZwpmmgF--KrVySw/exec?f=2&p=YXZKTGFxRTBKdXFobWVmUXNaaWJlQT09
+https://script.google.com/macros/s/AKfycbzKPmvVr6dx4OawxJxAUqNgZcfmXRt08Mfeybb3djyBLXISfZhIymUQ2nfPVsHaKdMh/exec?f=0&p=Smdya0FLOEN3c0Nwdm9oKzJYbEdVbHNvTkQvYzlaNkhid2s2NWMxOTROQT0=
 
