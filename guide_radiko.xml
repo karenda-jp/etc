@@ -7602,7 +7602,7 @@
   </programme>
   <programme start="20260527113000 +0900" stop="20260527115500 +0900" channel="radio_FMI">
     <title lang="ja">ブルボン presents Shining Star</title>
-    <desc lang="ja">吉田明世</desc>
+    <desc lang="ja">吉田明世 ゲスト: 高柳明音</desc>
     <icon src="https://program-static.cf.radiko.jp/px5liwh4ik.jpg"/>
   </programme>
   <programme start="20260527115500 +0900" stop="20260527120000 +0900" channel="radio_FMI">
@@ -9336,7 +9336,7 @@
   </programme>
   <programme start="20260525123000 +0900" stop="20260525125500 +0900" channel="radio_DATEFM">
     <title lang="ja">ブルボン presents Shining Star</title>
-    <desc lang="ja">吉田明世</desc>
+    <desc lang="ja">吉田明世 ゲスト: 高柳明音</desc>
     <icon src="https://program-static.cf.radiko.jp/07un50p3q4.jpg"/>
   </programme>
   <programme start="20260525125500 +0900" stop="20260525130000 +0900" channel="radio_DATEFM">
@@ -14565,7 +14565,7 @@
   </programme>
   <programme start="20260525113000 +0900" stop="20260525115500 +0900" channel="radio_RFM">
     <title lang="ja">ブルボン presents Shining Star</title>
-    <desc lang="ja">吉田明世</desc>
+    <desc lang="ja">吉田明世 ゲスト: 高柳明音</desc>
     <icon src="https://program-static.cf.radiko.jp/s44mi62ncc.jpg"/>
   </programme>
   <programme start="20260525115500 +0900" stop="20260525120000 +0900" channel="radio_RFM">
@@ -16894,7 +16894,7 @@
   </programme>
   <programme start="20260527133000 +0900" stop="20260527140000 +0900" channel="radio_FMF">
     <title lang="ja">ブルボン presents Shining Star</title>
-    <desc lang="ja">吉田明世</desc>
+    <desc lang="ja">吉田明世 ゲスト: 高柳明音</desc>
     <icon src="https://program-static.cf.radiko.jp/iznz7y9ous.jpg"/>
   </programme>
   <programme start="20260527140000 +0900" stop="20260527160000 +0900" channel="radio_FMF">
@@ -23030,7 +23030,7 @@
   </programme>
   <programme start="20260526213000 +0900" stop="20260526215000 +0900" channel="radio_LFR">
     <title lang="ja">永島優美 美味しい寄り道</title>
-    <desc lang="ja">永島優美</desc>
+    <desc lang="ja">永島優美　ゲスト：潮田玲子</desc>
     <icon src="https://program-static.cf.radiko.jp/4pr2jne5km.jpg"/>
   </programme>
   <programme start="20260526215000 +0900" stop="20260526215700 +0900" channel="radio_LFR">
@@ -28332,12 +28332,12 @@
     <desc lang="ja">久保孝真（三拍子）,滝島 杏,小笠原聖,加藤暁</desc>
     <icon src="https://program-static.cf.radiko.jp/ynwq3yq8yl.png"/>
   </programme>
-  <programme start="20260524150000 +0900" stop="20260524160000 +0900" channel="radio_NACK5">
+  <programme start="20260524150000 +0900" stop="20260524165500 +0900" channel="radio_NACK5">
     <title lang="ja">SUNDAY LIONS Part2</title>
     <desc lang="ja">久保孝真（三拍子）,滝島 杏,小笠原聖,加藤暁</desc>
     <icon src="https://program-static.cf.radiko.jp/ynwq3yq8yl.png"/>
   </programme>
-  <programme start="20260524160000 +0900" stop="20260524170000 +0900" channel="radio_NACK5">
+  <programme start="20260524165500 +0900" stop="20260524170000 +0900" channel="radio_NACK5">
     <title lang="ja">カメレオンパーティー Part1</title>
     <desc lang="ja">土屋礼央,佐々木もよこ</desc>
     <icon src="https://program-static.cf.radiko.jp/c47mfca3ul.jpg"/>
@@ -28498,9 +28498,9 @@
     <icon src="https://program-static.cf.radiko.jp/famyep5qxp.jpg"/>
   </programme>
   <programme start="20260525230000 +0900" stop="20260525233000 +0900" channel="radio_NACK5">
-    <title lang="ja">ALL The Feels</title>
+    <title lang="ja">ALL The Feels（IS:SUE）</title>
     <desc lang="ja">週替わりパーソナリティー</desc>
-    <icon src="https://program-static.cf.radiko.jp/067ym3a39j.png"/>
+    <icon src="https://program-static.cf.radiko.jp/g26wydqsag.png"/>
   </programme>
   <programme start="20260525233000 +0900" stop="20260526000000 +0900" channel="radio_NACK5">
     <title lang="ja">前田亘輝YOU達HAPPY</title>
@@ -28633,9 +28633,9 @@
     <icon src="https://program-static.cf.radiko.jp/no42qdwh2a.jpg"/>
   </programme>
   <programme start="20260526230000 +0900" stop="20260526233000 +0900" channel="radio_NACK5">
-    <title lang="ja">ALL The Feels</title>
+    <title lang="ja">ALL The Feels（IS:SUE）</title>
     <desc lang="ja">週替わりパーソナリティー</desc>
-    <icon src="https://program-static.cf.radiko.jp/067ym3a39j.png"/>
+    <icon src="https://program-static.cf.radiko.jp/g26wydqsag.png"/>
   </programme>
   <programme start="20260526233000 +0900" stop="20260527000000 +0900" channel="radio_NACK5">
     <title lang="ja">FANTASTICS 佐藤大樹のぼっちマイク</title>
@@ -28773,9 +28773,9 @@
     <icon src="https://program-static.cf.radiko.jp/6tug4u6rgc.jpg"/>
   </programme>
   <programme start="20260527230000 +0900" stop="20260527233000 +0900" channel="radio_NACK5">
-    <title lang="ja">ALL The Feels</title>
+    <title lang="ja">ALL The Feels（IS:SUE）</title>
     <desc lang="ja">週替わりパーソナリティー</desc>
-    <icon src="https://program-static.cf.radiko.jp/067ym3a39j.png"/>
+    <icon src="https://program-static.cf.radiko.jp/g26wydqsag.png"/>
   </programme>
   <programme start="20260527233000 +0900" stop="20260528000000 +0900" channel="radio_NACK5">
     <title lang="ja">三浦翔平 It's 翔 time</title>
@@ -28913,9 +28913,9 @@
     <icon src="https://program-static.cf.radiko.jp/lxfyadd17i.png"/>
   </programme>
   <programme start="20260528230000 +0900" stop="20260528233000 +0900" channel="radio_NACK5">
-    <title lang="ja">ALL The Feels</title>
+    <title lang="ja">ALL The Feels（IS:SUE）</title>
     <desc lang="ja">週替わりパーソナリティー</desc>
-    <icon src="https://program-static.cf.radiko.jp/067ym3a39j.png"/>
+    <icon src="https://program-static.cf.radiko.jp/g26wydqsag.png"/>
   </programme>
   <programme start="20260528233000 +0900" stop="20260529000000 +0900" channel="radio_NACK5">
     <title lang="ja">小柳ゆき drive your heart</title>
@@ -37970,7 +37970,7 @@
   </programme>
   <programme start="20260529120000 +0900" stop="20260529122500 +0900" channel="radio_FMNIIGATA">
     <title lang="ja">ブルボン presents Shining Star</title>
-    <desc lang="ja">吉田明世</desc>
+    <desc lang="ja">吉田明世 ゲスト: 高柳明音</desc>
     <icon src="https://program-static.cf.radiko.jp/.wqb9lsl9z.jpg"/>
   </programme>
   <programme start="20260529122500 +0900" stop="20260529123000 +0900" channel="radio_FMNIIGATA">
@@ -50721,12 +50721,12 @@
     <desc lang="ja">解説者：岩瀬仁紀／実況者：塩見啓一</desc>
     <icon src="https://program-static.cf.radiko.jp/d0ba4cc9-c5ae-4af8-ba54-36a7ee7c18a2.png"/>
   </programme>
-  <programme start="20260524160000 +0900" stop="20260524163000 +0900" channel="radio_CBC">
+  <programme start="20260524160000 +0900" stop="20260524171000 +0900" channel="radio_CBC">
     <title lang="ja">CBCドラゴンズサンデー　中日×広島（バンテリン）</title>
     <desc lang="ja">解説者：岩瀬仁紀／実況者：塩見啓一</desc>
     <icon src="https://program-static.cf.radiko.jp/d0ba4cc9-c5ae-4af8-ba54-36a7ee7c18a2.png"/>
   </programme>
-  <programme start="20260524163000 +0900" stop="20260524183000 +0900" channel="radio_CBC">
+  <programme start="20260524171000 +0900" stop="20260524183000 +0900" channel="radio_CBC">
     <title lang="ja">河原崎辰也 いくしかないだろう！</title>
     <desc lang="ja">河原崎辰也　まーぼ春雨（盛庵）</desc>
     <icon src="https://program-static.cf.radiko.jp/c3d1aa25-2f55-4318-aea3-3a48584b563d.png"/>
@@ -59276,12 +59276,12 @@
     <desc lang="ja">巨人―阪神（東京Ｄ）試合終了までお届けします。解説：駒田徳広／実況：小宅世人／【番組概要】今シーズンもABCラジオは虎バン主義。阪神タイガースをとことん追いかけます！Ｘアカウント： @abc_torabanＸハッシュタグ：#toraban1008メールアドレス：sp@abc1008.com</desc>
     <icon src="https://program-static.cf.radiko.jp/0164f9b7-927c-4b89-b0b4-e8040083cf8f.jpeg"/>
   </programme>
-  <programme start="20260524160000 +0900" stop="20260524170000 +0900" channel="radio_ABC">
+  <programme start="20260524160000 +0900" stop="20260524172500 +0900" channel="radio_ABC">
     <title lang="ja">ＡＢＣフレッシュアップベースボール(3)</title>
     <desc lang="ja">巨人―阪神（東京Ｄ）試合終了までお届けします。解説：駒田徳広／実況：小宅世人／【番組概要】今シーズンもABCラジオは虎バン主義。阪神タイガースをとことん追いかけます！Ｘアカウント： @abc_torabanＸハッシュタグ：#toraban1008メールアドレス：sp@abc1008.com</desc>
     <icon src="https://program-static.cf.radiko.jp/0164f9b7-927c-4b89-b0b4-e8040083cf8f.jpeg"/>
   </programme>
-  <programme start="20260524170000 +0900" stop="20260524175500 +0900" channel="radio_ABC">
+  <programme start="20260524172500 +0900" stop="20260524175500 +0900" channel="radio_ABC">
     <title lang="ja">小林大作のメモリーズ・オブ・ユー</title>
     <desc lang="ja">小林大作／紫峰七海</desc>
     <icon src="https://program-static.cf.radiko.jp/qcqvjl6hek.jpg"/>
@@ -61941,37 +61941,37 @@
   </programme>
   <programme start="20260524070000 +0900" stop="20260524080000 +0900" channel="radio_CCL">
     <title lang="ja">Wonder Garden(7時台)</title>
-    <desc lang="ja">池田 なみ子</desc>
+    <desc lang="ja">池田 なみ子、コシノジュンコ</desc>
     <icon src="https://program-static.cf.radiko.jp/cw172qh76g.png"/>
   </programme>
   <programme start="20260524080000 +0900" stop="20260524090000 +0900" channel="radio_CCL">
     <title lang="ja">Wonder Garden(8時台)</title>
-    <desc lang="ja">池田 なみ子</desc>
+    <desc lang="ja">池田 なみ子、コシノジュンコ</desc>
     <icon src="https://program-static.cf.radiko.jp/cw172qh76g.png"/>
   </programme>
   <programme start="20260524090000 +0900" stop="20260524100000 +0900" channel="radio_CCL">
     <title lang="ja">Wonder Garden(9時台)</title>
-    <desc lang="ja">池田 なみ子</desc>
+    <desc lang="ja">池田 なみ子、コシノジュンコ</desc>
     <icon src="https://program-static.cf.radiko.jp/cw172qh76g.png"/>
   </programme>
   <programme start="20260524100000 +0900" stop="20260524110000 +0900" channel="radio_CCL">
     <title lang="ja">Wonder Garden(10時台)</title>
-    <desc lang="ja">池田 なみ子</desc>
+    <desc lang="ja">池田 なみ子、コシノジュンコ</desc>
     <icon src="https://program-static.cf.radiko.jp/cw172qh76g.png"/>
   </programme>
   <programme start="20260524110000 +0900" stop="20260524120000 +0900" channel="radio_CCL">
     <title lang="ja">MAG:NET SUNDAY(11時台)</title>
-    <desc lang="ja">加美 幸伸</desc>
+    <desc lang="ja">加美 幸伸、清野茂樹</desc>
     <icon src="https://program-static.cf.radiko.jp/sxr07tnbu5.png"/>
   </programme>
   <programme start="20260524120000 +0900" stop="20260524130000 +0900" channel="radio_CCL">
     <title lang="ja">MAG:NET SUNDAY(12時台)</title>
-    <desc lang="ja">加美 幸伸</desc>
+    <desc lang="ja">加美 幸伸、清野茂樹</desc>
     <icon src="https://program-static.cf.radiko.jp/sxr07tnbu5.png"/>
   </programme>
   <programme start="20260524130000 +0900" stop="20260524140000 +0900" channel="radio_CCL">
     <title lang="ja">MAG:NET SUNDAY(13時台)</title>
-    <desc lang="ja">加美 幸伸</desc>
+    <desc lang="ja">加美 幸伸、清野茂樹</desc>
     <icon src="https://program-static.cf.radiko.jp/sxr07tnbu5.png"/>
   </programme>
   <programme start="20260524140000 +0900" stop="20260524150000 +0900" channel="radio_CCL">
@@ -61986,17 +61986,17 @@
   </programme>
   <programme start="20260524160000 +0900" stop="20260524170000 +0900" channel="radio_CCL">
     <title lang="ja">Sunday Music Passage(16時台)</title>
-    <desc lang="ja">山添 まり</desc>
+    <desc lang="ja">山添 まり、森山直太朗</desc>
     <icon src="https://program-static.cf.radiko.jp/t9zx51447b.png"/>
   </programme>
   <programme start="20260524170000 +0900" stop="20260524180000 +0900" channel="radio_CCL">
     <title lang="ja">Sunday Music Passage(17時台)</title>
-    <desc lang="ja">山添 まり</desc>
+    <desc lang="ja">山添 まり、森山直太朗</desc>
     <icon src="https://program-static.cf.radiko.jp/t9zx51447b.png"/>
   </programme>
   <programme start="20260524180000 +0900" stop="20260524190000 +0900" channel="radio_CCL">
     <title lang="ja">Sunday Music Passage(18時台)</title>
-    <desc lang="ja">山添 まり</desc>
+    <desc lang="ja">山添 まり、森山直太朗</desc>
     <icon src="https://program-static.cf.radiko.jp/t9zx51447b.png"/>
   </programme>
   <programme start="20260524190000 +0900" stop="20260524200000 +0900" channel="radio_CCL">
@@ -62056,22 +62056,22 @@
   </programme>
   <programme start="20260525070000 +0900" stop="20260525080000 +0900" channel="radio_CCL">
     <title lang="ja">GOOD MO-NII(7時台)</title>
-    <desc lang="ja">仁井 聡子</desc>
+    <desc lang="ja">仁井 聡子、go!go!vanillas</desc>
     <icon src="https://program-static.cf.radiko.jp/wqgs777t75.png"/>
   </programme>
   <programme start="20260525080000 +0900" stop="20260525090000 +0900" channel="radio_CCL">
     <title lang="ja">GOOD MO-NII(8時台)</title>
-    <desc lang="ja">仁井 聡子</desc>
+    <desc lang="ja">仁井 聡子、go!go!vanillas</desc>
     <icon src="https://program-static.cf.radiko.jp/wqgs777t75.png"/>
   </programme>
   <programme start="20260525090000 +0900" stop="20260525100000 +0900" channel="radio_CCL">
     <title lang="ja">GOOD MO-NII(9時台)</title>
-    <desc lang="ja">仁井 聡子</desc>
+    <desc lang="ja">仁井 聡子、go!go!vanillas</desc>
     <icon src="https://program-static.cf.radiko.jp/wqgs777t75.png"/>
   </programme>
   <programme start="20260525100000 +0900" stop="20260525110000 +0900" channel="radio_CCL">
     <title lang="ja">GOOD MO-NII(10時台)</title>
-    <desc lang="ja">仁井 聡子</desc>
+    <desc lang="ja">仁井 聡子、go!go!vanillas</desc>
     <icon src="https://program-static.cf.radiko.jp/wqgs777t75.png"/>
   </programme>
   <programme start="20260525110000 +0900" stop="20260525120000 +0900" channel="radio_CCL">
@@ -62571,12 +62571,12 @@
   </programme>
   <programme start="20260529180000 +0900" stop="20260529190000 +0900" channel="radio_CCL">
     <title lang="ja">RADIO ANTHEMS(18時台)</title>
-    <desc lang="ja">深町 絵里</desc>
+    <desc lang="ja">深町 絵里、Char</desc>
     <icon src="https://program-static.cf.radiko.jp/h1mb29pnwg.png"/>
   </programme>
   <programme start="20260529190000 +0900" stop="20260529200000 +0900" channel="radio_CCL">
     <title lang="ja">RADIO ANTHEMS(19時台)</title>
-    <desc lang="ja">深町 絵里</desc>
+    <desc lang="ja">深町 絵里、Char</desc>
     <icon src="https://program-static.cf.radiko.jp/h1mb29pnwg.png"/>
   </programme>
   <programme start="20260529200000 +0900" stop="20260529210000 +0900" channel="radio_CCL">
@@ -62626,27 +62626,27 @@
   </programme>
   <programme start="20260524070000 +0900" stop="20260524080000 +0900" channel="radio_802">
     <title lang="ja">SUPERFINE SUNDAY(7時台)</title>
-    <desc lang="ja">浅井 博章、オレンジスパイニクラブ、Patrick's、リーガルリリー、JABBERLOOP</desc>
+    <desc lang="ja">浅井 博章、リーガルリリー、Patrick's、JABBERLOOP、オレンジスパイニクラブ</desc>
     <icon src="https://program-static.cf.radiko.jp/u2wdtejqlb.png"/>
   </programme>
   <programme start="20260524080000 +0900" stop="20260524090000 +0900" channel="radio_802">
     <title lang="ja">SUPERFINE SUNDAY(8時台)</title>
-    <desc lang="ja">浅井 博章、オレンジスパイニクラブ、Patrick's、リーガルリリー、JABBERLOOP</desc>
+    <desc lang="ja">浅井 博章、リーガルリリー、Patrick's、JABBERLOOP、オレンジスパイニクラブ</desc>
     <icon src="https://program-static.cf.radiko.jp/u2wdtejqlb.png"/>
   </programme>
   <programme start="20260524090000 +0900" stop="20260524100000 +0900" channel="radio_802">
     <title lang="ja">SUPERFINE SUNDAY(9時台)</title>
-    <desc lang="ja">浅井 博章、オレンジスパイニクラブ、Patrick's、リーガルリリー、JABBERLOOP</desc>
+    <desc lang="ja">浅井 博章、リーガルリリー、Patrick's、JABBERLOOP、オレンジスパイニクラブ</desc>
     <icon src="https://program-static.cf.radiko.jp/u2wdtejqlb.png"/>
   </programme>
   <programme start="20260524100000 +0900" stop="20260524110000 +0900" channel="radio_802">
     <title lang="ja">SUPERFINE SUNDAY(10時台)</title>
-    <desc lang="ja">浅井 博章、オレンジスパイニクラブ、Patrick's、リーガルリリー、JABBERLOOP</desc>
+    <desc lang="ja">浅井 博章、リーガルリリー、Patrick's、JABBERLOOP、オレンジスパイニクラブ</desc>
     <icon src="https://program-static.cf.radiko.jp/u2wdtejqlb.png"/>
   </programme>
   <programme start="20260524110000 +0900" stop="20260524120000 +0900" channel="radio_802">
     <title lang="ja">SUPERFINE SUNDAY(11時台)</title>
-    <desc lang="ja">浅井 博章、オレンジスパイニクラブ、Patrick's、リーガルリリー、JABBERLOOP</desc>
+    <desc lang="ja">浅井 博章、リーガルリリー、Patrick's、JABBERLOOP、オレンジスパイニクラブ</desc>
     <icon src="https://program-static.cf.radiko.jp/u2wdtejqlb.png"/>
   </programme>
   <programme start="20260524120000 +0900" stop="20260524130000 +0900" channel="radio_802">
@@ -62666,17 +62666,17 @@
   </programme>
   <programme start="20260524150000 +0900" stop="20260524160000 +0900" channel="radio_802">
     <title lang="ja">Chillin’ Sunday(15時台)</title>
-    <desc lang="ja">落合 健太郎</desc>
+    <desc lang="ja">落合 健太郎、goethe</desc>
     <icon src="https://program-static.cf.radiko.jp/lrx99h5obu.png"/>
   </programme>
   <programme start="20260524160000 +0900" stop="20260524170000 +0900" channel="radio_802">
     <title lang="ja">Chillin’ Sunday(16時台)</title>
-    <desc lang="ja">落合 健太郎</desc>
+    <desc lang="ja">落合 健太郎、goethe</desc>
     <icon src="https://program-static.cf.radiko.jp/lrx99h5obu.png"/>
   </programme>
   <programme start="20260524170000 +0900" stop="20260524180000 +0900" channel="radio_802">
     <title lang="ja">Chillin’ Sunday(17時台)</title>
-    <desc lang="ja">落合 健太郎</desc>
+    <desc lang="ja">落合 健太郎、goethe</desc>
     <icon src="https://program-static.cf.radiko.jp/lrx99h5obu.png"/>
   </programme>
   <programme start="20260524180000 +0900" stop="20260524190000 +0900" channel="radio_802">
@@ -62736,27 +62736,27 @@
   </programme>
   <programme start="20260525060000 +0900" stop="20260525070000 +0900" channel="radio_802">
     <title lang="ja">on-air with TACTY IN THE MORNING(6時台)</title>
-    <desc lang="ja">大抜 卓人、Lucky Kilimanjaro、絢香</desc>
+    <desc lang="ja">大抜 卓人、絢香、Lucky Kilimanjaro</desc>
     <icon src="https://program-static.cf.radiko.jp/lclgus52cv.png"/>
   </programme>
   <programme start="20260525070000 +0900" stop="20260525080000 +0900" channel="radio_802">
     <title lang="ja">on-air with TACTY IN THE MORNING(7時台)</title>
-    <desc lang="ja">大抜 卓人、Lucky Kilimanjaro、絢香</desc>
+    <desc lang="ja">大抜 卓人、絢香、Lucky Kilimanjaro</desc>
     <icon src="https://program-static.cf.radiko.jp/lclgus52cv.png"/>
   </programme>
   <programme start="20260525080000 +0900" stop="20260525090000 +0900" channel="radio_802">
     <title lang="ja">on-air with TACTY IN THE MORNING(8時台)</title>
-    <desc lang="ja">大抜 卓人、Lucky Kilimanjaro、絢香</desc>
+    <desc lang="ja">大抜 卓人、絢香、Lucky Kilimanjaro</desc>
     <icon src="https://program-static.cf.radiko.jp/lclgus52cv.png"/>
   </programme>
   <programme start="20260525090000 +0900" stop="20260525100000 +0900" channel="radio_802">
     <title lang="ja">on-air with TACTY IN THE MORNING(9時台)</title>
-    <desc lang="ja">大抜 卓人、Lucky Kilimanjaro、絢香</desc>
+    <desc lang="ja">大抜 卓人、絢香、Lucky Kilimanjaro</desc>
     <icon src="https://program-static.cf.radiko.jp/lclgus52cv.png"/>
   </programme>
   <programme start="20260525100000 +0900" stop="20260525110000 +0900" channel="radio_802">
     <title lang="ja">on-air with TACTY IN THE MORNING(10時台)</title>
-    <desc lang="ja">大抜 卓人、Lucky Kilimanjaro、絢香</desc>
+    <desc lang="ja">大抜 卓人、絢香、Lucky Kilimanjaro</desc>
     <icon src="https://program-static.cf.radiko.jp/lclgus52cv.png"/>
   </programme>
   <programme start="20260525110000 +0900" stop="20260525120000 +0900" channel="radio_802">
@@ -62776,22 +62776,22 @@
   </programme>
   <programme start="20260525140000 +0900" stop="20260525150000 +0900" channel="radio_802">
     <title lang="ja">THE NAKAJIMA HIROTO SHOW 802 RADIO MASTERS(14時台)</title>
-    <desc lang="ja">中島 ヒロト、Conton Candy、SCANDAL</desc>
+    <desc lang="ja">中島 ヒロト、SCANDAL、Conton Candy</desc>
     <icon src="https://program-static.cf.radiko.jp/zeemnlia5i.png"/>
   </programme>
   <programme start="20260525150000 +0900" stop="20260525160000 +0900" channel="radio_802">
     <title lang="ja">THE NAKAJIMA HIROTO SHOW 802 RADIO MASTERS(15時台)</title>
-    <desc lang="ja">中島 ヒロト、Conton Candy、SCANDAL</desc>
+    <desc lang="ja">中島 ヒロト、SCANDAL、Conton Candy</desc>
     <icon src="https://program-static.cf.radiko.jp/zeemnlia5i.png"/>
   </programme>
   <programme start="20260525160000 +0900" stop="20260525170000 +0900" channel="radio_802">
     <title lang="ja">THE NAKAJIMA HIROTO SHOW 802 RADIO MASTERS(16時台)</title>
-    <desc lang="ja">中島 ヒロト、Conton Candy、SCANDAL</desc>
+    <desc lang="ja">中島 ヒロト、SCANDAL、Conton Candy</desc>
     <icon src="https://program-static.cf.radiko.jp/zeemnlia5i.png"/>
   </programme>
   <programme start="20260525170000 +0900" stop="20260525175100 +0900" channel="radio_802">
     <title lang="ja">THE NAKAJIMA HIROTO SHOW 802 RADIO MASTERS(17時台)</title>
-    <desc lang="ja">中島 ヒロト、Conton Candy、SCANDAL</desc>
+    <desc lang="ja">中島 ヒロト、SCANDAL、Conton Candy</desc>
     <icon src="https://program-static.cf.radiko.jp/zeemnlia5i.png"/>
   </programme>
   <programme start="20260525175100 +0900" stop="20260525180000 +0900" channel="radio_802">
@@ -62801,17 +62801,17 @@
   </programme>
   <programme start="20260525180000 +0900" stop="20260525190000 +0900" channel="radio_802">
     <title lang="ja">EVENING TAP(18時台)</title>
-    <desc lang="ja">浅井 博章、片岡健太(sumika)、くるり、奇妙礼太郎</desc>
+    <desc lang="ja">浅井 博章、奇妙礼太郎、くるり、片岡健太(sumika)</desc>
     <icon src="https://program-static.cf.radiko.jp/lmnnghivjt.png"/>
   </programme>
   <programme start="20260525190000 +0900" stop="20260525200000 +0900" channel="radio_802">
     <title lang="ja">EVENING TAP(19時台)</title>
-    <desc lang="ja">浅井 博章、片岡健太(sumika)、くるり、奇妙礼太郎</desc>
+    <desc lang="ja">浅井 博章、奇妙礼太郎、くるり、片岡健太(sumika)</desc>
     <icon src="https://program-static.cf.radiko.jp/lmnnghivjt.png"/>
   </programme>
   <programme start="20260525200000 +0900" stop="20260525210000 +0900" channel="radio_802">
     <title lang="ja">EVENING TAP(20時台)</title>
-    <desc lang="ja">浅井 博章、片岡健太(sumika)、くるり、奇妙礼太郎</desc>
+    <desc lang="ja">浅井 博章、奇妙礼太郎、くるり、片岡健太(sumika)</desc>
     <icon src="https://program-static.cf.radiko.jp/lmnnghivjt.png"/>
   </programme>
   <programme start="20260525210000 +0900" stop="20260525220000 +0900" channel="radio_802">
@@ -62901,22 +62901,22 @@
   </programme>
   <programme start="20260526140000 +0900" stop="20260526150000 +0900" channel="radio_802">
     <title lang="ja">THE NAKAJIMA HIROTO SHOW 802 RADIO MASTERS(14時台)</title>
-    <desc lang="ja">中島 ヒロト、PK shampoo、リーガルリリー</desc>
+    <desc lang="ja">中島 ヒロト、リーガルリリー、PK shampoo</desc>
     <icon src="https://program-static.cf.radiko.jp/zeemnlia5i.png"/>
   </programme>
   <programme start="20260526150000 +0900" stop="20260526160000 +0900" channel="radio_802">
     <title lang="ja">THE NAKAJIMA HIROTO SHOW 802 RADIO MASTERS(15時台)</title>
-    <desc lang="ja">中島 ヒロト、PK shampoo、リーガルリリー</desc>
+    <desc lang="ja">中島 ヒロト、リーガルリリー、PK shampoo</desc>
     <icon src="https://program-static.cf.radiko.jp/zeemnlia5i.png"/>
   </programme>
   <programme start="20260526160000 +0900" stop="20260526170000 +0900" channel="radio_802">
     <title lang="ja">THE NAKAJIMA HIROTO SHOW 802 RADIO MASTERS(16時台)</title>
-    <desc lang="ja">中島 ヒロト、PK shampoo、リーガルリリー</desc>
+    <desc lang="ja">中島 ヒロト、リーガルリリー、PK shampoo</desc>
     <icon src="https://program-static.cf.radiko.jp/zeemnlia5i.png"/>
   </programme>
   <programme start="20260526170000 +0900" stop="20260526175100 +0900" channel="radio_802">
     <title lang="ja">THE NAKAJIMA HIROTO SHOW 802 RADIO MASTERS(17時台)</title>
-    <desc lang="ja">中島 ヒロト、PK shampoo、リーガルリリー</desc>
+    <desc lang="ja">中島 ヒロト、リーガルリリー、PK shampoo</desc>
     <icon src="https://program-static.cf.radiko.jp/zeemnlia5i.png"/>
   </programme>
   <programme start="20260526175100 +0900" stop="20260526180000 +0900" channel="radio_802">
@@ -63011,17 +63011,17 @@
   </programme>
   <programme start="20260527110000 +0900" stop="20260527120000 +0900" channel="radio_802">
     <title lang="ja">UPBEAT!(11時台)</title>
-    <desc lang="ja">加藤 真樹子、JI BLUE、osage</desc>
+    <desc lang="ja">加藤 真樹子、osage、JI BLUE</desc>
     <icon src="https://program-static.cf.radiko.jp/x488g7t0rj.png"/>
   </programme>
   <programme start="20260527120000 +0900" stop="20260527130000 +0900" channel="radio_802">
     <title lang="ja">UPBEAT!(12時台)</title>
-    <desc lang="ja">加藤 真樹子、JI BLUE、osage</desc>
+    <desc lang="ja">加藤 真樹子、osage、JI BLUE</desc>
     <icon src="https://program-static.cf.radiko.jp/x488g7t0rj.png"/>
   </programme>
   <programme start="20260527130000 +0900" stop="20260527140000 +0900" channel="radio_802">
     <title lang="ja">UPBEAT!(13時台)</title>
-    <desc lang="ja">加藤 真樹子、JI BLUE、osage</desc>
+    <desc lang="ja">加藤 真樹子、osage、JI BLUE</desc>
     <icon src="https://program-static.cf.radiko.jp/x488g7t0rj.png"/>
   </programme>
   <programme start="20260527140000 +0900" stop="20260527150000 +0900" channel="radio_802">
@@ -63176,32 +63176,32 @@
   </programme>
   <programme start="20260528180000 +0900" stop="20260528190000 +0900" channel="radio_802">
     <title lang="ja">EVENING TAP(18時台)</title>
-    <desc lang="ja">田中 乃絵、クリープハイプ、Furui Riho、eill</desc>
+    <desc lang="ja">田中 乃絵、Furui Riho、eill、クリープハイプ</desc>
     <icon src="https://program-static.cf.radiko.jp/lmnnghivjt.png"/>
   </programme>
   <programme start="20260528190000 +0900" stop="20260528200000 +0900" channel="radio_802">
     <title lang="ja">EVENING TAP(19時台)</title>
-    <desc lang="ja">田中 乃絵、クリープハイプ、Furui Riho、eill</desc>
+    <desc lang="ja">田中 乃絵、Furui Riho、eill、クリープハイプ</desc>
     <icon src="https://program-static.cf.radiko.jp/lmnnghivjt.png"/>
   </programme>
   <programme start="20260528200000 +0900" stop="20260528210000 +0900" channel="radio_802">
     <title lang="ja">EVENING TAP(20時台)</title>
-    <desc lang="ja">田中 乃絵、クリープハイプ、Furui Riho、eill</desc>
+    <desc lang="ja">田中 乃絵、Furui Riho、eill、クリープハイプ</desc>
     <icon src="https://program-static.cf.radiko.jp/lmnnghivjt.png"/>
   </programme>
   <programme start="20260528210000 +0900" stop="20260528220000 +0900" channel="radio_802">
     <title lang="ja">ROCK KIDS 802 -OCHIKEN Goes ON!!-(21時台)</title>
-    <desc lang="ja">落合 健太郎、いきものがかり、KANA-BOON</desc>
+    <desc lang="ja">落合 健太郎、KANA-BOON、いきものがかり</desc>
     <icon src="https://program-static.cf.radiko.jp/593dc387-2f76-42c9-9735-242b7e485332.png"/>
   </programme>
   <programme start="20260528220000 +0900" stop="20260528230000 +0900" channel="radio_802">
     <title lang="ja">ROCK KIDS 802 -OCHIKEN Goes ON!!-(22時台)</title>
-    <desc lang="ja">落合 健太郎、いきものがかり、KANA-BOON</desc>
+    <desc lang="ja">落合 健太郎、KANA-BOON、いきものがかり</desc>
     <icon src="https://program-static.cf.radiko.jp/593dc387-2f76-42c9-9735-242b7e485332.png"/>
   </programme>
   <programme start="20260528230000 +0900" stop="20260528234800 +0900" channel="radio_802">
     <title lang="ja">ROCK KIDS 802 -OCHIKEN Goes ON!!-(23時台)</title>
-    <desc lang="ja">落合 健太郎、いきものがかり、KANA-BOON</desc>
+    <desc lang="ja">落合 健太郎、KANA-BOON、いきものがかり</desc>
     <icon src="https://program-static.cf.radiko.jp/593dc387-2f76-42c9-9735-242b7e485332.png"/>
   </programme>
   <programme start="20260528234800 +0900" stop="20260529000000 +0900" channel="radio_802">
@@ -63266,42 +63266,42 @@
   </programme>
   <programme start="20260529120000 +0900" stop="20260529130000 +0900" channel="radio_802">
     <title lang="ja">FRIDAY Cruisin' Map!!(12時台)</title>
-    <desc lang="ja">飯室 大吾、森山直太朗、TRACK15</desc>
+    <desc lang="ja">飯室 大吾、TRACK15、森山直太朗</desc>
     <icon src="https://program-static.cf.radiko.jp/vw7mp4mkpt.png"/>
   </programme>
   <programme start="20260529130000 +0900" stop="20260529140000 +0900" channel="radio_802">
     <title lang="ja">FRIDAY Cruisin' Map!!(13時台)</title>
-    <desc lang="ja">飯室 大吾、森山直太朗、TRACK15</desc>
+    <desc lang="ja">飯室 大吾、TRACK15、森山直太朗</desc>
     <icon src="https://program-static.cf.radiko.jp/vw7mp4mkpt.png"/>
   </programme>
   <programme start="20260529140000 +0900" stop="20260529150000 +0900" channel="radio_802">
     <title lang="ja">FRIDAY Cruisin' Map!!(14時台)</title>
-    <desc lang="ja">飯室 大吾、森山直太朗、TRACK15</desc>
+    <desc lang="ja">飯室 大吾、TRACK15、森山直太朗</desc>
     <icon src="https://program-static.cf.radiko.jp/vw7mp4mkpt.png"/>
   </programme>
   <programme start="20260529150000 +0900" stop="20260529160000 +0900" channel="radio_802">
     <title lang="ja">FRIDAY Cruisin' Map!!(15時台)</title>
-    <desc lang="ja">飯室 大吾、森山直太朗、TRACK15</desc>
+    <desc lang="ja">飯室 大吾、TRACK15、森山直太朗</desc>
     <icon src="https://program-static.cf.radiko.jp/vw7mp4mkpt.png"/>
   </programme>
   <programme start="20260529160000 +0900" stop="20260529170000 +0900" channel="radio_802">
     <title lang="ja">FRIDAY Cruisin' Map!!(16時台)</title>
-    <desc lang="ja">飯室 大吾、森山直太朗、TRACK15</desc>
+    <desc lang="ja">飯室 大吾、TRACK15、森山直太朗</desc>
     <icon src="https://program-static.cf.radiko.jp/vw7mp4mkpt.png"/>
   </programme>
   <programme start="20260529170000 +0900" stop="20260529180000 +0900" channel="radio_802">
     <title lang="ja">FRIDAY Cruisin' Map!!(17時台)</title>
-    <desc lang="ja">飯室 大吾、森山直太朗、TRACK15</desc>
+    <desc lang="ja">飯室 大吾、TRACK15、森山直太朗</desc>
     <icon src="https://program-static.cf.radiko.jp/vw7mp4mkpt.png"/>
   </programme>
   <programme start="20260529180000 +0900" stop="20260529190000 +0900" channel="radio_802">
     <title lang="ja">RADIO ANTHEMS(18時台)</title>
-    <desc lang="ja">深町 絵里</desc>
+    <desc lang="ja">深町 絵里、Char</desc>
     <icon src="https://program-static.cf.radiko.jp/c1qxdwpgyf.png"/>
   </programme>
   <programme start="20260529190000 +0900" stop="20260529200000 +0900" channel="radio_802">
     <title lang="ja">RADIO ANTHEMS(19時台)</title>
-    <desc lang="ja">深町 絵里</desc>
+    <desc lang="ja">深町 絵里、Char</desc>
     <icon src="https://program-static.cf.radiko.jp/c1qxdwpgyf.png"/>
   </programme>
   <programme start="20260529200000 +0900" stop="20260529210000 +0900" channel="radio_802">
@@ -82267,12 +82267,12 @@
   </programme>
   <programme start="20260526132000 +0900" stop="20260526150000 +0900" channel="radio_JRT">
     <title lang="ja">となりのラジオ1320～1500</title>
-    <desc lang="ja">物部純子</desc>
+    <desc lang="ja">13:51　生活情報応援団14:00　JRTスポットニュース14:05　交通情報　　　 エアトラベル徳島、今週のおススメ旅情報（金）14:15　コバッククイズ(水)14:40　釣り情報（月～金）15:00　JRTスポットニュース　　　　証券ニュース（水）　　　 天気予報16:00　JRTスポットニュース16:10　交通情報メール：tonari@jrt.jp</desc>
     <icon src="https://program-static.cf.radiko.jp/25b8429e-544e-4a54-bd31-09b1ed35949a.jpeg"/>
   </programme>
   <programme start="20260526150000 +0900" stop="20260526163000 +0900" channel="radio_JRT">
     <title lang="ja">となりのラジオ1500～1630</title>
-    <desc lang="ja">物部純子</desc>
+    <desc lang="ja">13:51　生活情報応援団14:00　JRTスポットニュース14:05　交通情報　　　 エアトラベル徳島、今週のおススメ旅情報（金）14:15　コバッククイズ(水)14:40　釣り情報（月～金）15:00　JRTスポットニュース　　　　証券ニュース（水）　　　 天気予報16:00　JRTスポットニュース16:10　交通情報メール：tonari@jrt.jp</desc>
     <icon src="https://program-static.cf.radiko.jp/25b8429e-544e-4a54-bd31-09b1ed35949a.jpeg"/>
   </programme>
   <programme start="20260526163000 +0900" stop="20260526164000 +0900" channel="radio_JRT">
@@ -82454,12 +82454,12 @@
   </programme>
   <programme start="20260527083000 +0900" stop="20260527101000 +0900" channel="radio_JRT">
     <title lang="ja">ラジオ大福830～1010</title>
-    <desc lang="ja">物部純子 / 森本博通</desc>
+    <desc lang="ja">/ 森本博通</desc>
     <icon src="https://program-static.cf.radiko.jp/1c136835-0011-4dac-bb65-77ff6012f2e4.jpeg"/>
   </programme>
   <programme start="20260527101000 +0900" stop="20260527114000 +0900" channel="radio_JRT">
     <title lang="ja">ラジオ大福1010～1140</title>
-    <desc lang="ja">物部純子 / 森本博通</desc>
+    <desc lang="ja">/ 森本博通</desc>
     <icon src="https://program-static.cf.radiko.jp/1c136835-0011-4dac-bb65-77ff6012f2e4.jpeg"/>
   </programme>
   <programme start="20260527114000 +0900" stop="20260527114500 +0900" channel="radio_JRT">
@@ -84502,9 +84502,9 @@
     <icon src="https://program-static.cf.radiko.jp/6292c15a-f9fe-4fd8-ab0c-f06c367bdb0a.jpeg"/>
   </programme>
   <programme start="20260524173000 +0900" stop="20260524175000 +0900" channel="radio_RNC">
-    <title lang="ja">加来耕三のＳＡＭＵＲＡＩヒストリアス</title>
-    <desc lang="ja">加来耕三</desc>
-    <icon src="https://program-static.cf.radiko.jp/0d6153dc-2ec9-4cd3-a790-bfcbf1d63d60.jpeg"/>
+    <title lang="ja">ローカルスターズ</title>
+    <desc lang="ja">鴨居真理子</desc>
+    <icon src="https://program-static.cf.radiko.jp/8ef7b8fc-1247-4a49-a4f5-54567aeb448a.png"/>
   </programme>
   <programme start="20260524175000 +0900" stop="20260524180000 +0900" channel="radio_RNC">
     <title lang="ja">ＲＮＣニュース</title>
@@ -87041,7 +87041,7 @@
   </programme>
   <programme start="20260525114000 +0900" stop="20260525114500 +0900" channel="radio_RNB">
     <title lang="ja">心にプラスワン</title>
-    <desc lang="ja">聞き手:戒田節子</desc>
+    <desc lang="ja">林薫（松山市中央倫理法人会　研修委員） / 聞き手:戒田節子</desc>
     <icon src="https://program-static.cf.radiko.jp/sqkrs7l5sf.jpg"/>
   </programme>
   <programme start="20260525114500 +0900" stop="20260525115500 +0900" channel="radio_RNB">
@@ -87226,7 +87226,7 @@
   </programme>
   <programme start="20260526114000 +0900" stop="20260526114500 +0900" channel="radio_RNB">
     <title lang="ja">心にプラスワン</title>
-    <desc lang="ja">聞き手:戒田節子</desc>
+    <desc lang="ja">林薫（松山市中央倫理法人会　研修委員） / 聞き手:戒田節子</desc>
     <icon src="https://program-static.cf.radiko.jp/sqkrs7l5sf.jpg"/>
   </programme>
   <programme start="20260526114500 +0900" stop="20260526115500 +0900" channel="radio_RNB">
@@ -87429,7 +87429,7 @@
   </programme>
   <programme start="20260527114000 +0900" stop="20260527114500 +0900" channel="radio_RNB">
     <title lang="ja">心にプラスワン</title>
-    <desc lang="ja">聞き手:戒田節子</desc>
+    <desc lang="ja">林薫（松山市中央倫理法人会　研修委員） / 聞き手:戒田節子</desc>
     <icon src="https://program-static.cf.radiko.jp/sqkrs7l5sf.jpg"/>
   </programme>
   <programme start="20260527114500 +0900" stop="20260527115500 +0900" channel="radio_RNB">
@@ -87458,8 +87458,8 @@
     <icon src="https://program-static.cf.radiko.jp/49294ea6-6785-469d-bd81-e81e476eedd7.jpeg"/>
   </programme>
   <programme start="20260527153000 +0900" stop="20260527154000 +0900" channel="radio_RNB">
-    <title lang="ja">縁結びラジオ査定団 / シコパン相談所（隔週）</title>
-    <desc lang="ja">新山純子 / シコクパンク</desc>
+    <title lang="ja">縁結びラジオ査定団</title>
+    <desc lang="ja">新山純子</desc>
     <icon src="https://program-static.cf.radiko.jp/b94adf27-617f-4a27-bdf6-d1f6fb34e5bc.jpeg"/>
   </programme>
   <programme start="20260527154000 +0900" stop="20260527162000 +0900" channel="radio_RNB">
@@ -87613,7 +87613,7 @@
   </programme>
   <programme start="20260528114000 +0900" stop="20260528114500 +0900" channel="radio_RNB">
     <title lang="ja">心にプラスワン</title>
-    <desc lang="ja">聞き手:戒田節子</desc>
+    <desc lang="ja">林薫（松山市中央倫理法人会　研修委員） / 聞き手:戒田節子</desc>
     <icon src="https://program-static.cf.radiko.jp/sqkrs7l5sf.jpg"/>
   </programme>
   <programme start="20260528114500 +0900" stop="20260528115500 +0900" channel="radio_RNB">
@@ -96295,24 +96295,15 @@
     <desc lang="ja">富田薫</desc>
     <icon src="https://program-static.cf.radiko.jp/99dbaaa0-fec6-4805-94db-28c4f4b2a9e7.jpeg"/>
   </programme>
-  <programme start="20260524135500 +0900" stop="20260524170000 +0900" channel="radio_KBC">
+  <programme start="20260524135500 +0900" stop="20260524180000 +0900" channel="radio_KBC">
     <title lang="ja">ＫＢＣダイナミックホークス</title>
     <desc lang="ja">ソフトバンクvs日本ハム／解説：森福允彦　実況：居内陽平／みずほPayPayドーム≪野球終了まで≫</desc>
     <icon src="https://program-static.cf.radiko.jp/7450b0e8-e65d-4acb-8bb6-052923d946f7.jpeg"/>
   </programme>
-  <programme start="20260524170000 +0900" stop="20260524174500 +0900" channel="radio_KBC">
+  <programme start="20260524180000 +0900" stop="20260524183000 +0900" channel="radio_KBC">
     <title lang="ja">ＫＢＣ Ｓｕｎｄａｙ Ｍｕｓｉｃ Ｈｏｕｒ</title>
     <desc lang="ja">パーソナリティ：富田薫</desc>
     <icon src="https://program-static.cf.radiko.jp/7450b0e8-e65d-4acb-8bb6-052923d946f7.jpeg"/>
-  </programme>
-  <programme start="20260524174500 +0900" stop="20260524180000 +0900" channel="radio_KBC">
-    <title lang="ja">健やかインフォメーション（17:45 ）</title>
-    <icon src="https://program-static.cf.radiko.jp/19d8fa63-0656-401c-b363-ea37daff1905.png"/>
-  </programme>
-  <programme start="20260524180000 +0900" stop="20260524183000 +0900" channel="radio_KBC">
-    <title lang="ja">黒伊佐錦presents fumika のしょちゅ・girl</title>
-    <desc lang="ja">ｆｕｍｉｋａ</desc>
-    <icon src="https://program-static.cf.radiko.jp/bb30ccdc-bd3d-4638-8545-dcda93bb8617.jpeg"/>
   </programme>
   <programme start="20260524183000 +0900" stop="20260524190000 +0900" channel="radio_KBC">
     <title lang="ja">キャニコムpresents ブルーリバー青木 談笑</title>
@@ -96329,9 +96320,9 @@
     <icon src="https://program-static.cf.radiko.jp/19d8fa63-0656-401c-b363-ea37daff1905.png"/>
   </programme>
   <programme start="20260524200000 +0900" stop="20260524203000 +0900" channel="radio_KBC">
-    <title lang="ja">ＤＪサワダデス</title>
-    <desc lang="ja">沢田幸二、コガ☆アキ</desc>
-    <icon src="https://program-static.cf.radiko.jp/c30307f3-ffd2-40f4-9969-e9fb1a3b7abd.jpeg"/>
+    <title lang="ja">黒伊佐錦presents fumika のしょちゅ・girl</title>
+    <desc lang="ja">ｆｕｍｉｋａ</desc>
+    <icon src="https://program-static.cf.radiko.jp/bb30ccdc-bd3d-4638-8545-dcda93bb8617.jpeg"/>
   </programme>
   <programme start="20260524203000 +0900" stop="20260524210000 +0900" channel="radio_KBC">
     <title lang="ja">KBC MUSIC SPLASH+ （再）</title>
@@ -114537,7 +114528,7 @@
   </programme>
   <programme start="20260525065000 +0900" stop="20260525091500 +0900" channel="radio_ROK">
     <title lang="ja">SPLASH!!!</title>
-    <desc lang="ja">小橋川響 城間有沙</desc>
+    <desc lang="ja">北山亭メンソーレ 城間有沙</desc>
     <icon src="https://program-static.cf.radiko.jp/5e5kmpr10l.png"/>
   </programme>
   <programme start="20260525091500 +0900" stop="20260525092500 +0900" channel="radio_ROK">
