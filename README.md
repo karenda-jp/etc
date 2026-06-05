@@ -13,9 +13,8 @@
 EPGの取得・結合・UPが地味にメンドクサイんですよね。。
 
 
-2026/06/04　ひとりごつ～
-いろいろ直してスッキリ快調♪
-Youtubeの6月入ってから頻発するエラーも「signatureTimestamp」最新へ更新で直った。
+2026/06/05　ひとりごつ～
+表示確認 6月 https://www.youtube.com/watch?v=R84GNLHEmnE
 ~~~
 
 
@@ -89,6 +88,7 @@ Youtubeの6月入ってから頻発するエラーも「signatureTimestamp」最
 
 
 <br />
+
 <br />
 
 ## "">> A Japanese IP address is required to watch <<""
