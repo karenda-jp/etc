@@ -2,13 +2,6 @@
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="" tvg-id="NHK東京・総合_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png?",NHK東京・総合
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="NHK東京・教育_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png?",NHK東京・教育
@@ -59,11 +52,19 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="BS-TBS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png?",BS-TBS
 http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="BSフジ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png?",BSフジ
+http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="BSテレ東_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png?",BSテレ東
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="BSテレ東-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png?",BSテレ東-4K
+#EXTINF:-1 group-title="" tvg-id="BS日テレ-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png?",BS日テレ-4K
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="BSフジ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png?",BSフジ
+#EXTINF:-1 group-title="" tvg-id="BS朝日-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-151-400x400.png?",BS朝日-4K
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="BS-TBS-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-161-400x400.png?",BS-TBS-4K
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="BSフジ-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-181-400x400.png?",BSフジ-4K
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="BSテレ東-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png?",BSテレ東-4K
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="BS11-イレブン_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png?",BS11-イレブン
 http://127.0.0.1/
@@ -253,9 +254,11 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_90" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png?",[英語]ユーロニュース
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="rch_102" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_qvc-02.png?",QVC
+#EXTINF:-1 group-title="" tvg-id="rch_120" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_reuters.png?",[英語]Reuters 60
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="rch_112" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_gstv.png?",GSTV（宝石専門ch）
+#EXTINF:-1 group-title="" tvg-id="rch_102" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_qvc.png?",QVC
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="rch_112" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_gstv.png?",GSTV（宝石専門ch）
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_89" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_top-barca.png?",TOP BARÇA
 http://127.0.0.1/
@@ -272,8 +275,6 @@ http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_64" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png?",FUEL TV
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_73" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png?",手塚プロダクションTV
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="rch_61" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png?",しまじろうチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="rch_65" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png?",キッズ
 http://127.0.0.1/
@@ -337,27 +338,35 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="news-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png?",ABEMA NEWS会見チャンネル
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png?",ABEMA SPECIALチャンネル
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png?",ABEMA SPECIAL 2チャンネル
-http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="abema-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png?",ABEMA アニメチャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="abema-special" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png?",ABEMA SPECIALチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="abema-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png?",ABEMA アニメチャンネル2
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="abema-anime-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png?",ABEMA アニメチャンネル3
 http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="special-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png?",ABEMA SPECIAL 2チャンネル
+http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="special-plus-7" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png?",アニメSPECIALチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="anime-special-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png?",アニメSPECIAL2チャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="dr-stone" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/dr-stone/logo.png?",Dr.STONEチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="anime-live" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png?",アニメLIVEチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="anime-live2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png?",アニメLIVEチャンネル2
 http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="80s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png?",なつかしアニメ80's
+http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="chibimaruko" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/chibimaruko/logo.png?",ちびまる子ちゃんチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="atashinchi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png?",あたしンちチャンネル
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="90s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png?",なつかしアニメ90's
+http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="00s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png?",なつかしアニメ00's
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="isekai-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png?",異世界・ファンタジーアニメチャンネル
 http://127.0.0.1/
@@ -383,12 +392,6 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="late-night-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/late-night-anime/logo.png?",深夜アニメチャンネル
 http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="80s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png?",なつかしアニメ80's
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="90s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png?",なつかしアニメ90's
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="00s-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png?",なつかしアニメ00's
-http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="asia-drama" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png?",韓国ドラマチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="asia-drama-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png?",韓国ドラマチャンネル2
@@ -413,19 +416,15 @@ http://127.0.0.1/
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="shogi" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png?",将棋チャンネル
 http://127.0.0.1/
+#EXTINF:-1 group-title="" tvg-id="mahjong-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png?",麻雀チャンネル2
+http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="world-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png?",SPORTSチャンネル
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="motor-sport" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/motor-sport/logo.png?",MOTOR SPORTチャンネル
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="world-sports-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/world-sports-1/logo.png?",SPORTS LIVE1 チャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="fighting-sports" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png?",格闘チャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="hiphop" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png?",HIPHOPチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png?",CMチャンネル
-http://127.0.0.1/
-#EXTINF:-1 group-title="" tvg-id="boatrace" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png?",BOATRACEチャンネル
 http://127.0.0.1/
 #EXTINF:-1 group-title="" tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?",競輪・オートレースチャンネル
 http://127.0.0.1/
