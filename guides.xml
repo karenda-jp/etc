@@ -414,7 +414,7 @@
   </channel>
   <channel id="NHKワールド-PREMIUM_jp">
     <display-name lang="ja">NHKワールド-PREMIUM</display-name>
-    <icon src="https://nhkworldpremium.com/img/common/logo.png"/>
+    <icon src="https://nhkworldpremium.com/img/provider/logo.png"/>
   </channel>
   <channel id="ショップチャンネル_jp">
     <display-name lang="ja">ショップチャンネル</display-name>
