@@ -1,3 +1,4 @@
+# 2026/08/01～　jcom番組表が取得できなくて更新できません。対策検討中
 
 ## 自分が使う用にEPGファイル等を作って置いてます！
 ### "jp-rakuten rch" & "jp-abematv" & "jp-iptv(test)" & "jp-tver" etc MIX 　guides.xml
