@@ -12,7 +12,7 @@
 ~~~
 
 ~~~
-代替えEPGサービスを３つほど紹介致します。
+代替 EPGサービスを３つほど紹介致します。
 
  Animenosekai/japanterebi-xmltv
  https://animenosekai.github.io/japanterebi-xmltv/guide.xml
