@@ -1,4 +1,4 @@
-
+# Cannot retrieve latest commit at this time.
 ## 自分が使う用にEPGファイル等を作って置いてます！
 ### "jp-rakuten rch" & "jp-abematv" & "jp-iptv(test)" & "jp-tver" etc MIX 　guides.xml
 **更新不定期　「出来る限り2～3日間隔」　気まぐれ 注意！** <br />
