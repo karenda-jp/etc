@@ -1,4 +1,3 @@
-
 ## 自分が使う用にEPGファイル等を作って置いてましたが更新は停止されます！
 
 ~~~
@@ -12,5 +11,19 @@
 ・長らくのご利用ありがとうございました
 ~~~
 
+代替えEPGサービスを３つほど紹介致します。
+
+ Animenosekai/japanterebi-xmltv
+ https://animenosekai.github.io/japanterebi-xmltv/guide.xml
+
+ dbghelp
+ https://github.com/dbghelp/SKY-PerfecTV-EPG
+ https://github.com/dbghelp/TVer-EPG
+ https://github.com/dbghelp/Abema-TV-EPG
+ https://github.com/dbghelp/JCOM-TV-EPG
+
+ EPG EPGSHARE01
+ https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz
+ https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz
 
 ~~~
