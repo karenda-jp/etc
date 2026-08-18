@@ -1,979 +1,979 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="NHK東京・総合_jp">
-    <display-name lang="ja">"ja">NHK東京・総合</display-name>
+    <display-name lang="ja">NHK東京・総合</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png"/>
   </channel>
   <channel id="NHK東京・総合2_jp">
-    <display-name lang="ja">"ja">NHK東京・総合(sub)</display-name>
+    <display-name lang="ja">NHK東京・総合(sub)</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png"/>
   </channel>
   <channel id="NHK東京・教育_jp">
-    <display-name lang="ja">"ja">NHK東京・教育</display-name>
+    <display-name lang="ja">NHK東京・教育</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png"/>
   </channel>
   <channel id="テレビ神奈川_jp">
-    <display-name lang="ja">"ja">テレビ神奈川</display-name>
+    <display-name lang="ja">テレビ神奈川</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E77-031-400x400.png"/>
   </channel>
   <channel id="テレ玉_jp">
-    <display-name lang="ja">"ja">テレ玉</display-name>
+    <display-name lang="ja">テレ玉</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E27-031-400x400.png"/>
   </channel>
   <channel id="日本テレビ_jp">
-    <display-name lang="ja">"ja">日本テレビ</display-name>
+    <display-name lang="ja">日本テレビ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png"/>
   </channel>
   <channel id="テレビ朝日_jp">
-    <display-name lang="ja">"ja">テレビ朝日</display-name>
+    <display-name lang="ja">テレビ朝日</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png"/>
   </channel>
   <channel id="TBS_jp">
-    <display-name lang="ja">"ja">TBS</display-name>
+    <display-name lang="ja">TBS</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png"/>
   </channel>
   <channel id="テレ東_jp">
-    <display-name lang="ja">"ja">テレ東</display-name>
+    <display-name lang="ja">テレ東</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png"/>
   </channel>
   <channel id="フジテレビ_jp">
-    <display-name lang="ja">"ja">フジテレビ</display-name>
+    <display-name lang="ja">フジテレビ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png"/>
   </channel>
   <channel id="TOKYO・MX_jp">
-    <display-name lang="ja">"ja">TOKYO・MX</display-name>
+    <display-name lang="ja">TOKYO・MX</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png"/>
   </channel>
   <channel id="TOKYO・MX2_jp">
-    <display-name lang="ja">"ja">TOKYO・MX2</display-name>
+    <display-name lang="ja">TOKYO・MX2</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png"/>
   </channel>
   <channel id="NHK大阪・総合_jp">
-    <display-name lang="ja">"ja">NHK大阪・総合</display-name>
+    <display-name lang="ja">NHK大阪・総合</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D70-011-400x400.png"/>
   </channel>
   <channel id="NHK大阪・教育_jp">
-    <display-name lang="ja">"ja">NHK大阪・教育</display-name>
+    <display-name lang="ja">NHK大阪・教育</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD1-021-400x400.png"/>
   </channel>
   <channel id="NHK京都・総合_jp">
-    <display-name lang="ja">"ja">NHK京都・総合</display-name>
+    <display-name lang="ja">NHK京都・総合</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D70-011-400x400.png"/>
   </channel>
   <channel id="サンテレビ_jp">
-    <display-name lang="ja">"ja">サンテレビ</display-name>
+    <display-name lang="ja">サンテレビ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D56-031-400x400.png"/>
   </channel>
   <channel id="毎日テレビ_jp">
-    <display-name lang="ja">"ja">毎日テレビ</display-name>
+    <display-name lang="ja">毎日テレビ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD2-041-400x400.png"/>
   </channel>
   <channel id="KBS京都_jp">
-    <display-name lang="ja">"ja">KBS京都</display-name>
+    <display-name lang="ja">KBS京都</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D66-051-400x400.png"/>
   </channel>
   <channel id="ABCテレビ_jp">
-    <display-name lang="ja">"ja">ABCテレビ</display-name>
+    <display-name lang="ja">ABCテレビ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png"/>
   </channel>
   <channel id="テレビ大阪_jp">
-    <display-name lang="ja">"ja">テレビ大阪</display-name>
+    <display-name lang="ja">テレビ大阪</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D76-071-400x400.png"/>
   </channel>
   <channel id="関西テレビ_jp">
-    <display-name lang="ja">"ja">関西テレビ</display-name>
+    <display-name lang="ja">関西テレビ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD4-081-400x400.png"/>
   </channel>
   <channel id="読売テレビ_jp">
-    <display-name lang="ja">"ja">読売テレビ</display-name>
+    <display-name lang="ja">読売テレビ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD5-101-400x400.png"/>
   </channel>
   <channel id="NHK・BS_jp">
-    <display-name lang="ja">"ja">NHK・BS</display-name>
+    <display-name lang="ja">NHK・BS</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png"/>
   </channel>
   <channel id="NHK・BS2_jp">
-    <display-name lang="ja">"ja">NHK・BS(sub)</display-name>
+    <display-name lang="ja">NHK・BS(sub)</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png"/>
   </channel>
   <channel id="NHK・BSP_jp">
-    <display-name lang="ja">"ja">NHK・BSP</display-name>
+    <display-name lang="ja">NHK・BSP</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png"/>
   </channel>
   <channel id="BS日テレ_jp">
-    <display-name lang="ja">"ja">BS日テレ</display-name>
+    <display-name lang="ja">BS日テレ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png"/>
   </channel>
   <channel id="BS朝日_jp">
-    <display-name lang="ja">"ja">BS朝日</display-name>
+    <display-name lang="ja">BS朝日</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png"/>
   </channel>
   <channel id="BS-TBS_jp">
-    <display-name lang="ja">"ja">BS-TBS</display-name>
+    <display-name lang="ja">BS-TBS</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png"/>
   </channel>
   <channel id="BSフジ_jp">
-    <display-name lang="ja">"ja">BSフジ</display-name>
+    <display-name lang="ja">BSフジ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png"/>
   </channel>
   <channel id="BSテレ東_jp">
-    <display-name lang="ja">"ja">BSテレ東</display-name>
+    <display-name lang="ja">BSテレ東</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png"/>
   </channel>
   <channel id="BS日テレ-4K_jp">
-    <display-name lang="ja">"ja">BS日テレ-4K</display-name>
+    <display-name lang="ja">BS日テレ-4K</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png"/>
   </channel>
   <channel id="BS朝日-4K_jp">
-    <display-name lang="ja">"ja">BS朝日-4K</display-name>
+    <display-name lang="ja">BS朝日-4K</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-151-400x400.png"/>
   </channel>
   <channel id="BS-TBS-4K_jp">
-    <display-name lang="ja">"ja">BS-TBS-4K</display-name>
+    <display-name lang="ja">BS-TBS-4K</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-161-400x400.png"/>
   </channel>
   <channel id="BSフジ-4K_jp">
-    <display-name lang="ja">"ja">BSフジ-4K</display-name>
+    <display-name lang="ja">BSフジ-4K</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-181-400x400.png"/>
   </channel>
   <channel id="BSテレ東-4K_jp">
-    <display-name lang="ja">"ja">BSテレ東-4K</display-name>
+    <display-name lang="ja">BSテレ東-4K</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png"/>
   </channel>
   <channel id="BS11-イレブン_jp">
-    <display-name lang="ja">"ja">BS11-イレブン</display-name>
+    <display-name lang="ja">BS11-イレブン</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png"/>
   </channel>
   <channel id="BS12トゥエルビ_jp">
-    <display-name lang="ja">"ja">BS12トゥエルビ</display-name>
+    <display-name lang="ja">BS12トゥエルビ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png"/>
   </channel>
   <channel id="ムービープラス_jp">
-    <display-name lang="ja">"ja">ムービープラス</display-name>
+    <display-name lang="ja">ムービープラス</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png"/>
   </channel>
   <channel id="ザ・シネマ_jp">
-    <display-name lang="ja">"ja">ザ・シネマ</display-name>
+    <display-name lang="ja">ザ・シネマ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-133-400x400.png"/>
   </channel>
   <channel id="映画・チャンネルNECO_jp">
-    <display-name lang="ja">"ja">映画・チャンネルNECO</display-name>
+    <display-name lang="ja">映画・チャンネルNECO</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-151-400x400.png"/>
   </channel>
   <channel id="日本映画専門チャンネル_jp">
-    <display-name lang="ja">"ja">日本映画専門チャンネル</display-name>
+    <display-name lang="ja">日本映画専門チャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png"/>
   </channel>
   <channel id="時代劇専門チャンネル_jp">
-    <display-name lang="ja">"ja">時代劇専門チャンネル</display-name>
+    <display-name lang="ja">時代劇専門チャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png"/>
   </channel>
   <channel id="東映チャンネル_jp">
-    <display-name lang="ja">"ja">東映チャンネル</display-name>
+    <display-name lang="ja">東映チャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-173-400x400.png"/>
   </channel>
   <channel id="衛星劇場_jp">
-    <display-name lang="ja">"ja">衛星劇場</display-name>
+    <display-name lang="ja">衛星劇場</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png"/>
   </channel>
   <channel id="スカイA_jp">
-    <display-name lang="ja">"ja">スカイA</display-name>
+    <display-name lang="ja">スカイA</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png"/>
   </channel>
   <channel id="GAORA-SPORTS_jp">
-    <display-name lang="ja">"ja">GAORA-SPORTS</display-name>
+    <display-name lang="ja">GAORA-SPORTS</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png"/>
   </channel>
   <channel id="ゴルフネットワーク_jp">
-    <display-name lang="ja">"ja">ゴルフネットワーク</display-name>
+    <display-name lang="ja">ゴルフネットワーク</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png"/>
   </channel>
   <channel id="日テレジータス_jp">
-    <display-name lang="ja">"ja">日テレジータス</display-name>
+    <display-name lang="ja">日テレジータス</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png"/>
   </channel>
   <channel id="J-SPORTS-1_jp">
-    <display-name lang="ja">"ja">J-SPORTS-1</display-name>
+    <display-name lang="ja">J-SPORTS-1</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png"/>
   </channel>
   <channel id="J-SPORTS-2_jp">
-    <display-name lang="ja">"ja">J-SPORTS-2</display-name>
+    <display-name lang="ja">J-SPORTS-2</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png"/>
   </channel>
   <channel id="J-SPORTS-3_jp">
-    <display-name lang="ja">"ja">J-SPORTS-3</display-name>
+    <display-name lang="ja">J-SPORTS-3</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png"/>
   </channel>
   <channel id="J-SPORTS-4_jp">
-    <display-name lang="ja">"ja">J-SPORTS-4</display-name>
+    <display-name lang="ja">J-SPORTS-4</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png"/>
   </channel>
   <channel id="グリーンチャンネル_jp">
-    <display-name lang="ja">"ja">グリーンチャンネル</display-name>
+    <display-name lang="ja">グリーンチャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png"/>
   </channel>
   <channel id="スペースシャワーTV_jp">
-    <display-name lang="ja">"ja">スペースシャワーTV</display-name>
+    <display-name lang="ja">スペースシャワーTV</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png"/>
   </channel>
   <channel id="MTV_jp">
-    <display-name lang="ja">"ja">MTV</display-name>
+    <display-name lang="ja">MTV</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png"/>
   </channel>
   <channel id="歌謡ポップスチャンネル_jp">
-    <display-name lang="ja">"ja">歌謡ポップスチャンネル</display-name>
+    <display-name lang="ja">歌謡ポップスチャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png"/>
   </channel>
   <channel id="ミュージック・エア_jp">
-    <display-name lang="ja">"ja">ミュージック・エア</display-name>
+    <display-name lang="ja">ミュージック・エア</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png"/>
   </channel>
   <channel id="Dlife(ディーライフ)_jp">
-    <display-name lang="ja">"ja">Dlife(ディーライフ)</display-name>
+    <display-name lang="ja">Dlife(ディーライフ)</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-131-400x400.png"/>
   </channel>
   <channel id="TBSチャンネル1_jp">
-    <display-name lang="ja">"ja">TBSチャンネル1</display-name>
+    <display-name lang="ja">TBSチャンネル1</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png"/>
   </channel>
   <channel id="TBSチャンネル2_jp">
-    <display-name lang="ja">"ja">TBSチャンネル2</display-name>
+    <display-name lang="ja">TBSチャンネル2</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png"/>
   </channel>
   <channel id="テレ朝チャンネル1_jp">
-    <display-name lang="ja">"ja">テレ朝チャンネル1</display-name>
+    <display-name lang="ja">テレ朝チャンネル1</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png"/>
   </channel>
   <channel id="テレ朝チャンネル2_jp">
-    <display-name lang="ja">"ja">テレ朝チャンネル2</display-name>
+    <display-name lang="ja">テレ朝チャンネル2</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-188-400x400.png"/>
   </channel>
   <channel id="ホームドラマチャンネル_jp">
-    <display-name lang="ja">"ja">ホームドラマチャンネル</display-name>
+    <display-name lang="ja">ホームドラマチャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-141-400x400.png"/>
   </channel>
   <channel id="LaLa-TV_jp">
-    <display-name lang="ja">"ja">LaLa-TV</display-name>
+    <display-name lang="ja">LaLa-TV</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-123-400x400.png"/>
   </channel>
   <channel id="ファミリー劇場_jp">
-    <display-name lang="ja">"ja">ファミリー劇場</display-name>
+    <display-name lang="ja">ファミリー劇場</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-157-400x400.png"/>
   </channel>
   <channel id="アクションチャンネル_jp">
-    <display-name lang="ja">"ja">アクションチャンネル</display-name>
+    <display-name lang="ja">アクションチャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-148-400x400.png"/>
   </channel>
   <channel id="ミステリーチャンネル_jp">
-    <display-name lang="ja">"ja">ミステリーチャンネル</display-name>
+    <display-name lang="ja">ミステリーチャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-153-400x400.png"/>
   </channel>
   <channel id="アニマックス_jp">
-    <display-name lang="ja">"ja">アニマックス</display-name>
+    <display-name lang="ja">アニマックス</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png"/>
   </channel>
   <channel id="キッズステーション_jp">
-    <display-name lang="ja">"ja">キッズステーション</display-name>
+    <display-name lang="ja">キッズステーション</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png"/>
   </channel>
   <channel id="カートゥーン-ネットワーク_jp">
-    <display-name lang="ja">"ja">カートゥーン-ネットワーク</display-name>
+    <display-name lang="ja">カートゥーン-ネットワーク</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png"/>
   </channel>
   <channel id="ディズニー・チャンネル_jp">
-    <display-name lang="ja">"ja">ディズニー・チャンネル</display-name>
+    <display-name lang="ja">ディズニー・チャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png"/>
   </channel>
   <channel id="アニメシアター(AT-X)_jp">
-    <display-name lang="ja">"ja">アニメシアター(AT-X)</display-name>
+    <display-name lang="ja">アニメシアター(AT-X)</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png"/>
   </channel>
   <channel id="ディズニージュニア_jp">
-    <display-name lang="ja">"ja">ディズニージュニア</display-name>
+    <display-name lang="ja">ディズニージュニア</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png"/>
   </channel>
   <channel id="WOWOWプライム_jp">
-    <display-name lang="ja">"ja">WOWOWプライム</display-name>
+    <display-name lang="ja">WOWOWプライム</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png"/>
   </channel>
   <channel id="WOWOWライブ_jp">
-    <display-name lang="ja">"ja">WOWOWライブ</display-name>
+    <display-name lang="ja">WOWOWライブ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png"/>
   </channel>
   <channel id="WOWOWシネマ_jp">
-    <display-name lang="ja">"ja">WOWOWシネマ</display-name>
+    <display-name lang="ja">WOWOWシネマ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png"/>
   </channel>
   <channel id="WOWOWプラス_jp">
-    <display-name lang="ja">"ja">WOWOWプラス</display-name>
+    <display-name lang="ja">WOWOWプラス</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png"/>
   </channel>
   <channel id="BS10_jp">
-    <display-name lang="ja">"ja">BS10</display-name>
+    <display-name lang="ja">BS10</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png"/>
   </channel>
   <channel id="BS10プレミアム_jp">
-    <display-name lang="ja">"ja">BS10プレミアム</display-name>
+    <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg"/>
   </channel>
   <channel id="MONDOTV_jp">
-    <display-name lang="ja">"ja">MONDOTV</display-name>
+    <display-name lang="ja">MONDOTV</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png"/>
   </channel>
   <channel id="フジテレビONE_jp">
-    <display-name lang="ja">"ja">フジテレビONE</display-name>
+    <display-name lang="ja">フジテレビONE</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png"/>
   </channel>
   <channel id="フジテレビTWO_jp">
-    <display-name lang="ja">"ja">フジテレビTWO</display-name>
+    <display-name lang="ja">フジテレビTWO</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png"/>
   </channel>
   <channel id="フジテレビNEXT_jp">
-    <display-name lang="ja">"ja">フジテレビNEXT</display-name>
+    <display-name lang="ja">フジテレビNEXT</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png"/>
   </channel>
   <channel id="スーパー!ドラマTV_jp">
-    <display-name lang="ja">"ja">スーパー!ドラマTV</display-name>
+    <display-name lang="ja">スーパー!ドラマTV</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png"/>
   </channel>
   <channel id="KBS-WORLD_jp">
-    <display-name lang="ja">"ja">KBS-WORLD</display-name>
+    <display-name lang="ja">KBS-WORLD</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-184-400x400.png"/>
   </channel>
   <channel id="日テレプラス_jp">
-    <display-name lang="ja">"ja">日テレプラス</display-name>
+    <display-name lang="ja">日テレプラス</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-190-400x400.png"/>
   </channel>
   <channel id="Mnet_jp">
-    <display-name lang="ja">"ja">Mnet</display-name>
+    <display-name lang="ja">Mnet</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-181-400x400.png"/>
   </channel>
   <channel id="タカラヅカ・スカイ・ステージ_jp">
-    <display-name lang="ja">"ja">タカラヅカ・スカイ・ステージ</display-name>
+    <display-name lang="ja">タカラヅカ・スカイ・ステージ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png"/>
   </channel>
   <channel id="旅チャンネル_jp">
-    <display-name lang="ja">"ja">旅チャンネル</display-name>
+    <display-name lang="ja">旅チャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png"/>
   </channel>
   <channel id="TBS-NEWS_jp">
-    <display-name lang="ja">"ja">TBS-NEWS</display-name>
+    <display-name lang="ja">TBS-NEWS</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png"/>
   </channel>
   <channel id="CNNj_jp">
-    <display-name lang="ja">"ja">CNNj</display-name>
+    <display-name lang="ja">CNNj</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png"/>
   </channel>
   <channel id="日テレNEWS24_jp">
-    <display-name lang="ja">"ja">日テレNEWS24</display-name>
+    <display-name lang="ja">日テレNEWS24</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png"/>
   </channel>
   <channel id="BBCニュース_jp">
-    <display-name lang="ja">"ja">BBCニュース</display-name>
+    <display-name lang="ja">BBCニュース</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png"/>
   </channel>
   <channel id="ヒストリーチャンネル_jp">
-    <display-name lang="ja">"ja">ヒストリーチャンネル</display-name>
+    <display-name lang="ja">ヒストリーチャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png"/>
   </channel>
   <channel id="ナショナル-ジオグラフィック_jp">
-    <display-name lang="ja">"ja">ナショナル-ジオグラフィック</display-name>
+    <display-name lang="ja">ナショナル-ジオグラフィック</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png"/>
   </channel>
   <channel id="ディスカバリーチャンネル_jp">
-    <display-name lang="ja">"ja">ディスカバリーチャンネル</display-name>
+    <display-name lang="ja">ディスカバリーチャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png"/>
   </channel>
   <channel id="アニマルプラネット_jp">
-    <display-name lang="ja">"ja">アニマルプラネット</display-name>
+    <display-name lang="ja">アニマルプラネット</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-186-400x400.png"/>
   </channel>
   <channel id="囲碁・将棋チャンネル_jp">
-    <display-name lang="ja">"ja">囲碁・将棋チャンネル</display-name>
+    <display-name lang="ja">囲碁・将棋チャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png"/>
   </channel>
   <channel id="釣りビジョン_jp">
-    <display-name lang="ja">"ja">釣りビジョン</display-name>
+    <display-name lang="ja">釣りビジョン</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png"/>
   </channel>
   <channel id="J-COM-BS_jp">
-    <display-name lang="ja">"ja">J-COM-BS</display-name>
+    <display-name lang="ja">J-COM-BS</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png"/>
   </channel>
   <channel id="BSよしもと_jp">
-    <display-name lang="ja">"ja">BSよしもと</display-name>
+    <display-name lang="ja">BSよしもと</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png"/>
   </channel>
   <channel id="スポーツライブ+_jp">
-    <display-name lang="ja">"ja">スポーツライブ+</display-name>
+    <display-name lang="ja">スポーツライブ+</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png"/>
   </channel>
   <channel id="メ～テレNEXT_jp">
-    <display-name lang="ja">"ja">メ～テレNEXT</display-name>
+    <display-name lang="ja">メ～テレNEXT</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-187-400x400.png"/>
   </channel>
   <channel id="FIGHTING-TV-サムライ_jp">
-    <display-name lang="ja">"ja">FIGHTING-TV-サムライ</display-name>
+    <display-name lang="ja">FIGHTING-TV-サムライ</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png"/>
   </channel>
   <channel id="NHKワールド-JAPAN_jp">
-    <display-name lang="ja">"ja">NHKワールド-JAPAN</display-name>
+    <display-name lang="ja">NHKワールド-JAPAN</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-038-400x400.png"/>
   </channel>
   <channel id="NHKワールド-PREMIUM_jp">
-    <display-name lang="ja">"ja">NHKワールド-PREMIUM</display-name>
+    <display-name lang="ja">NHKワールド-PREMIUM</display-name>
     <icon src="https://nhkworldpremium.com/img/provider/logo.png"/>
   </channel>
   <channel id="NHK-WORLD-PREMIUM_jp">
-    <display-name lang="ja">"ja">NHK-WORLD-PREMIUM</display-name>
+    <display-name lang="ja">NHK-WORLD-PREMIUM</display-name>
     <icon src="https://nhkworldpremium.com/img/provider/logo.png"/>
   </channel>
   <channel id="ショップチャンネル_jp">
-    <display-name lang="ja">"ja">ショップチャンネル</display-name>
+    <display-name lang="ja">ショップチャンネル</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-140-400x400.png"/>
   </channel>
   <channel id="QVC_jp">
-    <display-name lang="ja">"ja">QVC</display-name>
+    <display-name lang="ja">QVC</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-172-400x400.png"/>
   </channel>
   <channel id="ジュエリー☆GSTV_jp">
-    <display-name lang="ja">"ja">ジュエリー☆GSTV</display-name>
+    <display-name lang="ja">ジュエリー☆GSTV</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-192-400x400.png"/>
   </channel>
   <channel id="チャンネル銀河_jp">
-    <display-name lang="ja">"ja">チャンネル銀河</display-name>
+    <display-name lang="ja">チャンネル銀河</display-name>
     <icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png"/>
   </channel>
   <channel id="Pigoo_jp">
-    <display-name lang="ja">"ja">Pigoo</display-name>
+    <display-name lang="ja">Pigoo</display-name>
     <icon src="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-663-75x75.png"/>
   </channel>
   <channel id="鉄道チャンネル_jp">
-    <display-name lang="ja">"ja">鉄道チャンネル</display-name>
+    <display-name lang="ja">鉄道チャンネル</display-name>
     <icon src="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-546-75x75.png"/>
   </channel>
   <channel id="ミュージック・ジャパンTV_jp">
-    <display-name lang="ja">"ja">ミュージック・ジャパンTV</display-name>
+    <display-name lang="ja">ミュージック・ジャパンTV</display-name>
     <icon src="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-639-75x75.png"/>
   </channel>
   <channel id="V-パラダイス_jp">
-    <display-name lang="ja">"ja">V-パラダイス</display-name>
+    <display-name lang="ja">V-パラダイス</display-name>
     <icon src="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-635-75x75.png"/>
   </channel>
   <channel id="ヌーヴェルパラダイス_jp">
-    <display-name lang="ja">"ja">ヌーヴェルパラダイス</display-name>
+    <display-name lang="ja">ヌーヴェルパラダイス</display-name>
     <icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_535.gif"/>
   </channel>
   <channel id="MUSIC-ON!-TV(エムオン!)_jp">
-    <display-name lang="ja">"ja">MUSIC-ON!-TV(エムオン!)</display-name>
+    <display-name lang="ja">MUSIC-ON!-TV(エムオン!)</display-name>
     <icon src="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-641-75x75.png"/>
   </channel>
   <channel id="スカチャン-1_jp">
-    <display-name lang="ja">"ja">スカチャン-1</display-name>
+    <display-name lang="ja">スカチャン-1</display-name>
     <icon src="https://api2.bangumi.org/repix/monomedia/logo/css/logo-0006-801-75x75.png"/>
   </channel>
   <channel id="rch_47">
-    <display-name lang="ja">"ja">日テレNEWS</display-name>
+    <display-name lang="ja">日テレNEWS</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png"/>
   </channel>
   <channel id="rch_108">
-    <display-name lang="ja">"ja">FNNプライムオンライン</display-name>
+    <display-name lang="ja">FNNプライムオンライン</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png"/>
   </channel>
   <channel id="rch_115">
-    <display-name lang="ja">"ja">MBSニュース</display-name>
+    <display-name lang="ja">MBSニュース</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png"/>
   </channel>
   <channel id="rch_45">
-    <display-name lang="ja">"ja">ウェザーニュースLiVE</display-name>
+    <display-name lang="ja">ウェザーニュースLiVE</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/107_whethernews.png"/>
   </channel>
   <channel id="rch_88">
-    <display-name lang="ja">"ja">TOKYO MX チャンネル</display-name>
+    <display-name lang="ja">TOKYO MX チャンネル</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png"/>
   </channel>
   <channel id="rch_56">
-    <display-name lang="ja">"ja">共同通信News</display-name>
+    <display-name lang="ja">共同通信News</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png"/>
   </channel>
   <channel id="rch_101">
-    <display-name lang="ja">"ja">日テレNEWSセレクト グルメや生活情報、ニュース解説満載！</display-name>
+    <display-name lang="ja">日テレNEWSセレクト グルメや生活情報、ニュース解説満載！</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/110_ntvnewsselect.png"/>
   </channel>
   <channel id="rch_54">
-    <display-name lang="ja">"ja">オリコンニュース</display-name>
+    <display-name lang="ja">オリコンニュース</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews_02.png"/>
   </channel>
   <channel id="rch_103">
-    <display-name lang="ja">"ja">NewsWorld</display-name>
+    <display-name lang="ja">NewsWorld</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_NewsWorld.png"/>
   </channel>
   <channel id="rch_70">
-    <display-name lang="ja">"ja">[英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV＋</display-name>
+    <display-name lang="ja">[英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV＋</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png"/>
   </channel>
   <channel id="rch_90">
-    <display-name lang="ja">"ja">[英語]ユーロニュース</display-name>
+    <display-name lang="ja">[英語]ユーロニュース</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png"/>
   </channel>
   <channel id="rch_120">
-    <display-name lang="ja">"ja">[英語]Reuters 60</display-name>
+    <display-name lang="ja">[英語]Reuters 60</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_reuters.png"/>
   </channel>
   <channel id="rch_102">
-    <display-name lang="ja">"ja">QVC</display-name>
+    <display-name lang="ja">QVC</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_qvc.png"/>
   </channel>
   <channel id="rch_112">
-    <display-name lang="ja">"ja">GSTV（宝石専門ch）</display-name>
+    <display-name lang="ja">GSTV（宝石専門ch）</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_gstv.png"/>
   </channel>
   <channel id="rch_89">
-    <display-name lang="ja">"ja">TOP BARÇA</display-name>
+    <display-name lang="ja">TOP BARÇA</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_top-barca.png"/>
   </channel>
   <channel id="rch_75">
-    <display-name lang="ja">"ja">ゴルフ</display-name>
+    <display-name lang="ja">ゴルフ</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/123_golf.png"/>
   </channel>
   <channel id="rch_97">
-    <display-name lang="ja">"ja">日ﾃﾚﾌﾟﾛﾚｽ ｱｰｶｲ部</display-name>
+    <display-name lang="ja">日ﾃﾚﾌﾟﾛﾚｽ ｱｰｶｲ部</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_ntvprowrestling.png"/>
   </channel>
   <channel id="rch_49">
-    <display-name lang="ja">"ja">スカイA　サプリ</display-name>
+    <display-name lang="ja">スカイA　サプリ</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png"/>
   </channel>
   <channel id="rch_51">
-    <display-name lang="ja">"ja">GAORA ZERO</display-name>
+    <display-name lang="ja">GAORA ZERO</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/130_gaorazero.png"/>
   </channel>
   <channel id="rch_64">
-    <display-name lang="ja">"ja">FUEL TV</display-name>
+    <display-name lang="ja">FUEL TV</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png"/>
   </channel>
   <channel id="rch_73">
-    <display-name lang="ja">"ja">手塚プロダクションTV</display-name>
+    <display-name lang="ja">手塚プロダクションTV</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png"/>
   </channel>
   <channel id="rch_65">
-    <display-name lang="ja">"ja">キッズ</display-name>
+    <display-name lang="ja">キッズ</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png"/>
   </channel>
   <channel id="rch_94">
-    <display-name lang="ja">"ja">NEW KPOP</display-name>
+    <display-name lang="ja">NEW KPOP</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png"/>
   </channel>
   <channel id="rch_34">
-    <display-name lang="ja">"ja">ムビドラTV</display-name>
+    <display-name lang="ja">ムビドラTV</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png"/>
   </channel>
   <channel id="rch_43">
-    <display-name lang="ja">"ja">HISTORY</display-name>
+    <display-name lang="ja">HISTORY</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png"/>
   </channel>
   <channel id="rch_30">
-    <display-name lang="ja">"ja">鉄道・旅</display-name>
+    <display-name lang="ja">鉄道・旅</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png"/>
   </channel>
   <channel id="rch_114">
-    <display-name lang="ja">"ja">九州・沖縄　街ネタ</display-name>
+    <display-name lang="ja">九州・沖縄　街ネタ</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png"/>
   </channel>
   <channel id="rch_86">
-    <display-name lang="ja">"ja">ワンニャンチャンネル</display-name>
+    <display-name lang="ja">ワンニャンチャンネル</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png"/>
   </channel>
   <channel id="rch_113">
-    <display-name lang="ja">"ja">ぷれいば！ ～ゲーム専門チャンネル～</display-name>
+    <display-name lang="ja">ぷれいば！ ～ゲーム専門チャンネル～</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png"/>
   </channel>
   <channel id="rch_46">
-    <display-name lang="ja">"ja">釣り</display-name>
+    <display-name lang="ja">釣り</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png"/>
   </channel>
   <channel id="rch_100">
-    <display-name lang="ja">"ja">囲碁・将棋ライト</display-name>
+    <display-name lang="ja">囲碁・将棋ライト</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/204_igoshogi.png"/>
   </channel>
   <channel id="rch_36">
-    <display-name lang="ja">"ja">将棋</display-name>
+    <display-name lang="ja">将棋</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png"/>
   </channel>
   <channel id="rch_74">
-    <display-name lang="ja">"ja">麻雀</display-name>
+    <display-name lang="ja">麻雀</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png"/>
   </channel>
   <channel id="rch_35">
-    <display-name lang="ja">"ja">パチンコ・パチスロ</display-name>
+    <display-name lang="ja">パチンコ・パチスロ</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png"/>
   </channel>
   <channel id="rch_37">
-    <display-name lang="ja">"ja">エンタメ～テレDEEP</display-name>
+    <display-name lang="ja">エンタメ～テレDEEP</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png"/>
   </channel>
   <channel id="rch_104">
-    <display-name lang="ja">"ja">that’s 70s</display-name>
+    <display-name lang="ja">that’s 70s</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_thats_70s.png"/>
   </channel>
   <channel id="rch_105">
-    <display-name lang="ja">"ja">that’s 80s</display-name>
+    <display-name lang="ja">that’s 80s</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/228_thats_80s.png"/>
   </channel>
   <channel id="rch_106">
-    <display-name lang="ja">"ja">that’s 90s00s</display-name>
+    <display-name lang="ja">that’s 90s00s</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/229_thats_90s00s.png"/>
   </channel>
   <channel id="rch_107">
-    <display-name lang="ja">"ja">that’s Rock</display-name>
+    <display-name lang="ja">that’s Rock</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/230_thats_rock.png"/>
   </channel>
   <channel id="rch_85">
-    <display-name lang="ja">"ja">演歌・歌謡</display-name>
+    <display-name lang="ja">演歌・歌謡</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png"/>
   </channel>
   <channel id="rch_98">
-    <display-name lang="ja">"ja">セクシーエンタメチャンネル</display-name>
+    <display-name lang="ja">セクシーエンタメチャンネル</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png"/>
   </channel>
   <channel id="rch_59">
-    <display-name lang="ja">"ja">おとなの歓楽街 by MEN’S NECO</display-name>
+    <display-name lang="ja">おとなの歓楽街 by MEN’S NECO</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png"/>
   </channel>
   <channel id="rch_41">
-    <display-name lang="ja">"ja">アイドル・グラビア</display-name>
+    <display-name lang="ja">アイドル・グラビア</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png"/>
   </channel>
   <channel id="rch_40">
-    <display-name lang="ja">"ja">刺激ストロング</display-name>
+    <display-name lang="ja">刺激ストロング</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png"/>
   </channel>
   <channel id="rch_42">
-    <display-name lang="ja">"ja">映画（年齢制限あり）</display-name>
+    <display-name lang="ja">映画（年齢制限あり）</display-name>
     <icon src="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png"/>
   </channel>
   <channel id="tver_ntv">
-    <display-name lang="ja">"ja">日テレ系</display-name>
+    <display-name lang="ja">日テレ系</display-name>
     <icon src="https://statics.tver.jp/images/icon/ntv.jpg"/>
   </channel>
   <channel id="tver_ex">
-    <display-name lang="ja">"ja">テレ朝系</display-name>
+    <display-name lang="ja">テレ朝系</display-name>
     <icon src="https://statics.tver.jp/images/icon/ex.jpg"/>
   </channel>
   <channel id="tver_tbs">
-    <display-name lang="ja">"ja">TBS系</display-name>
+    <display-name lang="ja">TBS系</display-name>
     <icon src="https://statics.tver.jp/images/icon/tbs.jpg"/>
   </channel>
   <channel id="tver_tx">
-    <display-name lang="ja">"ja">テレ東系</display-name>
+    <display-name lang="ja">テレ東系</display-name>
     <icon src="https://statics.tver.jp/images/icon/tx.jpg"/>
   </channel>
   <channel id="tver_cx">
-    <display-name lang="ja">"ja">フジ系</display-name>
+    <display-name lang="ja">フジ系</display-name>
     <icon src="https://statics.tver.jp/images/icon/cx.jpg"/>
   </channel>
   <channel id="abema-anime">
-    <display-name lang="ja">"ja">ABEMA アニメチャンネル</display-name>
+    <display-name lang="ja">ABEMA アニメチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png"/>
   </channel>
   <channel id="drama">
-    <display-name lang="ja">"ja">ドラマ映画チャンネル</display-name>
+    <display-name lang="ja">ドラマ映画チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama/logo.png"/>
   </channel>
   <channel id="abema-news">
-    <display-name lang="ja">"ja">ABEMA NEWSチャンネル</display-name>
+    <display-name lang="ja">ABEMA NEWSチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png"/>
   </channel>
   <channel id="drama-2">
-    <display-name lang="ja">"ja">ドラマ映画チャンネル2</display-name>
+    <display-name lang="ja">ドラマ映画チャンネル2</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-2/logo.png"/>
   </channel>
   <channel id="news-plus">
-    <display-name lang="ja">"ja">ABEMA NEWS会見チャンネル</display-name>
+    <display-name lang="ja">ABEMA NEWS会見チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png"/>
   </channel>
   <channel id="abema-anime-2">
-    <display-name lang="ja">"ja">ABEMA アニメチャンネル2</display-name>
+    <display-name lang="ja">ABEMA アニメチャンネル2</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png"/>
   </channel>
   <channel id="abema-anime-3">
-    <display-name lang="ja">"ja">ABEMA アニメチャンネル3</display-name>
+    <display-name lang="ja">ABEMA アニメチャンネル3</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-3/logo.png"/>
   </channel>
   <channel id="drama-3">
-    <display-name lang="ja">"ja">ドラマ映画チャンネル3</display-name>
+    <display-name lang="ja">ドラマ映画チャンネル3</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-3/logo.png"/>
   </channel>
   <channel id="special-plus-7">
-    <display-name lang="ja">"ja">アニメSPECIALチャンネル</display-name>
+    <display-name lang="ja">アニメSPECIALチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png"/>
   </channel>
   <channel id="drama-4">
-    <display-name lang="ja">"ja">国内ドラマチャンネル</display-name>
+    <display-name lang="ja">国内ドラマチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/drama-4/logo.png"/>
   </channel>
   <channel id="anime-special-2">
-    <display-name lang="ja">"ja">アニメSPECIAL2チャンネル</display-name>
+    <display-name lang="ja">アニメSPECIAL2チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png"/>
   </channel>
   <channel id="abema-special">
-    <display-name lang="ja">"ja">ABEMA SPECIALチャンネル</display-name>
+    <display-name lang="ja">ABEMA SPECIALチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/abema-special/logo.png"/>
   </channel>
   <channel id="anime-special-3">
-    <display-name lang="ja">"ja">アニメSPECIAL3チャンネル</display-name>
+    <display-name lang="ja">アニメSPECIAL3チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-3/logo.png"/>
   </channel>
   <channel id="special-plus">
-    <display-name lang="ja">"ja">ABEMA SPECIAL 2チャンネル</display-name>
+    <display-name lang="ja">ABEMA SPECIAL 2チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus/logo.png"/>
   </channel>
   <channel id="special-plus-2">
-    <display-name lang="ja">"ja">ABEMA SPECIAL 3チャンネル</display-name>
+    <display-name lang="ja">ABEMA SPECIAL 3チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-2/logo.png"/>
   </channel>
   <channel id="special-plus-8">
-    <display-name lang="ja">"ja">恋愛チャンネル</display-name>
+    <display-name lang="ja">恋愛チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-8/logo.png"/>
   </channel>
   <channel id="viby">
-    <display-name lang="ja">"ja">VIBYチャンネル</display-name>
+    <display-name lang="ja">VIBYチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/viby/logo.png"/>
   </channel>
   <channel id="haruhi">
-    <display-name lang="ja">"ja">涼宮ハルヒの憂鬱チャンネル</display-name>
+    <display-name lang="ja">涼宮ハルヒの憂鬱チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/haruhi/logo.png"/>
   </channel>
   <channel id="anime-live">
-    <display-name lang="ja">"ja">アニメLIVEチャンネル</display-name>
+    <display-name lang="ja">アニメLIVEチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png"/>
   </channel>
   <channel id="anime-live2">
-    <display-name lang="ja">"ja">アニメLIVEチャンネル2</display-name>
+    <display-name lang="ja">アニメLIVEチャンネル2</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live2/logo.png"/>
   </channel>
   <channel id="anime-live3">
-    <display-name lang="ja">"ja">アニメLIVEチャンネル3</display-name>
+    <display-name lang="ja">アニメLIVEチャンネル3</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/anime-live3/logo.png"/>
   </channel>
   <channel id="80s-anime-1">
-    <display-name lang="ja">"ja">なつかしアニメ80's</display-name>
+    <display-name lang="ja">なつかしアニメ80's</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png"/>
   </channel>
   <channel id="chibimaruko">
-    <display-name lang="ja">"ja">ちびまる子ちゃんチャンネル</display-name>
+    <display-name lang="ja">ちびまる子ちゃんチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/chibimaruko/logo.png"/>
   </channel>
   <channel id="atashinchi">
-    <display-name lang="ja">"ja">あたしンちチャンネル</display-name>
+    <display-name lang="ja">あたしンちチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png"/>
   </channel>
   <channel id="90s-anime-1">
-    <display-name lang="ja">"ja">なつかしアニメ90's</display-name>
+    <display-name lang="ja">なつかしアニメ90's</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png"/>
   </channel>
   <channel id="00s-anime-1">
-    <display-name lang="ja">"ja">なつかしアニメ00's</display-name>
+    <display-name lang="ja">なつかしアニメ00's</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/00s-anime-1/logo.png"/>
   </channel>
   <channel id="isekai-anime">
-    <display-name lang="ja">"ja">異世界・ファンタジーアニメチャンネル</display-name>
+    <display-name lang="ja">異世界・ファンタジーアニメチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png"/>
   </channel>
   <channel id="pokemon-1">
-    <display-name lang="ja">"ja">アニメ ポケットモンスターチャンネル1</display-name>
+    <display-name lang="ja">アニメ ポケットモンスターチャンネル1</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png"/>
   </channel>
   <channel id="isekai-anime-2">
-    <display-name lang="ja">"ja">異世界・ファンタジーアニメ2チャンネル</display-name>
+    <display-name lang="ja">異世界・ファンタジーアニメ2チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-2/logo.png"/>
   </channel>
   <channel id="pokemon-2">
-    <display-name lang="ja">"ja">アニメ ポケットモンスターチャンネル2</display-name>
+    <display-name lang="ja">アニメ ポケットモンスターチャンネル2</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png"/>
   </channel>
   <channel id="conan">
-    <display-name lang="ja">"ja">名探偵コナンチャンネル</display-name>
+    <display-name lang="ja">名探偵コナンチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/conan/logo.png"/>
   </channel>
   <channel id="isekai-anime-3">
-    <display-name lang="ja">"ja">異世界・ファンタジーアニメ3チャンネル</display-name>
+    <display-name lang="ja">異世界・ファンタジーアニメ3チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-3/logo.png"/>
   </channel>
   <channel id="onepiece">
-    <display-name lang="ja">"ja">ONE PIECEチャンネル</display-name>
+    <display-name lang="ja">ONE PIECEチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/onepiece/logo.png"/>
   </channel>
   <channel id="family-anime-1">
-    <display-name lang="ja">"ja">ファミリーアニメ</display-name>
+    <display-name lang="ja">ファミリーアニメ</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png"/>
   </channel>
   <channel id="disney">
-    <display-name lang="ja">"ja">DISNEY名作コレクション</display-name>
+    <display-name lang="ja">DISNEY名作コレクション</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/disney/logo.png"/>
   </channel>
   <channel id="family-anime-2">
-    <display-name lang="ja">"ja">ファミリーアニメ2チャンネル</display-name>
+    <display-name lang="ja">ファミリーアニメ2チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-2/logo.png"/>
   </channel>
   <channel id="isekai-anime-4">
-    <display-name lang="ja">"ja">異世界・ファンタジーアニメ4チャンネル</display-name>
+    <display-name lang="ja">異世界・ファンタジーアニメ4チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-4/logo.png"/>
   </channel>
   <channel id="family-anime-3">
-    <display-name lang="ja">"ja">ファミリーアニメ3チャンネル</display-name>
+    <display-name lang="ja">ファミリーアニメ3チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-3/logo.png"/>
   </channel>
   <channel id="lovecomedy-anime">
-    <display-name lang="ja">"ja">ラブコメアニメチャンネル</display-name>
+    <display-name lang="ja">ラブコメアニメチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/lovecomedy-anime/logo.png"/>
   </channel>
   <channel id="dailylife-anime">
-    <display-name lang="ja">"ja">日常・青春アニメチャンネル</display-name>
+    <display-name lang="ja">日常・青春アニメチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/dailylife-anime/logo.png"/>
   </channel>
   <channel id="late-night-anime">
-    <display-name lang="ja">"ja">深夜アニメチャンネル</display-name>
+    <display-name lang="ja">深夜アニメチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/late-night-anime/logo.png"/>
   </channel>
   <channel id="asia-drama">
-    <display-name lang="ja">"ja">韓国ドラマチャンネル</display-name>
+    <display-name lang="ja">韓国ドラマチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama/logo.png"/>
   </channel>
   <channel id="asia-drama-2">
-    <display-name lang="ja">"ja">韓国ドラマチャンネル2</display-name>
+    <display-name lang="ja">韓国ドラマチャンネル2</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-drama-2/logo.png"/>
   </channel>
   <channel id="chinese-drama">
-    <display-name lang="ja">"ja">中国ドラマチャンネル</display-name>
+    <display-name lang="ja">中国ドラマチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/chinese-drama/logo.png"/>
   </channel>
   <channel id="asia-love-comedy">
-    <display-name lang="ja">"ja">韓国ラブコメディ</display-name>
+    <display-name lang="ja">韓国ラブコメディ</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-love-comedy/logo.png"/>
   </channel>
   <channel id="asia-loveromance">
-    <display-name lang="ja">"ja">韓国ラブロマンス</display-name>
+    <display-name lang="ja">韓国ラブロマンス</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-loveromance/logo.png"/>
   </channel>
   <channel id="asia-historical">
-    <display-name lang="ja">"ja">韓国時代劇</display-name>
+    <display-name lang="ja">韓国時代劇</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/asia-historical/logo.png"/>
   </channel>
   <channel id="k-world">
-    <display-name lang="ja">"ja">K WORLDチャンネル</display-name>
+    <display-name lang="ja">K WORLDチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/k-world/logo.png"/>
   </channel>
   <channel id="mahjong">
-    <display-name lang="ja">"ja">麻雀チャンネル</display-name>
+    <display-name lang="ja">麻雀チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong/logo.png"/>
   </channel>
   <channel id="shogi">
-    <display-name lang="ja">"ja">将棋チャンネル</display-name>
+    <display-name lang="ja">将棋チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/shogi/logo.png"/>
   </channel>
   <channel id="mahjong-2">
-    <display-name lang="ja">"ja">麻雀チャンネル2</display-name>
+    <display-name lang="ja">麻雀チャンネル2</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/mahjong-2/logo.png"/>
   </channel>
   <channel id="world-sports">
-    <display-name lang="ja">"ja">SPORTSチャンネル</display-name>
+    <display-name lang="ja">SPORTSチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/world-sports/logo.png"/>
   </channel>
   <channel id="fighting-sports">
-    <display-name lang="ja">"ja">格闘チャンネル</display-name>
+    <display-name lang="ja">格闘チャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/fighting-sports/logo.png"/>
   </channel>
   <channel id="hiphop">
-    <display-name lang="ja">"ja">HIPHOPチャンネル</display-name>
+    <display-name lang="ja">HIPHOPチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/hiphop/logo.png"/>
   </channel>
   <channel id="commercial">
-    <display-name lang="ja">"ja">CMチャンネル</display-name>
+    <display-name lang="ja">CMチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png"/>
   </channel>
   <channel id="boatrace">
-    <display-name lang="ja">"ja">BOATRACEチャンネル</display-name>
+    <display-name lang="ja">BOATRACEチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png"/>
   </channel>
   <channel id="keirin-auto">
-    <display-name lang="ja">"ja">競輪・オートレースチャンネル</display-name>
+    <display-name lang="ja">競輪・オートレースチャンネル</display-name>
     <icon src="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png"/>
   </channel>
   <channel id="fastch_v2_tokai">
-    <display-name lang="ja">"ja">《09.30end》東海ロキポch</display-name>
+    <display-name lang="ja">《09.30end》東海ロキポch</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo"/>
   </channel>
   <channel id="fastch_v2_hokkaido">
-    <display-name lang="ja">"ja">《09.30-live-end》丸ごと北海道ch</display-name>
+    <display-name lang="ja">《09.30-live-end》丸ごと北海道ch</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo"/>
   </channel>
   <channel id="fastch_v2_goshogi">
-    <display-name lang="ja">"ja">《09.30-live-end》囲碁・将棋ライト</display-name>
+    <display-name lang="ja">《09.30-live-end》囲碁・将棋ライト</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo"/>
   </channel>
   <channel id="fastch_v2_busns">
-    <display-name lang="ja">"ja">《09.30-live-end》ビジネス・プレミアムチャンネル</display-name>
+    <display-name lang="ja">《09.30-live-end》ビジネス・プレミアムチャンネル</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo"/>
   </channel>
   <channel id="fastch_v2_recip">
-    <display-name lang="ja">"ja">《09.30-live-end》観るたび PRODUCED by るるぶ</display-name>
+    <display-name lang="ja">《09.30-live-end》観るたび PRODUCED by るるぶ</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo"/>
   </channel>
   <channel id="fastch_v2_samri">
-    <display-name lang="ja">"ja">《09.30-live-end》時代劇TV（Powered by 時代劇専門チャンネル）</display-name>
+    <display-name lang="ja">《09.30-live-end》時代劇TV（Powered by 時代劇専門チャンネル）</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo"/>
   </channel>
   <channel id="fastch_v2_comdy">
-    <display-name lang="ja">"ja">《09.30-live-end》Lemino TV</display-name>
+    <display-name lang="ja">《09.30-live-end》Lemino TV</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo"/>
   </channel>
   <channel id="fastch_v2_kids">
-    <display-name lang="ja">"ja">《09.30-live-end》アニマックスFREE</display-name>
+    <display-name lang="ja">《09.30-live-end》アニマックスFREE</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo"/>
   </channel>
   <channel id="fastch_v2_jpthp">
-    <display-name lang="ja">"ja">《09.30-live-end》ぴあ落語ざんまい</display-name>
+    <display-name lang="ja">《09.30-live-end》ぴあ落語ざんまい</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo"/>
   </channel>
   <channel id="fastch_v2_asdrm">
-    <display-name lang="ja">"ja">《09.30-live-end》エンタメ・アジアFree</display-name>
+    <display-name lang="ja">《09.30-live-end》エンタメ・アジアFree</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo"/>
   </channel>
   <channel id="fastch_v2_pett1">
-    <display-name lang="ja">"ja">《09.30-live-end》ペットTV</display-name>
+    <display-name lang="ja">《09.30-live-end》ペットTV</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo"/>
   </channel>
   <channel id="fastch_v2_bgolf">
-    <display-name lang="ja">"ja">《09.30-live-end》GOLF LIFE</display-name>
+    <display-name lang="ja">《09.30-live-end》GOLF LIFE</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo"/>
   </channel>
   <channel id="fastch_v2_news1">
-    <display-name lang="ja">"ja">《09.30-live-end》丸ごと九州ch</display-name>
+    <display-name lang="ja">《09.30-live-end》丸ごと九州ch</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo"/>
   </channel>
   <channel id="fastch_v2_travl">
-    <display-name lang="ja">"ja">《09.30-live-end》今日のごはん なに？</display-name>
+    <display-name lang="ja">《09.30-live-end》今日のごはん なに？</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo"/>
   </channel>
   <channel id="fastch_v2_snyon">
-    <display-name lang="ja">"ja">《09.30-live-end》FASHION+</display-name>
+    <display-name lang="ja">《09.30-live-end》FASHION+</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo"/>
   </channel>
   <channel id="fastch_v2_entns">
-    <display-name lang="ja">"ja">《09.30-live-end》エンタメニュース POWERED BY ORICON NEWS</display-name>
+    <display-name lang="ja">《09.30-live-end》エンタメニュース POWERED BY ORICON NEWS</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo"/>
   </channel>
   <channel id="fastch_v2_camng">
-    <display-name lang="ja">"ja">《09.30-live-end》キャンプ・アウトドアチャンネルPowered byハピキャン</display-name>
+    <display-name lang="ja">《09.30-live-end》キャンプ・アウトドアチャンネルPowered byハピキャン</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo"/>
   </channel>
   <channel id="fastch_v2_krdrm">
-    <display-name lang="ja">"ja">《09.30-live-end》韓流チャンネル</display-name>
+    <display-name lang="ja">《09.30-live-end》韓流チャンネル</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo"/>
   </channel>
   <channel id="fastch_v2_17live">
-    <display-name lang="ja">"ja">《09.30-live-end》Free TV NEWS Powered by 17LIVE</display-name>
+    <display-name lang="ja">《09.30-live-end》Free TV NEWS Powered by 17LIVE</display-name>
     <icon src="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/17live/channel_logo"/>
   </channel>
   <programme start="20260818002000 +0900" stop="20260818004800 +0900" channel="NHK東京・総合_jp">
