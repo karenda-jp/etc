@@ -32,7 +32,7 @@
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
 
 日数にして1～2日分　10MB未満のファイルに変わります
-~~~
+
 
 ## データ１日間に絞れば何とか私の作業負担及び意識を離れ更新出来ない事もないのじゃなかろうか？
 ## もろもろ確認中！　何せ忙しいのじゃぁぁぁ！！
@@ -72,3 +72,5 @@ xrea.comにて【EPG-取得プログラム tempest.php】は無事動作する�
  https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz
 
 ~~~
+
+<img width="1175" height="824" alt="" src="https://github.com/user-attachments/assets/70a17642-5c96-4149-98f5-c2b536bfa689" />
