@@ -12,6 +12,7 @@
 ・JPLUS_TVトークン
 ・prime未使用取り放題
 ・WEB視聴ツール　MUJI PRIME両方
+・EPG置換君
 ~~~
 
 ~~~
