@@ -70,4 +70,6 @@
 
 ~~~
 
-<img width="1175" height="824" alt="" src="https://github.com/user-attachments/assets/70a17642-5c96-4149-98f5-c2b536bfa689" />
+初回更新ログ<br />
+<img width="742" height="655" alt="" src="https://github.com/user-attachments/assets/9ccd970d-2cf8-4e31-a35b-b947b2e94bbb" />
+
