@@ -2248,7 +2248,6 @@
   <programme start="20260829090000 +0900" stop="20260829091500 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">LOVEかわさき▽発見！カワサキで輝くキラリ人☆ 第４弾</title>
     <desc lang="ja">今回は、川崎市でキラリ☆と輝く“人”にスポットを当ててお届けする企画の第４弾！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/470375/image/89922b335c28ecfc72c3db9b70730e09.jpg"/>
   </programme>
   <programme start="20260829091500 +0900" stop="20260829093000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">有村劇場3.0▽トイ・ストーリー5</title>
@@ -2269,7 +2268,6 @@
   <programme start="20260829110000 +0900" stop="20260829113000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">クルマでいこう！▽コンパクトSUVの躍動 日産 キックス[再]</title>
     <desc lang="ja">日産 キックスの実力を岡崎五朗・藤島知子が試乗やメーカーとのインタビューを通して、分かりやすく立体的にチェックします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/470378/image/408b0234f6ce0135d405ed5c8c764f79.jpg"/>
   </programme>
   <programme start="20260829113000 +0900" stop="20260829115900 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">tvkお買物情報</title>
@@ -2330,11 +2328,10 @@
   <programme start="20260829180000 +0900" stop="20260829183000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">ハマナビ▽空から地下までハマの防災</title>
     <desc lang="ja">横浜をマナビ、横浜をナビゲート！横浜の観光情報、グルメ、地元に密着した情報をお届け。旬の横浜の魅力をお伝えします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/470361/image/73244e32090a8879d3afa50b769cc684.jpg"/>
   </programme>
   <programme start="20260829183000 +0900" stop="20260829215500 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">tvkプロ野球中継横浜DeNAベイスターズ熱烈LIVE「横浜×中日」[多]</title>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/470359/image/e2daf55150e55b2aea3195043efa09c9.png"/>
+    <desc lang="ja">勝つためには夢見る少女じゃいられない！！ 神業に今もふるえてる七回に期待の私がいる 瀬戸際に全ベイ団結!</desc>
   </programme>
   <programme start="20260829215500 +0900" stop="20260829220000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">tvkニュース</title>
@@ -2355,12 +2352,10 @@
   <programme start="20260829233000 +0900" stop="20260830000000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">洋楽天国＋▽マイケル・ジャクソン特集</title>
     <desc lang="ja">映画「マイケル」も話題のマイケル・ジャクソンを特集!</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/470346/image/c352c35425187134e9babc66b8c32875.jpg"/>
   </programme>
   <programme start="20260830000000 +0900" stop="20260830002500 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">音楽缶</title>
     <desc lang="ja">最新のミュージックビデオをノーカットで紹介</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/470349/image/7399313dea692e7058d0e1a4bc8460e4.jpg"/>
   </programme>
   <programme start="20260830002500 +0900" stop="20260830003000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">weather report</title>
@@ -2369,7 +2364,6 @@
   <programme start="20260830003000 +0900" stop="20260830010000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">洋楽天国EXXTRA30</title>
     <desc lang="ja">ヒット曲満載！洋楽ミュージック・ビデオ!</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/470350/image/564feecf3be055c02da25cf04a237b90.jpg"/>
   </programme>
   <programme start="20260830010000 +0900" stop="20260830013000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">tvkお買物情報</title>
@@ -4849,7 +4843,7 @@
   </programme>
   <programme start="20260828135500 +0900" stop="20260828140000 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">テレビ体操[字]</title>
-    <desc lang="ja">【出演】鈴木大輔，能條貴大，我喜屋佑衣，新井庸太，杉井勇介，森山雅斗</desc>
+    <desc lang="ja">【出演】鈴木大輔,能條貴大,我喜屋佑衣,新井庸太,杉井勇介,森山雅斗</desc>
   </programme>
   <programme start="20260828140000 +0900" stop="20260828140500 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -5379,8 +5373,8 @@
     <desc lang="ja">江戸の遊郭「吉原」の愛憎渦巻く人間模様を描いた創作舞踊をふたたび▽スタジオで再演！舞台とは一味違うカメラワークが見どころ▽舞踊家たちのダイナミックな群舞は必見!</desc>
   </programme>
   <programme start="20260828134000 +0900" stop="20260828141000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">日本の話芸　三遊亭萬橘　落語「二階ぞめき」[解][字][再]</title>
-    <desc lang="ja">三遊亭萬橘さんの落語「二階ぞめき」をお送りします（令和7年10月5日（日）神奈川県愛川町文化会館で収録）</desc>
+    <title lang="ja">日本の話芸 三遊亭萬橘 落語「二階ぞめき」[解][字][再]</title>
+    <desc lang="ja">三遊亭萬橘さんの落語「二階ぞめき」をお送りします(令和7年10月5日(日)神奈川県愛川町文化会館で収録)</desc>
   </programme>
   <programme start="20260828141000 +0900" stop="20260828143500 +0900" channel="NHK大阪・教育_jp">
     <title lang="ja">趣味の園芸　季節先取り！色＆形で感じる秋[字]</title>
@@ -5868,7 +5862,7 @@
   </programme>
   <programme start="20260828135500 +0900" stop="20260828140000 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">テレビ体操[字]</title>
-    <desc lang="ja">【出演】鈴木大輔，能條貴大，我喜屋佑衣，新井庸太，杉井勇介，森山雅斗</desc>
+    <desc lang="ja">【出演】鈴木大輔,能條貴大,我喜屋佑衣,新井庸太,杉井勇介,森山雅斗</desc>
   </programme>
   <programme start="20260828140000 +0900" stop="20260828140500 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -40464,11 +40458,11 @@
   </programme>
   <programme start="20260829183000 +0900" stop="20260830020400 +0900" channel="tver_ntv">
     <title lang="ja">24時間テレビ49「わたしの家族の話～あなたは誰を想う？～」</title>
-    <desc lang="ja">「わたしの家族の話~あなたは誰を想う?~」</desc>
+    <desc lang="ja">PART.1</desc>
   </programme>
   <programme start="20260830020400 +0900" stop="20260830050000 +0900" channel="tver_ntv">
     <title lang="ja">24時間テレビ49「わたしの家族の話～あなたは誰を想う？～」</title>
-    <desc lang="ja">「わたしの家族の話~あなたは誰を想う?~」</desc>
+    <desc lang="ja">PART.2</desc>
   </programme>
   <programme start="20260828185000 +0900" stop="20260828205400 +0900" channel="tver_ex">
     <title lang="ja">ザワつく！ 金曜日</title>
