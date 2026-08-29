@@ -1077,8 +1077,7 @@
     <title lang="ja">気象情報</title>
   </programme>
   <programme start="20260830090000 +0900" stop="20260830100000 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">日曜討論 アメリカ“経済制裁” どうなるイラン情勢</title>
-    <desc lang="ja">米“大規模経済制裁”でイラン情勢は？トランプ外交は？専門家が徹底分析▽新たな経済制裁のねらい・効果は▽ホルムズ海峡・原油調達は？日本への影響は▽今後の国際秩序は</desc>
+    <title lang="ja">ニュース[字]</title>
   </programme>
   <programme start="20260830100000 +0900" stop="20260830100500 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -1222,37 +1221,21 @@
     <title lang="ja">ドキュメント20min. 100点の上司[字]</title>
     <desc lang="ja">「２０分見れば、絶対に１００点の上司になれます！」怪しい研修動画『１００点の上司』をテレビプロデューサー・佐久間宣行と受講して、「良い上司とは何か？」を探る!</desc>
   </programme>
-  <programme start="20260831002000 +0900" stop="20260831002200 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">【夜ドラ】税金で買った本 PR[字]</title>
-    <desc lang="ja">ヤンキー高校生・石平紀一（奥平大兼）は、ひょんなことから図書館でアルバイトをすることに。個性的な図書館員たちと繰り広げるライブラリー・ヒューマンコメディー!</desc>
+  <programme start="20260831002000 +0900" stop="20260831012100 +0900" channel="NHK東京・総合_jp">
+    <title lang="ja">日曜討論 アメリカ“経済制裁” どうなるイラン情勢</title>
+    <desc lang="ja">米“大規模経済制裁”でイラン情勢は？トランプ外交は？専門家が徹底分析▽新たな経済制裁のねらい・効果は▽ホルムズ海峡・原油調達は？日本への影響は▽今後の国際秩序は</desc>
   </programme>
-  <programme start="20260831002200 +0900" stop="20260831002300 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">団地のふたりPR</title>
-    <desc lang="ja">５０代、独身、実家暮らし。小泉今日子×小林聡美、団地で生まれた幼なじみふたりの温かくユーモラスな友情を描くプレミアムドラマ「団地のふたり」の1分PR。</desc>
-  </programme>
-  <programme start="20260831002300 +0900" stop="20260831002500 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">【土曜ドラマ】リラの花咲くけものみち2 PR</title>
-    <desc lang="ja">聡里（山田杏奈）は獣医師となり、仲間たちも各々の道を歩み始める。牧場の牛に口てい疫が発生。聡里は家畜保健衛生所の犬飼（上川隆也）と共に感染封じ込めに奔走する。</desc>
-  </programme>
-  <programme start="20260831002500 +0900" stop="20260831005300 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">海をこえたふすま絵 奇跡の再会[字][再]</title>
-    <desc lang="ja">英・日・米に離れ離れになっていたふすま絵が１５０年ぶりに東京で奇跡的に再会。４００年前に狩野派の絵師によって描かれたふすま絵の数奇な運命と作品の謎に迫る。</desc>
-  </programme>
-  <programme start="20260831005300 +0900" stop="20260831015300 +0900" channel="NHK東京・総合_jp">
+  <programme start="20260831012100 +0900" stop="20260831022100 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">空からクルージング特別編「フランス・ロワール川を下る」</title>
     <desc lang="ja">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
   </programme>
-  <programme start="20260831015300 +0900" stop="20260831025300 +0900" channel="NHK東京・総合_jp">
+  <programme start="20260831022100 +0900" stop="20260831032100 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">運転席からの風景 神戸電鉄有馬線</title>
     <desc lang="ja">神戸の中心部と有馬温泉を結ぶ、神戸電鉄有馬線。六甲山地を走る登山鉄道の運転席からの風景。</desc>
   </programme>
-  <programme start="20260831025300 +0900" stop="20260831035300 +0900" channel="NHK東京・総合_jp">
+  <programme start="20260831032100 +0900" stop="20260831040000 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">世界の祭り スペイン・パンプローナ 牛追い祭り</title>
     <desc lang="ja">スペインの北部バスク地方の都市パンプローナで人々が心待ちにする牛追い祭り。夏の９日間、市民総出で開かれる勇壮な祭りの模様を、迫力の映像と音で届ける。</desc>
-  </programme>
-  <programme start="20260831035300 +0900" stop="20260831040000 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">ごろごろパンダ日記</title>
-    <desc lang="ja">神戸市立王子動物園で暮らしていたジャイアントパンダのタンタン。もふもふと愛くるしい姿に密着。</desc>
   </programme>
   <programme start="20260831040000 +0900" stop="20260831041500 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">さわやか自然百景 岡山 蒜山（ひるぜん）の森と草原[字]</title>
@@ -4478,7 +4461,7 @@
     <title lang="ja">ＭＸショッピング</title>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="TOKYO・MX2_jp">
-    <title lang="ja">ドルアーガの塔～ｔｈｅ　Ｓｗｏｒｄ　ｏｆ　ＵＲＵＫ～　＃９「夢の終わりに」【再】</title>
+    <title lang="ja">ドルアーガの塔～ｔｈｅ Ｓｗｏｒｄ ｏｆ ＵＲＵＫ～ ＃９「夢の終わりに」【再】</title>
     <desc lang="ja">あらすじ◇仲間のもとにもどった時、ジルが目撃したのは何者かの攻撃に倒れたファティナたちだった。一方竜の墓場では、ジル・パーティーとグレミカ・パーティー、そしてウラーゴンと四騎士の一人マイトが接触。自分たちの置かれた状況を把握し、登頂の目的を確認するジルたち。その時、幻の塔にも新たな異変が始まる。またメスキア市ではエタナがついに蜂起する。そしてカーヤは、幻の塔最上階で、影のギルガメスと対峙する。出演者【ジル】ＫＥＮＮ【カーヤ】折笠富美子【ニーバ】櫻井孝宏【ファティナ】堀江由衣【メルト】郷田ほづみ【クーパ】茅原実里【ウトゥ】安元洋貴【ヘナロ】花澤香菜【カイ】矢島晶子【サキュバス】ゆかな【ギルガメス王】土師孝也【グレミカ】根谷美智子【アクラ】冨澤風斗【ウラーゴン】森川智之【ケルブ】てらそままさき【エタナ】水野理紗【アミナ】田中敦子</desc>
   </programme>
   <programme start="20260830090000 +0900" stop="20260830093000 +0900" channel="TOKYO・MX2_jp">
@@ -4770,8 +4753,7 @@
     <title lang="ja">気象情報</title>
   </programme>
   <programme start="20260830090000 +0900" stop="20260830100000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">日曜討論　アメリカ“経済制裁”　どうなるイラン情勢</title>
-    <desc lang="ja">米“大規模経済制裁”でイラン情勢は？トランプ外交は？専門家が徹底分析▽新たな経済制裁のねらい・効果は▽ホルムズ海峡・原油調達は？日本への影響は▽今後の国際秩序は</desc>
+    <title lang="ja">ニュース[字]</title>
   </programme>
   <programme start="20260830100000 +0900" stop="20260830100500 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -4903,17 +4885,17 @@
     <title lang="ja">空からクルージング特別編「フランス・ロワール川を下る」</title>
     <desc lang="ja">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。8Kで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
   </programme>
-  <programme start="20260831015300 +0900" stop="20260831025300 +0900" channel="NHK大阪・総合_jp">
+  <programme start="20260831015300 +0900" stop="20260831022100 +0900" channel="NHK大阪・総合_jp">
+    <title lang="ja">放送番組未定</title>
+    <desc lang="ja">この時間、放送する番組は未定です</desc>
+  </programme>
+  <programme start="20260831022100 +0900" stop="20260831032100 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">運転席からの風景　神戸電鉄有馬線</title>
     <desc lang="ja">神戸の中心部と有馬温泉を結ぶ、神戸電鉄有馬線。六甲山地を走る登山鉄道の運転席からの風景。</desc>
   </programme>
-  <programme start="20260831025300 +0900" stop="20260831035300 +0900" channel="NHK大阪・総合_jp">
+  <programme start="20260831032100 +0900" stop="20260831040000 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">世界の祭り　スペイン・パンプローナ　牛追い祭り</title>
     <desc lang="ja">スペインの北部バスク地方の都市パンプローナで人々が心待ちにする牛追い祭り。夏の9日間、市民総出で開かれる勇壮な祭りの模様を、迫力の映像と音で届ける。</desc>
-  </programme>
-  <programme start="20260831035300 +0900" stop="20260831040000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">ごろごろパンダ日記</title>
-    <desc lang="ja">神戸市立王子動物園で暮らしていたジャイアントパンダのタンタン。もふもふと愛くるしい姿に密着。</desc>
   </programme>
   <programme start="20260831040000 +0900" stop="20260831041500 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">さわやか自然百景　岡山　蒜山（ひるぜん）の森と草原[字]</title>
@@ -5206,16 +5188,16 @@
     <desc lang="ja">初回放送2017年9月3日のアンコール。ダイコンのタネまきのコツ、「大根十耕」というほどよく耕すのが“また根”にならない土づくりなど、栽培のポイントを紹介する。</desc>
   </programme>
   <programme start="20260830082500 +0900" stop="20260830083000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">趣味の園芸　京も一日陽だまり屋「パイナップルのなるところ」[字]</title>
+    <title lang="ja">趣味の園芸 京も一日陽だまり屋「パイナップルのなるところ」[字]</title>
     <desc lang="ja">パイナップルがどんな風になるのか知りたい！とやってきた小学生、翔太はデタラメを教えてごまかそうとする。コノハの注文でパイナップルの実がついた苗が入荷されて…。</desc>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830085500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">趣味の園芸　選　シャインマスカットに挑戦！[字]</title>
+    <title lang="ja">趣味の園芸 選 シャインマスカットに挑戦![字]</title>
     <desc lang="ja">2025年8月に放送した「シャインマスカットに挑戦！」の再放送。栽培が難しいシャインマスカットを家庭育てる方法や、果実の収穫のコツなどご紹介する。</desc>
   </programme>
   <programme start="20260830085500 +0900" stop="20260830090000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">no　art，no　life「平本　吉胤」[字]</title>
-    <desc lang="ja">平本吉胤（31）は自らの記憶の断片をつなぎ合わせ、何年もかけて謎の建築物をつくり続けている。人と妖怪がともに暮らすダイバーシティ、平本ビルディングへようこそ！</desc>
+    <title lang="ja">no art,no life「平本 吉胤」[字]</title>
+    <desc lang="ja">平本吉胤(31)は自らの記憶の断片をつなぎ合わせ、何年もかけて謎の建築物をつくり続けている。人と妖怪がともに暮らすダイバーシティ、平本ビルディングへようこそ!</desc>
   </programme>
   <programme start="20260830090000 +0900" stop="20260830094500 +0900" channel="NHK大阪・教育_jp">
     <title lang="ja">日曜美術館　彬子さまと巡る　大英博物館・日本美術コレクション[字]</title>
@@ -5736,8 +5718,7 @@
     <title lang="ja">気象情報</title>
   </programme>
   <programme start="20260830090000 +0900" stop="20260830100000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">日曜討論　アメリカ“経済制裁”　どうなるイラン情勢</title>
-    <desc lang="ja">米“大規模経済制裁”でイラン情勢は？トランプ外交は？専門家が徹底分析▽新たな経済制裁のねらい・効果は▽ホルムズ海峡・原油調達は？日本への影響は▽今後の国際秩序は</desc>
+    <title lang="ja">ニュース[字]</title>
   </programme>
   <programme start="20260830100000 +0900" stop="20260830100500 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -5869,17 +5850,17 @@
     <title lang="ja">空からクルージング特別編「フランス・ロワール川を下る」</title>
     <desc lang="ja">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。8Kで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
   </programme>
-  <programme start="20260831015300 +0900" stop="20260831025300 +0900" channel="NHK京都・総合_jp">
+  <programme start="20260831015300 +0900" stop="20260831022100 +0900" channel="NHK京都・総合_jp">
+    <title lang="ja">放送番組未定</title>
+    <desc lang="ja">この時間、放送する番組は未定です</desc>
+  </programme>
+  <programme start="20260831022100 +0900" stop="20260831032100 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">運転席からの風景　神戸電鉄有馬線</title>
     <desc lang="ja">神戸の中心部と有馬温泉を結ぶ、神戸電鉄有馬線。六甲山地を走る登山鉄道の運転席からの風景。</desc>
   </programme>
-  <programme start="20260831025300 +0900" stop="20260831035300 +0900" channel="NHK京都・総合_jp">
+  <programme start="20260831032100 +0900" stop="20260831040000 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">世界の祭り　スペイン・パンプローナ　牛追い祭り</title>
     <desc lang="ja">スペインの北部バスク地方の都市パンプローナで人々が心待ちにする牛追い祭り。夏の9日間、市民総出で開かれる勇壮な祭りの模様を、迫力の映像と音で届ける。</desc>
-  </programme>
-  <programme start="20260831035300 +0900" stop="20260831040000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">ごろごろパンダ日記</title>
-    <desc lang="ja">神戸市立王子動物園で暮らしていたジャイアントパンダのタンタン。もふもふと愛くるしい姿に密着。</desc>
   </programme>
   <programme start="20260831040000 +0900" stop="20260831041500 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">さわやか自然百景　岡山　蒜山（ひるぜん）の森と草原[字]</title>
@@ -6613,9 +6594,8 @@
     <desc lang="ja">▼ＡＩ分野で日本の“勝ち筋”の投資は ▼労働力不足の中“アクセルとブレーキ”日本の労働政策 ○落合・中畑が注目する高校球児○伝統の一戦 阪神・巨人が直接対決</desc>
   </programme>
   <programme start="20260830100000 +0900" stop="20260830113500 +0900" channel="毎日テレビ_jp">
-    <title lang="ja">サンデー・ジャポン</title>
-    <desc lang="ja">１週間のニュースを総まとめ！爆笑問題＆超辛口パネラーに旬なゲスト加え、独自取材と激アツトークでお送りする嵐のような９０分！唯一無二のジャーナリズムバラエティ!</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/470485/image/b4e76fff34b550360d1cd46f03387039.jpg"/>
+    <title lang="ja">サンデー・ジャポン 現地から中継・ネパール土石流▽総理にカテキョ!“AI安野”密着</title>
+    <desc lang="ja">「新たな洪水」おそれ…中継・ネパール土石流▽高市総理に“カテキョ”!“AI安野”に独自密着▽独占直撃!豪華「VIVANT」堺雅人×阿部寛×二宮和也▽超速報・大谷</desc>
   </programme>
   <programme start="20260830113500 +0900" stop="20260830125400 +0900" channel="毎日テレビ_jp">
     <title lang="ja">上田晋也のサンデーQ[字]</title>
@@ -12496,7 +12476,6 @@
   </programme>
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="ムービープラス_jp">
     <title lang="ja">インフォメーション</title>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18309074/image/a3d756b2257ed90d63f999f343e9b959.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830104500 +0900" channel="ムービープラス_jp">
     <title lang="ja">ロビン・フッド（1991年）【地上波吹替版】</title>
@@ -14212,7 +14191,6 @@
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">２０２６Ｔｈｅ ＣＵＴ ＃２７</title>
     <desc lang="ja">PGAツアーのライフスタイルをトーナメントの内外から紹介する番組。※英語音声のみ</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18461349/image/8d7b61aed2b64c4c4e10483f9dae40b5.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830084500 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">The Club House Selection 〜ゴルフ場 お取り寄せグルメ〜 ＃１</title>
@@ -15735,7 +15713,6 @@
   <programme start="20260830074500 +0900" stop="20260830083000 +0900" channel="ミュージック・エア_jp">
     <title lang="ja">ザ・フー：ロック・レボリューション</title>
     <desc lang="ja">ビートルズ、ローリング・ストーンズと並ぶイギリスの3大ロックバンドの一つ、ザ・フーの軌跡に迫るドキュメンタリー。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308330/image/f4997baa2baf6cb088b1fac9afedcd9f.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="ミュージック・エア_jp">
     <title lang="ja">エルトン・ジョン：ロック・レジェンズ</title>
@@ -16009,7 +15986,6 @@
   <programme start="20260830073000 +0900" stop="20260830083000 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">BONES シーズン2 #19「切り裂かれた栄光」[字]</title>
     <desc lang="ja">宇宙人が落ちたクレーターがあるとの通報が入る。その墜落死体は、骨萎縮が著しく、推定１３０歳とされるが、後に、宇宙で長期間過ごした宇宙飛行士であることが判明する。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18309134/image/79fe2964f9b69419f4178b9522b87cc6.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830093000 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">BONES シーズン2 #20「光る骨」[字]</title>
@@ -16248,7 +16224,6 @@
   <programme start="20260830074000 +0900" stop="20260830083000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">水戸黄門・第24部 #11 ◆佐野浅夫</title>
     <desc lang="ja">国民的時代劇シリーズ「水戸黄門」の第24部。佐野浅夫演じる3代目黄門様ご一行が、次席家老の魔の手から、薩摩藩を救うために大奮闘する。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308044/image/6fddcb61781f5945c4c05ba0eb029514.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830092000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">水戸黄門・第24部 #12 ◆佐野浅夫</title>
@@ -16996,7 +16971,6 @@
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="テレ朝チャンネル2_jp">
     <title lang="ja">ショッピング情報</title>
     <desc lang="ja">・・・ショッピング情報・・・</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18328074/image/972d43d26a4397328ab1674e063dd1e4.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="テレ朝チャンネル2_jp">
     <title lang="ja">ぶらぶら町中華 #21・22</title>
@@ -17719,7 +17693,6 @@
   <programme start="20260830063000 +0900" stop="20260830082500 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">特命おばさん検事！花村絢乃の事件ファイル４　出演：麻生祐未</title>
     <desc lang="ja">【出演】：麻生祐未、原田龍二、温水洋一、石野真子、永島敏行、正名僕蔵、敦士、梨本謙次郎、ベンガル、高橋英樹　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308251/image/8b5b12e68d3126aed68682c9c96833f0.jpg"/>
   </programme>
   <programme start="20260830082500 +0900" stop="20260830101000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">特命おばさん検事！花村絢乃の事件ファイル５　出演：麻生祐未</title>
@@ -18218,7 +18191,6 @@
   <programme start="20260830073000 +0900" stop="20260830083000 +0900" channel="アニマックス_jp">
     <title lang="ja">とんでもスキルで異世界放浪メシ #9，10</title>
     <desc lang="ja">#9「討伐依頼は金と肉」#10「二匹の従魔はチートが過ぎる」突然異世界へと召喚された普通のサラリーマン、向田剛志。＜制作:2023年/全12話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308146/image/64e9d8d254d6499284c851cefcd851df.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="アニマックス_jp">
     <title lang="ja">岸辺露伴は動かない 『ザ・ラン』</title>
@@ -18440,7 +18412,6 @@
   <programme start="20260830073000 +0900" stop="20260830083000 +0900" channel="キッズステーション_jp">
     <title lang="ja">小公女セーラ（デジタルリマスターHD版） #31，32</title>
     <desc lang="ja">＃３１「屋根裏にきた怪物」＃３２「壁の向う側の秘密」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308350/image/31df2ac95d16b2e95acdf02c22a963eb.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="キッズステーション_jp">
     <title lang="ja">ポケットモンスター（2023年） #143</title>
@@ -18738,7 +18709,6 @@
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">トムとジェリー ショー #30(ニ)</title>
     <desc lang="ja">＜おやつは誰のもの？/トム対ハリーおじさん/ただいま結婚中＞あのお騒がせコンビ、トムとジェリ―が帰って来た！家族みんなが楽しめるネコとネズミの傑作短編シリーズ。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308459/image/67788ec339e6e7eaaaee6ee4497d59ce.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">トムとジェリー ショー #31(ニ)</title>
@@ -19077,7 +19047,6 @@
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ブルーイ#4[二]</title>
     <desc lang="ja">ビンゴは幼稚園のぬいぐるみ『ボブ』を連れて帰り、週末を一緒に過ごす。/子犬たちが大人を操るスパイごっこを始める。/ブルーイたちは料理が出来るまで待ちきれず…。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308625/image/c4755f0c4d54ef35e733e15961d327e3.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ブルーイ#5[二]</title>
@@ -19585,7 +19554,6 @@
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">パップストラクション#20[二]</title>
     <desc lang="ja">特大ピザ作りを手伝うことになったパップストラクション。大きなピザをレストランに運び込めるのか？／託児所を建て直すことになるが、工事現場に子供達が乱入してきて…。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18309519/image/b0731ffbad1b06428a851ef9f7e30f9d.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">レスキューペット　ロボゴボ#5[二]</title>
@@ -20905,7 +20873,6 @@
   <programme start="20260830073000 +0900" stop="20260830083000 +0900" channel="MONDOTV_jp">
     <title lang="ja">だいすきパチスロリーグ #15</title>
     <desc lang="ja">７人のスロッター（エハラマサヒロ、嵐、梅屋シン、シーサ。、玉ちゃん、橘アンジュ、渚）が１対１の対戦でリーグ制覇を目指す。＃１５　梅屋シンＶＳシーサ。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308298/image/e83d854d1ce87853816a0df761a0c6aa.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="MONDOTV_jp">
     <title lang="ja">ザ・カセットテープ・ミュージック シーズン2.1 #11</title>
@@ -21220,7 +21187,6 @@
   <programme start="20260830063000 +0900" stop="20260830083000 +0900" channel="フジテレビONE_jp">
     <title lang="ja">競馬予想ＴＶ！　#1334</title>
     <desc lang="ja">「新潟記念（G3）」「中京2歳S（G3）」　ほか＜司会＞見栄晴　横山ルリカ＜出演＞松本ヒロシ　競馬予想専門家4名　【再放送】</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18313105/image/8cfbf630db79eb243bf71f965c2bdb6c.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830100000 +0900" channel="フジテレビONE_jp">
     <title lang="ja">武豊ＴＶ！２#173祝・武豊2週連続G1優勝！宝塚記念＆安田記念プレイバック</title>
@@ -21445,7 +21411,6 @@
   <programme start="20260830075000 +0900" stop="20260830084000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">罠の戦争　#8　　弱者による強き権力者への復讐劇！</title>
     <desc lang="ja">第8話「宿敵との攻防戦！罪には罰を」＜出演＞草なぎ剛　井川遥　杉野遥亮　高橋克典　片平なぎさ　岸部一徳　ほか（地上波放送日　2023年3月6日）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18313200/image/aaf0676a4112ba2455a5a340965eff21.jpg"/>
   </programme>
   <programme start="20260830084000 +0900" stop="20260830093000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">罠の戦争　#9　　弱者による強き権力者への復讐劇！</title>
@@ -21929,7 +21894,6 @@
   <programme start="20260830060000 +0900" stop="20260830081000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">（暴）株式会社　極道立志編</title>
     <desc lang="ja">＜ごっつい男になったる！＞日本 1993年 93分監督：堀内靖博出演：石橋保、川越美和、財津一郎、藤山直美</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308826/image/d4eda279d00ea9d7657e6b36402ff640.jpg"/>
   </programme>
   <programme start="20260830081000 +0900" stop="20260830091000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">どうにか貧乏家族 ＃126</title>
@@ -23050,7 +23014,6 @@
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">【ハワイ特集】ハワイに恋して！ #35</title>
     <desc lang="ja">リアルなハワイをナビゲート！アナタもきっとハワイに恋するハズ！！第35話 ハワイ島人気ガイド一押し！歴史ツアー＆最古コーヒー農園</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308011/image/642126866c0a04cb8359ac6fe8f92594.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">【ハワイ特集】ハワイに恋して！ #36</title>
@@ -23920,7 +23883,6 @@
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="BBCニュース_jp">
     <title lang="ja">[英]BBCニュース</title>
     <desc lang="ja">世界の最新ニュースをお送りする。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308983/image/cb1b0f936fa16370426e4ae6196fd952.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="BBCニュース_jp">
     <title lang="ja">ファーガル・キーンの希望の旅(再)</title>
@@ -24349,7 +24311,6 @@
   <programme start="20260830060000 +0900" stop="20260830083000 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">【週末一挙】アイ・ワズ・ゼア その時何が起こったか？#6〜#10[字]</title>
     <desc lang="ja">【放送順】『#6 ホワイト・シティの殺人鬼』『#7 リンカーン暗殺』『#8 チャレンジャー号爆発事故』『#9 血の日曜事件』ほか1話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18309175/image/d508c745da07ec4d5fbf7a5f0b0d1486.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830103000 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">IRT〜アンデスの断崖絶壁を走れ！〜#3&amp;#4[二] ◆トラック野郎</title>
@@ -25106,7 +25067,6 @@
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">スーパーアニマル S2：奇妙で完璧な進化(二)</title>
     <desc lang="ja">巨大な口を誇るカバ、静かに獲物へ忍び寄るサメ、精巧な建築物を編み上げる小鳥、極夜でも世界を見通すトナカイ、死んだふりで命を守るオポッサムなど。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308734/image/90811bf000e0d4a7612c2fb83bb654e2.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">インフォマーシャル(日)</title>
@@ -25736,7 +25696,6 @@
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">こちら東海です。DX 29 三重鮎ルアー</title>
     <desc lang="ja">水産資源豊富な東海地方の伝統的な釣りや旬の釣りを全国に発信する『こちら東海です。DX』。今回は三重県雲出川で簡単・手軽で大流行中の鮎ルアーに初挑戦！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20260830/18308065/image/60a5c8c6fc950e0de0e66ef6cd1398d7.jpg"/>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830090000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">ブレイクタイム</title>
@@ -26026,7 +25985,6 @@
   <programme start="20260830090000 +0900" stop="20260830091500 +0900" channel="J-COM-BS_jp">
     <title lang="ja">内藤雄士のテクゴル　#209</title>
     <desc lang="ja">PGA　A級ティーチングプロコーチである内藤雄士のレッスン番組。複雑に絡み合っていたゴルフ脳を解きほぐすことで、スキルアップへと導きます!</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/470298/image/bab2c3f4c5c43ee31a66513daf01607f.jpg"/>
   </programme>
   <programme start="20260830091500 +0900" stop="20260830093000 +0900" channel="J-COM-BS_jp">
     <title lang="ja">内藤雄士のテクゴル　#210</title>
@@ -31527,7 +31485,7 @@
   </programme>
   <programme start="20260830080000 +0900" stop="20260830083000 +0900" channel="rch_88">
     <title lang="ja">テリー土屋のくるまの話　★車にまつわるゲストを迎え、車の魅力を語り尽くす！</title>
-    <desc lang="ja">テリー伊藤とレジェンドレーサー土屋圭市▼車を愛する２人がゲストを迎え、車にまつわるあらゆるテーマを掘り下げていく番組</desc>
+    <desc lang="ja">テリー伊藤とレジェンドレーサー土屋圭市▼車を愛する２人がゲストを迎え、車にまつわるあらゆるテーマを掘り下げていく番組番組内容HONDA話題のEV特集▼話題のスポーツEvsuperoneとnone e:が登場！電動でも楽しいワクワクする乗り味に一同ベタ褒め！辛口愛車チェック▼チューナーガレージヤマゴーがGR86を持ち込んだが結果は…？出演者【MC】テリー伊藤、土屋圭市【アシスタント】久保凜太郎、相沢菜々子、荏崎ろあ【ゲスト】HONDA　garageYAMAGOおしらせ【番組ホームページ】https://s.mxtv.jp/variety/kurumanohanashi/【X(旧Twitter）】@kurumanohanashi【番組公式YouTube】https://www.youtube.com/@kurumanohanashi_roots【お知らせ】interfmにて毎週金曜日・あさ7:30〜スピンオフラジオ「土屋圭市のくるまの話NEXT」放送中！https://www.interfm.co.jp/kurumanonex</desc>
   </programme>
   <programme start="20260830083000 +0900" stop="20260830084500 +0900" channel="rch_88">
     <title lang="ja">【再】Ｄｏ！Ｆｉｓｈｉｎｇ</title>
@@ -31721,7 +31679,7 @@
   </programme>
   <programme start="20260831070000 +0900" stop="20260831073000 +0900" channel="rch_88">
     <title lang="ja">[生]Ｗａｋｅ　Ｕｐ　７　★海外から都内のニュースまで！あさの３０分があなたを創る！</title>
-    <desc lang="ja">東京のいまを読み解く朝の報道番組！海外から都内のニュースまで！あさの３０分があなたを創る！▼出演は久保田修平と大林未菜と気象予報士の福山佳那</desc>
+    <desc lang="ja">東京のいまを読み解く朝の報道番組！海外から都内のニュースまで！あさの３０分があなたを創る！▼出演は久保田修平と大林未菜と気象予報士の福山佳那番組内容東京のいまを読み解く朝の報道番組！“顔の見える”ニュースで社会とあなたをつなぐ▼出演は久保田修平とTOKYO MX記者の大林未菜と気象予報士の福山佳那▼記者の視点で東京の問題を深堀り▼東京の“リアル”をお伝え！▼Xで皆さんのご意見お待ちしています。出演者【出演】大林未菜、久保田修平【気象予報士】福山佳那おしらせ【番組HP】https://s.mxtv.jp/hodo-sports/wakeup7/【番組X(旧Twitter)】@mx_wakeup7【番組Instagram】wake_up7_mx9</desc>
   </programme>
   <programme start="20260831073000 +0900" stop="20260831080000 +0900" channel="rch_88">
     <title lang="ja">ヘッドラインニュース</title>
@@ -31808,7 +31766,7 @@
   </programme>
   <programme start="20260831170000 +0900" stop="20260831175900 +0900" channel="rch_88">
     <title lang="ja">[生]５時に夢中！　★マツコ＆若林▼高級アイス贈呈最終日！ＡＤが訪れた旅先を見破れ[デ]</title>
-    <desc lang="ja">高級アイスが当たるプレゼントクイズキャンペーン最終日！▼月曜はマツコ＆若林▼『ＡＤふらっとひとり旅』ＡＤが訪れた観光地は一体どこ？旅先の写真をヒントに見破れ！</desc>
+    <desc lang="ja">高級アイスが当たるプレゼントクイズキャンペーン最終日！▼月曜はマツコ＆若林▼『ＡＤふらっとひとり旅』ＡＤが訪れた観光地は一体どこ？旅先の写真をヒントに見破れ！番組内容3面記事から政治まで、格好つけないコメンテーターが聖域なく語るワイドトークショー！▼月曜はマツコ＆若林▼『ADふらっとひとり旅』ADがスタジオメンバーにクイズを出題！ひとり旅の道中で撮った写真をヒントに、ADが訪れた観光地がどこか見破れるか⁉▼番組内で起きた出来事をクイズで出題！豪華アイスが当たるワクワクイズは本日が最終日！そして怒涛の夏休みを駆け抜けたママやパパ、そうじゃない方もお疲れ様です！出演者【MC】垣花正、大島由香里【コメンテーター】マツコ・デラックス、若林史江おしらせ【番組ホームページ】https://s.mxtv.jp/goji/【番組X（旧Twitter)】http://twitter.com/gojimu#gojimu【Facebook】https://www.facebook.com/5jinimuchuu</desc>
   </programme>
   <programme start="20260831175900 +0900" stop="20260831180000 +0900" channel="rch_88">
     <title lang="ja">放送休止</title>
