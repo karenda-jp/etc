@@ -1,0 +1,64 @@
+#EXTM3U
+# ###########################################################################################################
+# プログラムを自由に使わせたく無い為(各自のch追加等)AESにて暗号化してチャンネルロック掛けています。
+# 
+# 暗号化PWは変更になっており、以前のIDは使用できません。
+#
+# 私のyoutubeアカウント情報を使い動画情報を取得しています。
+# 
+# 一部プレイヤーで再生出来ない場合があります。縁がなく非常に残念です。
+# 
+# 注意：実際に映像が映るまでに約15秒ほど掛かる場合がございます。
+# 
+# 2026-08-31 現時点で問題なく動作する確認が取れましたが、日々変わる仕様の追跡を行う事はできません。
+#
+# ■ 即時削除する可能性があります
+# 
+# ###########################################################################################################
+#EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/A8uRSTS.png",Weather News (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=TTAxbEUySjFNWVhPaFJZUUl2YXd4aTRlaTJmZVp0NWhsdm1DOVZQM3FBND0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/R7rYrH5.png",The Real-time Earthquake Alert (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=TFlPUnNBMVJNcUtVRVRyYVVQbGdxT1BPVVBKcXovRjFaOUNXL3BleU14Yz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6M7Zwjb3jCaJBrEXEm9TVgcy9XktRc8vsUue1lVt9Zg=s160-c-k-c0x00ffffff-no-rj",JDQ―地震情報 (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=ckc1YWdtSmtvcnNaZVUwZGF6L3huT28xeU1NVFBCd0x3dWo2ZStNMWRDUT0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m9YDtPWqgZW91_-QTdsVWLbnR0ZQ1BaHX38ZcSRVGnfd0=s160-c-k-c0x00ffffff-no-rj",NHK WORLD-JAPAN (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=Mmc5SE5VM3AzSHhSQ3lXMlRHWjdlN3lJUFNTeGxwdGdhdmplN1V2YnRxQT0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/l6O9viXT0NUEet41Y2IAjKvuTbULIaErR8UUppXhtNeW7r-Z7hgruiBOxoCJaSQMlbHv4Cii=s160-c-k-c0x00ffffff-no-rj",日テレNEWS (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=ZW9Ma3BpY2tvbG84b3g0VjNnYVE0d2MvbzI5ZW44a3NmZkk2UzN0MjdkVT0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/E-A54dDrjqIAfIqwdEGPolaKeVj-jW4kEQR-M6BMR-hiBtw1DhwM_kXGT-4uezIq0-ioeoElZg=s160-c-k-c0x00ffffff-no-rj",TBS NEWS DIG (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=cEZQYXNiWU52WHR6bWlGb2ZvT1o2YWZOQjcrTEN5MmlDOHZYNFFSYWJSQT0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kcbf1NEt1_bXqZY0oSj-CXYDjANZmcw8k3rfqhobwVmo4=s160-c-k-c0x00ffffff-no-rj",FNNプライムオンライン (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=amJmLzBaRi9wZUdSYnZCcW95VnRaMDhrNDlSaStEUGk4WGRrOGhod214ND0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/yqUItvM.png",HTB北海道テレビNEWS (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=UmRSRUtLV1ZmWWNSWGhQclN6SElpdG9hMExTaDBuK0JGQjhQeDBGT3F3WT0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg",STV札幌テレビ放送NEWS  (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=em1UQ0N2bVBWVnFkbUpmRGsxVGVkWjZUclV6NHZQdFlRUklITGZKY3Nkdz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/Ty4ejcEAZzuQZ7rplYaVGkISkcPdQyFFJWRxr9gp9fwzkF5EByonQTW1aM4bnTl2I_ZkXFtBpw=s160-c-k-c0x00ffffff-no-rj",ABC朝日放送テレビNEWS (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=QWdRemZXdE42Um41TDZVc3JLdXdNNVNIb1JwN296T3dZbGpTUStWbHdGRT0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s176-c-k-c0x00ffffff-no-rj-mo",ANN JapaNews24 (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=1&p=Z3ZRT0JCTWt5ZTJFK3N6amw2Nk9PQT09
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/r4tXuxECbmc47zQvoO414UgVL0oZ_xBg8Es5nypM-agBrpvfyzFISsoK2Km-AMorSD_Hx9kbiw=s160-c-k-c0x00ffffff-no-rj",メ～テレ NEWS LIVE 24 (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=1&p=RCtqc3NsYzZLYmYwYmxvam9vdnZaQT09
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m4DpV9Wh4Vj3iLAPeutJN2SOgDKFeE74zp7Aed7bAzqVQ=s160-c-k-c0x00ffffff-no-rj",J-POP Music BGM channel (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=K2duVHVTaDRMOGRzcFpHYVNFYlZoMjVDc3liOEZwN1pFVk5oWDF3YlhIZz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.googleusercontent.com/8hySIA7Ed6amMiAHJVNsG9oph0zoSlCAffYTmINH3gXJ8vvcToB_xh7uIlKSHA9fBEae3e_yl6I=s160-c-k-c0x00ffffff-no-rj",GB News Live (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=Vzc0clgyb2Q4c2p6WThCcDl6dkQ5Qk9wT3ZBWEZuVVozSWNIeUliZkRQWT0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://yt3.ggpht.com/wuh-Cv0PLVg7N6on8SS_P8s81Gc_35F5_qQwr1shcSzbqmNP432vcO-kp9ri4IrCgysLtEkuzA=s48-c-k-c0x00ffffff-no-rj",World Poker Tour (Youtube)
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=0&p=NXFmWEV1Q0lnRW0vWjVlRjlTRUlFWjRuQlk1QlBYWWdBMkhJNlFQU2hxaz0=
+
+#EXTINF:-1 group-title="youtube" tvg-logo="https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon_32x32.png",video QUEENDOM / チキチキバンバン（TVアニメ「パリピ孔明」スペシャルMV）
+https://script.google.com/macros/s/AKfycbz6G1qT7-1HbJJ-_utay3DdN4bNzxXxV-SCkMULhAfumDTY30aoDIFwwMGIvtPqcHOi/exec?f=1&p=eGduSnFydmpFajE0aEtEcDJ0NDkvUT09
