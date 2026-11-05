@@ -1055,7 +1055,6 @@
   <programme start="20261105080000 +0900" stop="20261105081500 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">【連続テレビ小説】ブラッサム(29)第6週「ふたり、北へ」[解][字]</title>
     <desc lang="ja">珠（石橋静河）と保（金子大地）の札幌での新生活が始まる。保は正吾（三宅弘城）の銀行で働き始め、珠は正吾の妻・浪江（杉田かおる）のすすめで仕立て屋を始める。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/80050000/80051152/image/37a184ec0639636f4cf149db120bbf81.jpg"/>
   </programme>
   <programme start="20261105081500 +0900" stop="20261105095500 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">あさイチ ブラッサム・石橋静河に直撃インタ▼宇野千代のふるさと山口へ[字]</title>
@@ -2099,17 +2098,16 @@
     <desc lang="ja">▽東北の最新ニュース　▽リポート「コメ生産コスト上昇」　▽東北地方の気象情報</desc>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105081500 +0900" channel="NHK山形・総合_jp">
-    <title lang="ja">【連続テレビ小説】ブラッサム（29）第6週「ふたり、北へ」[解][字]</title>
+    <title lang="ja">【連続テレビ小説】ブラッサム(29)第6週「ふたり、北へ」[解][字]</title>
     <desc lang="ja">珠（石橋静河）と保（金子大地）の札幌での新生活が始まる。保は正吾（三宅弘城）の銀行で働き始め、珠は正吾の妻・浪江（杉田かおる）のすすめで仕立て屋を始める。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/80050000/80051152/image/37a184ec0639636f4cf149db120bbf81.jpg"/>
   </programme>
   <programme start="20261105081500 +0900" stop="20261105095500 +0900" channel="NHK山形・総合_jp">
-    <title lang="ja">あさイチ　ブラッサム・石橋静河に直撃インタ▼宇野千代のふるさと山口へ[字]</title>
-    <desc lang="ja">ブラッサムOPダンス誕生秘話▼珠の同級生忍役の木竜麻生・宇野千代が愛した山口をめぐる▼珠の祝言シーンで登場したおすし＆千代が愛したお菓子</desc>
+    <title lang="ja">あさイチ ブラッサム・石橋静河に直撃インタ▼宇野千代のふるさと山口へ[字]</title>
+    <desc lang="ja">ブラッサムＯＰダンス誕生秘話▼珠の同級生忍役の木竜麻生・宇野千代が愛した山口をめぐる▼珠の祝言シーンで登場したおすし＆千代が愛したお菓子</desc>
   </programme>
   <programme start="20261105095500 +0900" stop="20261105100000 +0900" channel="NHK山形・総合_jp">
     <title lang="ja">みんなの体操[解][字]</title>
-    <desc lang="ja">【指導】鈴木大輔【ピアノ】能條貴大【実技】吉江晴菜，我喜屋佑衣，福島波奈，杉井勇介</desc>
+    <desc lang="ja">【指導】鈴木大輔【ピアノ】能條貴大【実技】吉江晴菜,我喜屋佑衣,福島波奈,杉井勇介</desc>
   </programme>
   <programme start="20261105100000 +0900" stop="20261105100500 +0900" channel="NHK山形・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -5375,11 +5373,11 @@
     <title lang="ja">ＭＸショッピング</title>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105083000 +0900" channel="TOKYO・MX2_jp">
-    <title lang="ja">魔法のエンジェル　スイートミント　＃１１「こんにちは小さな天使」</title>
+    <title lang="ja">魔法のエンジェル スイートミント ＃１１「こんにちは小さな天使」</title>
     <desc lang="ja">あらすじ◇ミントは赤ちゃん連れのフレッド、エルフィー夫妻の願いをかなえることに。結婚記念日に思い出の音楽家・ガーンスタインのコンサートを水入らずで鑑賞したいふたりのために、赤ん坊のユーリを預かることにしたのだ。やんちゃなユーリも寝顔は天使のよう。ミントも自分が赤ん坊の頃のことを思い出し…。出演者【ミント】笠原弘子【ワッフル／タクト】渕崎ゆり子【プラム】佐々木望【ナッツ】玉川紗己子【ハーブおばさん】丸山裕子【王様】辻村真人【王妃様】滝沢久美子【トラッディー】伊井篤史【ビネガ】緒方賢一【ヤン】松田辰也【プリン】川田妙子</desc>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105114000 +0900" channel="TOKYO・MX2_jp">
-    <title lang="ja">東京マーケットワイド　第１部【デ】</title>
+    <title lang="ja">東京マーケットワイド 第１部【デ】</title>
     <desc lang="ja">番組内容 東証アローズから市況を完全生中継。さらに番組と連動した株価情報をデータ放送で配信。「株価検索」「マイ株価」「株価指数」「為替相場」「個別株価」「株式ランキング」等が確認できます。</desc>
   </programme>
   <programme start="20261105114000 +0900" stop="20261105115400 +0900" channel="TOKYO・MX2_jp">
@@ -5634,17 +5632,16 @@
     <desc lang="ja">▼関西の最新ニュースと地域の話題▼きょうの天気は？気象情報詳しく▼交通情報もきめ細かく</desc>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105081500 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">【連続テレビ小説】ブラッサム（29）第6週「ふたり、北へ」[解][字]</title>
+    <title lang="ja">【連続テレビ小説】ブラッサム(29)第6週「ふたり、北へ」[解][字]</title>
     <desc lang="ja">珠（石橋静河）と保（金子大地）の札幌での新生活が始まる。保は正吾（三宅弘城）の銀行で働き始め、珠は正吾の妻・浪江（杉田かおる）のすすめで仕立て屋を始める。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/80050000/80051152/image/37a184ec0639636f4cf149db120bbf81.jpg"/>
   </programme>
   <programme start="20261105081500 +0900" stop="20261105095500 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">あさイチ　ブラッサム・石橋静河に直撃インタ▼宇野千代のふるさと山口へ[字]</title>
-    <desc lang="ja">ブラッサムOPダンス誕生秘話▼珠の同級生忍役の木竜麻生・宇野千代が愛した山口をめぐる▼珠の祝言シーンで登場したおすし＆千代が愛したお菓子</desc>
+    <title lang="ja">あさイチ ブラッサム・石橋静河に直撃インタ▼宇野千代のふるさと山口へ[字]</title>
+    <desc lang="ja">ブラッサムＯＰダンス誕生秘話▼珠の同級生忍役の木竜麻生・宇野千代が愛した山口をめぐる▼珠の祝言シーンで登場したおすし＆千代が愛したお菓子</desc>
   </programme>
   <programme start="20261105095500 +0900" stop="20261105100000 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">みんなの体操[解][字]</title>
-    <desc lang="ja">【指導】鈴木大輔【ピアノ】能條貴大【実技】吉江晴菜，我喜屋佑衣，福島波奈，杉井勇介</desc>
+    <desc lang="ja">【指導】鈴木大輔【ピアノ】能條貴大【実技】吉江晴菜,我喜屋佑衣,福島波奈,杉井勇介</desc>
   </programme>
   <programme start="20261105100000 +0900" stop="20261105100500 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -6107,28 +6104,28 @@
     <desc lang="ja">２歳ごろから楽しめる教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！幼児の情緒や表現、言葉や身体の成長を応援します。</desc>
   </programme>
   <programme start="20261105081000 +0900" stop="20261105082500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">いないいないばあっ！　木曜日[字]</title>
+    <title lang="ja">いないいないばあっ！ 木曜日[字]</title>
     <desc lang="ja">ワンワンやおうちゃんが、落ち葉や木の実でいろいろなものを作るよ。みんなもやってみよう！▼うた「かえでの木のうた」、▼童謡「ゆうやけこやけ」など。</desc>
   </programme>
   <programme start="20261105082500 +0900" stop="20261105083500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">アニメ　おじゃる丸「オバケめんせつ」[字]</title>
-    <desc lang="ja">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。</desc>
+    <title lang="ja">アニメ おじゃる丸「オバケめんせつ」[字]</title>
+    <desc lang="ja">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動(そうどう)をまきおこします。</desc>
   </programme>
   <programme start="20261105083500 +0900" stop="20261105084500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">でこぼこポン！　自分の気持ちが分かる発明品[字]</title>
+    <title lang="ja">でこぼこポン！ 自分の気持ちが分かる発明品[字]</title>
     <desc lang="ja">発達障害などの子が、楽しくスキルアップ！今回は、自分の感情を上手く知る方法をドラマで紹介！。出演：鳥居みゆき。声の出演：河合郁人ほか</desc>
   </programme>
   <programme start="20261105084500 +0900" stop="20261105085000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">プチプチ・アニメ　けいとのようせいニットとウール　第11話</title>
+    <title lang="ja">プチプチ・アニメ けいとのようせいニットとウール 第１１話</title>
     <desc lang="ja">ショーウインドーに飾られた毛糸の手袋から飛び出した、毛糸のようせいニットちゃんとウールちゃん。魔法のかぎ針スティックをひとふりすると、不思議なことがおこります。</desc>
   </programme>
   <programme start="20261105085000 +0900" stop="20261105085500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">まいにちスクスク　歯みがき（3）　虫歯になりやすい歯[字]</title>
-    <desc lang="ja">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の5分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+    <title lang="ja">まいにちスクスク 歯みがき（３） 虫歯になりやすい歯[字]</title>
+    <desc lang="ja">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ!</desc>
   </programme>
   <programme start="20261105085500 +0900" stop="20261105090000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">みんなのうた「フライパンDJ！」／「あのドアの向こうに」</title>
-    <desc lang="ja">「フライパンDJ！」うた：チョコレートプラネット＆Kengo．／「あのドアの向こうに」うた：今尾侑夕（ゆーゆ）</desc>
+    <title lang="ja">みんなのうた「フライパンDJ!」/「あのドアの向こうに」</title>
+    <desc lang="ja">「フライパンDJ!」うた:チョコレートプラネット&amp;Kengo./「あのドアの向こうに」うた：今尾侑夕（ゆーゆ)</desc>
   </programme>
   <programme start="20261105090000 +0900" stop="20261105091000 +0900" channel="NHK大阪・教育_jp">
     <title lang="ja">しまった！〜情報活用スキルアップ〜「考えを整理する」[解][字]</title>
@@ -6693,17 +6690,16 @@
     <desc lang="ja">▼関西の最新ニュースと地域の話題▼きょうの天気は？気象情報詳しく▼交通情報もきめ細かく</desc>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105081500 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">【連続テレビ小説】ブラッサム（29）第6週「ふたり、北へ」[解][字]</title>
+    <title lang="ja">【連続テレビ小説】ブラッサム(29)第6週「ふたり、北へ」[解][字]</title>
     <desc lang="ja">珠（石橋静河）と保（金子大地）の札幌での新生活が始まる。保は正吾（三宅弘城）の銀行で働き始め、珠は正吾の妻・浪江（杉田かおる）のすすめで仕立て屋を始める。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/80050000/80051152/image/37a184ec0639636f4cf149db120bbf81.jpg"/>
   </programme>
   <programme start="20261105081500 +0900" stop="20261105095500 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">あさイチ　ブラッサム・石橋静河に直撃インタ▼宇野千代のふるさと山口へ[字]</title>
-    <desc lang="ja">ブラッサムOPダンス誕生秘話▼珠の同級生忍役の木竜麻生・宇野千代が愛した山口をめぐる▼珠の祝言シーンで登場したおすし＆千代が愛したお菓子</desc>
+    <title lang="ja">あさイチ ブラッサム・石橋静河に直撃インタ▼宇野千代のふるさと山口へ[字]</title>
+    <desc lang="ja">ブラッサムＯＰダンス誕生秘話▼珠の同級生忍役の木竜麻生・宇野千代が愛した山口をめぐる▼珠の祝言シーンで登場したおすし＆千代が愛したお菓子</desc>
   </programme>
   <programme start="20261105095500 +0900" stop="20261105100000 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">みんなの体操[解][字]</title>
-    <desc lang="ja">【指導】鈴木大輔【ピアノ】能條貴大【実技】吉江晴菜，我喜屋佑衣，福島波奈，杉井勇介</desc>
+    <desc lang="ja">【指導】鈴木大輔【ピアノ】能條貴大【実技】吉江晴菜,我喜屋佑衣,福島波奈,杉井勇介</desc>
   </programme>
   <programme start="20261105100000 +0900" stop="20261105100500 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -7182,7 +7178,6 @@
   <programme start="20261105083000 +0900" stop="20261105090000 +0900" channel="サンテレビ_jp">
     <title lang="ja">お茶の間ショッピング</title>
     <desc lang="ja">夜中に何度も起きる方(薬師八味丸錠/日本薬師堂)</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/480000/480367/image/5921e708e8491aa6dddcadcfc6ad4089.jpg"/>
   </programme>
   <programme start="20261105090000 +0900" stop="20261105093000 +0900" channel="サンテレビ_jp">
     <title lang="ja">テレビショッピング</title>
@@ -11363,7 +11358,7 @@
   </programme>
   <programme start="20261105070500 +0900" stop="20261105080000 +0900" channel="BSテレ東_jp">
     <title lang="ja">モープラＦＴ【民主党が上下両院で多数派 中間選挙後の米政治を久保文明氏が展望】[二]</title>
-    <desc lang="ja">▼米民主党が上下両院で多数派に 中間選挙後の米政治を展望▼商社決算、米景気指標など最新N&amp;解説▼FT「マネー物語」NY州知事vsウォール街▼10月新規設定投信</desc>
+    <desc lang="ja">▼米民主党が上下両院で多数派に 中間選挙後の米政治を展望▼商社決算、米景気指標など最新N&amp;解説▼FT「マネー物語」NY州知事vsウォール街</desc>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105082900 +0900" channel="BSテレ東_jp">
     <title lang="ja">テレビショッピング</title>
@@ -12798,7 +12793,7 @@
   </programme>
   <programme start="20261105070500 +0900" stop="20261105080000 +0900" channel="BSテレ東-4K_jp">
     <title lang="ja">モープラＦＴ【民主党が上下両院で多数派　中間選挙後の米政治を久保文明氏が展望】[二]</title>
-    <desc lang="ja">▼米民主党が上下両院で多数派に　中間選挙後の米政治を展望▼商社決算、米景気指標など最新N＆解説▼FT「マネー物語」ＮＹ州知事vsウォール街▼10月新規設定投信</desc>
+    <desc lang="ja">▼米民主党が上下両院で多数派に　中間選挙後の米政治を展望▼商社決算、米景気指標など最新N＆解説▼FT「マネー物語」ＮＹ州知事vsウォール街</desc>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105082900 +0900" channel="BSテレ東-4K_jp">
     <title lang="ja">テレビショッピング</title>
@@ -13527,7 +13522,6 @@
   <programme start="20261105060000 +0900" stop="20261105080000 +0900" channel="ムービープラス_jp">
     <title lang="ja">タイム・マシン（1960年）</title>
     <desc lang="ja">８０万年後に待っていたのは、想像すらできなかった世界――。Ｈ・Ｇ・ウェルズのＳＦ小説「タイム・マシン」を元に描くＳＦアドベンチャー。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18797759/image/9a01b44c86abce5fdc50e60ef570634b.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105103000 +0900" channel="ムービープラス_jp">
     <title lang="ja">リオ・ブラボー</title>
@@ -13680,7 +13674,6 @@
   <programme start="20261105060000 +0900" stop="20261105083000 +0900" channel="ザ・シネマ_jp">
     <title lang="ja">黄金(1948) [字]</title>
     <desc lang="ja">一攫千金に魅せられた男が破滅へと進む…アカデミー賞３部門に輝いたハンフリー・ボガート主演の人間ドラマ</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672982/image/d06cc9880eb14606936adf77a2ca2f27.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105110000 +0900" channel="ザ・シネマ_jp">
     <title lang="ja">ハントレス　女戦士ルーナ [吹]</title>
@@ -13833,7 +13826,6 @@
   <programme start="20261105060000 +0900" stop="20261105074500 +0900" channel="映画・チャンネルNECO_jp">
     <title lang="ja">劇場版 山崎一門〜日本統一〜</title>
     <desc lang="ja">『日本統一』シリーズから、山崎一門にスポットを当てた待望の劇場版。出演：北代高士　舘昌美　勝矢　中澤達也　本田広登　小沢仁志　山口祥行　本宮泰風(22年・99分）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672532/image/a178ba6cdfafb48cb40f620099b1a2df.jpg"/>
   </programme>
   <programme start="20261105074500 +0900" stop="20261105093000 +0900" channel="映画・チャンネルNECO_jp">
     <title lang="ja">立証　〜離婚弁護士　香月佳美【富田靖子主演　２時間サスペンス】</title>
@@ -14020,7 +14012,6 @@
   <programme start="20261105060000 +0900" stop="20261105083000 +0900" channel="日本映画専門チャンネル_jp">
     <title lang="ja">[映]西鶴一代女</title>
     <desc lang="ja">出演：田中絹代／山根寿子／三船敏郎　監督：溝口健二　数奇な運命に翻弄され、流転の人生をたどるひとりの女性の姿を描く。（1952年　137分）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672957/image/d977ec13eb6acf21825f17f5294ee7c2.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105110000 +0900" channel="日本映画専門チャンネル_jp">
     <title lang="ja">[2K][映]お引越し＜4Kデジタルリマスター版＞</title>
@@ -14200,7 +14191,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="時代劇専門チャンネル_jp">
     <title lang="ja">喧嘩屋右近３ #2</title>
     <desc lang="ja">「花のお江戸でよろずもめごと引き受け候　女房の取り戻し方教えます−後編−」出演：杉良太郎／坂口良子　他の時代劇とは一味違う異色作第3弾（1993年・全13話）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672614/image/edbb54bd8c24f95cc2352e1b8bc9aa92.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="時代劇専門チャンネル_jp">
     <title lang="ja">かぶき者 慶次 #1</title>
@@ -14901,7 +14891,6 @@
   <programme start="20261105074500 +0900" stop="20261105080000 +0900" channel="スカイA_jp">
     <title lang="ja">ゴルフギアQ</title>
     <desc lang="ja">年間試打本数2000本以上、ゴルフ誌で活躍のクラブフィッター鹿又芳典がドライバーからウェッジまで、クラフトマンシップ溢れるギアを紹介▽出演:鹿又芳典、やのぱん</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18803067/image/3ffdc8503c6a4310997a815f708c3f5d.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105111500 +0900" channel="スカイA_jp">
     <title lang="ja">[生]2026 明治安田レディスオープンゴルフトーナメント 第1日 Part1</title>
@@ -15113,17 +15102,14 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">GOLF JOKER 〜ゴルフジョーカー〜「第16回大会 決勝戦」#113</title>
     <desc lang="ja">ジョーカー松坂大輔vs一ノ瀬優希▽女子プロゴルファーたちに最強野球人JOKER4人が挑戦状を叩きつける！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18789364/image/b4808cbcd6aec52eaf5922af01de071c.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105083000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">生活に役立つお得な情報をお届けします</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18789365/image/0067fddcfcc91e964ebe533bb0927292.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105084500 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">川崎憲次郎の釣りガール養成講座「アジング編」 #5</title>
     <desc lang="ja">元プロ野球選手・川崎憲次郎が、釣り方はもちろん、釣った魚をさばき、料理するまでをレクチャーする▽出演:川崎憲次郎、岩野理沙</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18789366/image/46a8c0e455214705b521d7226653c4d6.jpg"/>
   </programme>
   <programme start="20261105084500 +0900" stop="20261105090000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">川崎憲次郎の釣りガール養成講座「天秤吹き流し編」 #6</title>
@@ -15351,17 +15337,14 @@
   <programme start="20261105060000 +0900" stop="20261105080000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">2026 コラレスプンタカナ チャンピオンシップ 最終日</title>
     <desc lang="ja">ドミニカ共和国のリゾート地で開催される大会。全英オープンと同週開催のため躍進を狙う若手や復活を期すベテランが集結する。（優勝：ステファノ・マッツォーリ）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18823142/image/966e2ee8731598df0be2b6afd4cfeb39.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105081500 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">The Club House Selection 〜ゴルフ場 お取り寄せグルメ〜 ＃１</title>
     <desc lang="ja">名門コースがゴルファーを唸らせる珠玉の逸品をお取り寄せグルメとして自宅で楽しむ贅沢を・・・！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18823143/image/fcf8ca5bba49f4afd0f3da178a94c38e.jpg"/>
   </programme>
   <programme start="20261105081500 +0900" stop="20261105083000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">ＧＮセレクション 限定！ ギアＭＡＸ ＃５</title>
     <desc lang="ja">ゴルフネットワークがテーマを設定し、一流メーカーとタッグを組んでギアを開発する。今回のテーマは「スコアメイク最大のテーマ：OBを撲滅するドライバー」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18823144/image/8350ebca699e3caa04a1b96f52363f03.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105090000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">インフォメーション</title>
@@ -15786,7 +15769,6 @@
   <programme start="20261105073000 +0900" stop="20261105083000 +0900" channel="J-SPORTS-1_jp">
     <title lang="ja">60分 de ツール 第9ステージ Cycle*【さいたまクリテリウム直前一挙】</title>
     <desc lang="ja">各ステージを60分のハイライト“de”お届け！【マルモール〜ユセル】開催日：2026年7月12日(現地)</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672694/image/f9587101dec8d8a3ab1f7f7f01d45deb.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105093000 +0900" channel="J-SPORTS-1_jp">
     <title lang="ja">60分 de ツール 第10ステージ Cycle*【さいたまクリテリウム直前一挙】</title>
@@ -16386,7 +16368,6 @@
   <programme start="20261105060000 +0900" stop="20261105074500 +0900" channel="J-SPORTS-4_jp">
     <title lang="ja">SUPER GT 2026 第6戦【予選】スポーツランドSUGO</title>
     <desc lang="ja">SUPER GTは、多彩なGTカーとトップドライバーが参戦し、高いエンターテインメント性で多くの観客動員を誇る日本屈指のモータースポーツ。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672972/image/09e6040b690da9a0ede4088ac4923a32.jpg"/>
   </programme>
   <programme start="20261105074500 +0900" stop="20261105104500 +0900" channel="J-SPORTS-4_jp">
     <title lang="ja">SUPER GT 2026 第6戦【決勝】スポーツランドSUGO</title>
@@ -16705,7 +16686,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="スペースシャワーTV_jp">
     <title lang="ja">ナウヒッツ！</title>
     <desc lang="ja">Da-iCE／Kis-My-Ft2／iri／Lucky Kilimanjaro／REJAY／CHLOE QISHA／LISA／CHARLI XCX／かりゆし58／SUPER BEAVER／10-FEET 他</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18793109/image/09c11cf23fd1d6033dd0d41d93cb17fa.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105110000 +0900" channel="スペースシャワーTV_jp">
     <title lang="ja">試聴機で好きになった曲も？CDショップで知った名曲特集</title>
@@ -16839,7 +16819,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="MTV_jp">
     <title lang="ja">Eve ほか▼ウルトラヒッツ</title>
     <desc lang="ja">最上級のヒット曲満載！ ミリオンセールスを記録した楽曲や、アーティストの代表曲とも言えるヒット曲、今の音楽シーンを賑わせている話題曲のミュージックビデオをお届け</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18825533/image/dd2f4a736cb52e6f25d67f4cd6eb0d02.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105100000 +0900" channel="MTV_jp">
     <title lang="ja">【歌詞付】最新邦楽ランキング20</title>
@@ -17520,7 +17499,6 @@
   <programme start="20261105073000 +0900" stop="20261105083000 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">クリミナル・マインド 特命捜査班レッドセル #5「時限爆弾」[字]</title>
     <desc lang="ja">ヴァージニア州フレデリックスバーグにあるフレデリックスバーグ・ウエスト高校で、爆発事件が発生。常識よりスピードを重視したＦＢＩ長官は、クーパーたちを招集する。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18812926/image/75de562013f5c88fb4f9e64fa44de57c.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105093000 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">クリミナル・マインド 特命捜査班レッドセル #6「絶望の逃避行」[字]</title>
@@ -17785,7 +17763,6 @@
   <programme start="20261105070000 +0900" stop="20261105084000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">浅見光彦シリーズ「鬼首殺人事件」</title>
     <desc lang="ja">内田康夫原作・浅見光彦シリーズ第17弾。舞台は小野小町ゆかりの地・秋田県雄勝町。「小町祭り」で起こった殺人事件の真相に迫るうち、光彦に命の危険が…。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18809641/image/17c3e6962a447cfb4421b60fe2feee37.jpg"/>
   </programme>
   <programme start="20261105084000 +0900" stop="20261105090000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">吉田類の酒場放浪記 #202「松戸『酒処ひよし』」</title>
@@ -18057,12 +18034,10 @@
   <programme start="20261105070000 +0900" stop="20261105075000 +0900" channel="TBSチャンネル2_jp">
     <title lang="ja">橋田壽賀子ドラマ「渡る世間は鬼ばかり」(第9シリーズ) #31</title>
     <desc lang="ja">橋田壽賀子脚本による国民的ホームドラマ第9シリーズ。嫁いだ5人の娘たちと父親を中心に、それぞれの家庭や周囲の人々の暮らしを描く。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18809873/image/8e64d5a0438d2e7d6561416177010dc2.jpg"/>
   </programme>
   <programme start="20261105075000 +0900" stop="20261105084000 +0900" channel="TBSチャンネル2_jp">
     <title lang="ja">橋田壽賀子ドラマ「渡る世間は鬼ばかり」(第9シリーズ) #32</title>
     <desc lang="ja">橋田壽賀子脚本による国民的ホームドラマ第9シリーズ。嫁いだ5人の娘たちと父親を中心に、それぞれの家庭や周囲の人々の暮らしを描く。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18809874/image/cda809ea6a22dc38cbad14832b443900.jpg"/>
   </programme>
   <programme start="20261105084000 +0900" stop="20261105102000 +0900" channel="TBSチャンネル2_jp">
     <title lang="ja">十津川警部シリーズ「尾道・倉敷殺人ルート」</title>
@@ -18358,7 +18333,6 @@
   <programme start="20261105073000 +0900" stop="20261105080000 +0900" channel="テレ朝チャンネル1_jp">
     <title lang="ja">藤子・Ｆ・不二雄ワールド「ドラえもん」 #776</title>
     <desc lang="ja">#776「ぼくをタスケロン／ホ、ホ、ホタル来い」子どもから大人まで幅広く愛され続けている国民的アニメが登場！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18816285/image/7c2d807951f5d9a204efeddeb2fcccae.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="テレ朝チャンネル1_jp">
     <title lang="ja">科捜研の女（1999） #5</title>
@@ -18871,7 +18845,6 @@
   <programme start="20261105070000 +0900" stop="20261105075000 +0900" channel="ホームドラマチャンネル_jp">
     <title lang="ja">華◆私の完璧な結婚＃８[字]【ノーカット】　▼チャオ・ルースー</title>
     <desc lang="ja">《アンコール》▼ウィリアム・チャン＃８「届いた真心」それぞれに秘密を抱えた夫婦がたどり着く先にあるものは…2024年　中国　44分　全32話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18797063/image/9b02956eac442f564b06ba948f566891.jpg"/>
   </programme>
   <programme start="20261105075000 +0900" stop="20261105090000 +0900" channel="ホームドラマチャンネル_jp">
     <title lang="ja">韓◆お義母さんは私の嫁＃４６[字]【日本初放送】　▼キム・ヘリ</title>
@@ -19120,17 +19093,14 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="LaLa-TV_jp">
     <title lang="ja">華◆輝ける宝珠の如く＃４［字］</title>
     <desc lang="ja">シュー・ルー×ビー・ウェンジュンが贈る、玉器の商いで出逢ったふたりが支えあいながら成長していく、珠玉のロマンス時代劇！[全24話]2022年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18793640/image/550c2f02cff510a43158e09e8a7f4912.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105082500 +0900" channel="LaLa-TV_jp">
     <title lang="ja">アジア×洋食クッキング　チキンとリンゴのソテー［字］</title>
     <desc lang="ja">アジア各国の国民料理やストリートフードを取り入れた西洋料理を、フードライターのアルマンド・リードがご紹介！／2011年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18793641/image/c47ac583e0dc6aa1b5b34a03600e1436.jpg"/>
   </programme>
   <programme start="20261105082500 +0900" stop="20261105083000 +0900" channel="LaLa-TV_jp">
     <title lang="ja">LaLa Fit〜バレエ式 健康習慣〜　下半身</title>
     <desc lang="ja">優雅な動きの中に“軸”を意識したバレエ式メソッドで、毎日の健康習慣！／2026年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18793642/image/f3b09776b5f14fdf7f5103cb95de119e.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105093000 +0900" channel="LaLa-TV_jp">
     <title lang="ja">［初］THE MENTALIST／メンタリスト　シーズン３［吹替］＃２４［終］</title>
@@ -19419,12 +19389,10 @@
   <programme start="20261105064000 +0900" stop="20261105080000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">ドリフ大爆笑【連日】#140</title>
     <desc lang="ja">『#140　1991.9.10 OA』出演：ザ・ドリフターズ、かとうれいこ、渡辺美奈代、中條かな子、生稲晃子</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18787337/image/341d963a3885f2323315cc2dd4025cfb.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105083000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">生活お役立ち情報</title>
     <desc lang="ja">この時間は生活に役立つお得なテレビショッピングをお届けします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18787338/image/e025f8ed40cfb15c2c6219fee9d2d6dc.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105102000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">銀座高級クラブママ青山みゆき３　赤いバラの殺人予告　出演：名取裕子</title>
@@ -20046,7 +20014,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="アニマックス_jp">
     <title lang="ja">科学忍者隊ガッチャマン #87，88</title>
     <desc lang="ja">#87「三段合体鉄獣パトギラー」#88「鉄獣スネーク828」悪の組織ギャラクターの野望を阻止するために組織された、少年少女5人による科学忍者隊。＜全105話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672505/image/12e25ba0f42ec3a4b0843174e88bb719.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="アニマックス_jp">
     <title lang="ja">名探偵コナン 坊っちゃん亭へようこそ</title>
@@ -20333,12 +20300,10 @@
   <programme start="20261105073000 +0900" stop="20261105080000 +0900" channel="キッズステーション_jp">
     <title lang="ja">ふるさと再生　日本の昔ばなし #155</title>
     <desc lang="ja">第155話「さるかに／欲ばり喜八／蜘蛛の綾織」こどもたちの未来のために、今こそ新たに伝えたい、私たち日本の昔ばなし!!</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672668/image/fb15fec03c199aa6a10263ae1e093f6e.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105083000 +0900" channel="キッズステーション_jp">
     <title lang="ja">まんが日本昔ばなし #163</title>
     <desc lang="ja">第163話「宝の下駄/キツネのお産」むかしむかし、あるところにーー 日本中の心をつないだ物語がありました。 1975年放送開始。語り継ぎたい“日本の心”</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672669/image/685c2c86061ac06190fcdb52d383ebcc.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105090000 +0900" channel="キッズステーション_jp">
     <title lang="ja">パウ・パトロール[二] #261</title>
@@ -20667,27 +20632,22 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">ハイキュー!!セカンドシーズン #11-12</title>
     <desc lang="ja">「すべては、“進化”する―！！」春高予選へむけ、烏野高校の再始動がスタートする！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672738/image/200aff9cfd8001c9114fa79436db46ef.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105080900 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">まいにちドタバタ！ウィージー家族 #11</title>
     <desc lang="ja">＜ミッション：ニセモノのかんじゃ＞お調子者のイタチのウィージーが、アヒルの双子のパパに！トラブル連発、毎日大混乱の子育てドタバタコメディ。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672739/image/131606fd2c31c440677b1ab1a24aa1e7.jpg"/>
   </programme>
   <programme start="20261105080900 +0900" stop="20261105082200 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">バッグス・バニー ビルダーズ #23 (二)</title>
     <desc lang="ja">＜タズのくるま＞さあ、ヘルメット・タイムだ！リーダーのバッグスとローラ・バニーが仲間とともにチームワークで想像を超える素敵な建物を造るよ！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672740/image/1b1f0824a7000e96ca199d9b909a3f94.jpg"/>
   </programme>
   <programme start="20261105082200 +0900" stop="20261105083000 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">ぼくはクモのルーカス #19(二)</title>
     <desc lang="ja">＜ツイてないフィンドリー＞クモのルーカスは、ハッピーで好奇心旺盛でとてもキュートなクモ。自分の世界を探検することに夢中！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672741/image/94d18782b1399566f743b39cca48550f.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105084500 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">ぼくらベアベアーズ #3(二)</title>
     <desc lang="ja">【声】川原慶久、谷山紀章、保村真　グリズ、パンダ、アイスベアのほんわか心和む仲良しトリオの日常を描いた作品。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672742/image/9def63568ed3484e34c24a67f7d08121.jpg"/>
   </programme>
   <programme start="20261105084500 +0900" stop="20261105090000 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">ぼくらベアベアーズ #4(二)</title>
@@ -21164,17 +21124,14 @@
   <programme start="20261105073000 +0900" stop="20261105075500 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">フィニアスとファーブ#28[二]</title>
     <desc lang="ja">ペリーの鳴き声を翻訳する「気持ち翻訳機」を造ったフィニアスたち。稼動させてみると、どんな動物の声も翻訳できると判明！噂を聞き近所の動物が庭に集まってきた！？</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18815147/image/4c7970939410a12a1a49436861848fc2.jpg"/>
   </programme>
   <programme start="20261105075500 +0900" stop="20261105080000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ミッキーマウス！#51[二]</title>
     <desc lang="ja">編み物が大好きなミニー。ベンチで編み物をしていると、街中の人が片方の靴下を盗まれていることを知る。急いでみんなの靴下を編む。しかし、それもすべて盗まれてしまう。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18815148/image/0b9e01a703d732353e064ab8eeefaaad.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105083000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">パップストラクション#8[二]</title>
     <desc lang="ja">ベイリーのためにケーキ作りを手伝うパップストラクション。フィニーが思いついた特別なケーキとは？／消防署からいろんな道具を積める消防車を作ってほしいと頼まれる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18815149/image/cf2df1fd7ba2831d137119429d4269fe.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105090000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ちいさなプリンセス　ソフィア#53[二]</title>
@@ -21881,22 +21838,18 @@
   <programme start="20261105073000 +0900" stop="20261105074000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ヘイ！ダギー#138[二]</title>
     <desc lang="ja">チビッコたちに漫画『探偵パピー』を読んであげるダギー。チビッコたちは事件の真相が分かる次号を心待ちにするが連載がなくなる。そこで話の続きを自分たちで作ることに。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18813708/image/ab44dada3f7006b321c480b6db0b297c.jpg"/>
   </programme>
   <programme start="20261105074000 +0900" stop="20261105075000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">くまのプーさんといっしょ#40-#42[二]</title>
     <desc lang="ja">#40「ティガーのひるね」　#41「こおりダンス」　#42「カンガとパズル」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18813709/image/7428450b593261229fa9e69c537c7848.jpg"/>
   </programme>
   <programme start="20261105075000 +0900" stop="20261105080000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ディズニージュニア おうたのじかん</title>
     <desc lang="ja">ディズニージュニアで人気のショートムービーの中から、英語で歌っているおうたたちを集めたよ！みんなで一緒に歌おう！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18813710/image/07c7a86c6f365e4139b5a77fc3e487e8.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105083000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ブルーイ#36[二]</title>
     <desc lang="ja">大量のオモチャを捨てられないブルーイたちは…。／ブルーイは本物のタイプライターを使い小説家ごっこをしたい。／ブルーイたちは浴槽でハンバーガー屋さんごっこをする。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18813711/image/fb0fbd7078cfbf087eeddd42a64a76ba.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105090000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">スーパーキティ#29[二]</title>
@@ -22390,7 +22343,6 @@
   <programme start="20261105083000 +0900" stop="20261105094500 +0900" channel="WOWOWプライム_jp">
     <title lang="ja">[初]パク・ジフ×チョ・ジュニョン「スピリット・フィンガーズ」#6</title>
     <desc lang="ja">恋や友情、将来への悩み、家庭問題などを通して経験するさまざまな感情を「ミセン −未生−」の脚本家が鮮やかに描いた群像劇。若手実力派俳優が集結したことも話題に。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/70410000/70410572/image/1cf02a230b66504366dd89db675259d7.jpg"/>
   </programme>
   <programme start="20261105094500 +0900" stop="20261105110000 +0900" channel="WOWOWプライム_jp">
     <title lang="ja">なぜオ・スジェなのか ＃８ 偽の音声（字幕版）</title>
@@ -23263,7 +23215,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="MONDOTV_jp">
     <title lang="ja">運留おやじパチンコ道！おやじだって勝ちたい！！Season2 #11</title>
     <desc lang="ja">パチンコ専門誌の編集長・おやじ運留が娘と協力して立ち回るパチンコ実戦番組のシーズン２、三女の絆りんに加え、長女のソフィー、次女の玉城マイが登場！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672640/image/413e4eec4962dfff1dbd8f54eb0e14e7.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="MONDOTV_jp">
     <title lang="ja">パチンコ激闘伝！実戦守山塾 #437</title>
@@ -23570,7 +23521,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="フジテレビONE_jp">
     <title lang="ja">パチンコLAB 〜14th season〜　#3</title>
     <desc lang="ja">出玉にこだわらない新しい楽しみ方を追求する新感覚パチンコバラエティ！＜出演＞木村魚拓　青山りょう　ロギー</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18788145/image/628f0c0ddbb5d3733985d1ca93be1230.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="フジテレビONE_jp">
     <title lang="ja">パチンコLAB 〜14th season〜　#4</title>
@@ -23855,12 +23805,10 @@
   <programme start="20261105071000 +0900" stop="20261105074500 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">韓国ドラマ「スキャンダル 〜白雪姫の逆襲〜」#10　【日本語字幕版】</title>
     <desc lang="ja">第10話「動き出した未来」　＜出演＞ハン・チェヨン　ハン・ボルム　チェ・ウン　キム・ギュソン　イ・ビョンジュン　ほか（全102話）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18788339/image/8b05b27e3256751d869c5aa916acd7f0.jpg"/>
   </programme>
   <programme start="20261105074500 +0900" stop="20261105082000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">韓国ドラマ「スキャンダル 〜白雪姫の逆襲〜」#11　【日本語字幕版】</title>
     <desc lang="ja">第11話「スターへの階段」　＜出演＞ハン・チェヨン　ハン・ボルム　チェ・ウン　キム・ギュソン　イ・ビョンジュン　ほか（全102話）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18788340/image/b963b54c85c381c980c6a1d777295bc5.jpg"/>
   </programme>
   <programme start="20261105082000 +0900" stop="20261105085500 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">韓国ドラマ「スキャンダル 〜白雪姫の逆襲〜」#12　【日本語字幕版】</title>
@@ -24354,12 +24302,10 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">あずぱち！〜吾妻橋ぱちプロダクション外伝〜 ＃122</title>
     <desc lang="ja">＜あずぱち！〜吾妻橋ぱちプロダクション外伝〜 ＃122＞TV初 日本 2026年 38分出演：青山りょう、岡野陽一</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18677208/image/22e3642c6fdbee00e41f891caec150c8.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105083000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">情報番組</title>
     <desc lang="ja">情報番組（PR）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18677209/image/427f0db4c69227d2fc14244b60932b12.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105093000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">凸凹戦隊ゼニゲバン ＃139</title>
@@ -24577,7 +24523,6 @@
   <programme start="20261105073500 +0900" stop="20261105085000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">大王世宗　#14　[字]</title>
     <desc lang="ja">2008年　全86話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18676595/image/71e7af22f6df8c02c1b7abe52c2bd254.jpg"/>
   </programme>
   <programme start="20261105085000 +0900" stop="20261105102000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">私の彼はエプロン男子〜Ｄｅａｒ Ｍｙ Ｈｏｕｓｅｋｅｅｐｅｒ〜 #13、14 [字][再]</title>
@@ -24804,7 +24749,6 @@
   <programme start="20261105073000 +0900" stop="20261105080000 +0900" channel="日テレプラス_jp">
     <title lang="ja">それいけ!アンパンマン #1141『カレーパンマンとおかしの国』ほか</title>
     <desc lang="ja">カレーパンマンとおかしの国/めいけんチーズとバイオリンくん</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672840/image/cb0f4805d8818369560244692a03e095.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="日テレプラス_jp">
     <title lang="ja">デスノート #8</title>
@@ -25481,7 +25425,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">絶景！大自然の水遊び天国 シーズン3 #14</title>
     <desc lang="ja">世界各地の知られざる遊泳スポットを紹介！誰も知らない究極の涼み場で忘れられない大冒険をしよう！ Episode 14 マルタのアラックス洞窟</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672446/image/c6f46ed4a26f29873b1148090d1d9761.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">憧れの地に家を買おう #1</title>
@@ -25826,7 +25769,6 @@
   <programme start="20261105040000 +0900" stop="20261105080000 +0900" channel="TBS-NEWS_jp">
     <title lang="ja">ウェイクアップニュース</title>
     <desc lang="ja">▽国内外の最新・注目ニュース、お天気情報　▽トピックスやトレンド、季節の話題　▽速報は“ブレイキングニュース”</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261104/18672547/image/9aaa5bbadc0082f79580dd6008597ed7.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105160000 +0900" channel="TBS-NEWS_jp">
     <title lang="ja">ストレートニュース</title>
@@ -26225,7 +26167,6 @@
   <programme start="20261105073000 +0900" stop="20261105080000 +0900" channel="BBCニュース_jp">
     <title lang="ja">ニュースナイト</title>
     <desc lang="ja">その日の重要な英国内および世界のニュースをお送りする。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18791335/image/74b8d0c5dac1244b0f37f43fb0a2299a.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="BBCニュース_jp">
     <title lang="ja">BBCワールドニュース・アメリカ</title>
@@ -26704,7 +26645,6 @@
   <programme start="20261105060000 +0900" stop="20261105080000 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">古代の宇宙人S1 #4 遭遇[二]</title>
     <desc lang="ja">いつの時代にも、奇妙な生命体との遭遇報告や空を飛ぶ謎の物体の目撃談がある。これらは、宇宙人が人類とともに存在する証明だろうか？</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18677927/image/68d1ca5a5fa5e41019000cb153afb47d.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105100000 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">アンビリーバブル！世界不思議ファイルS2 #17&amp;#18[字] ◆ミステリー</title>
@@ -26937,7 +26877,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="ナショナル-ジオグラフィック_jp">
     <title lang="ja">●モーニング・Ｄｒ．ポール●スゴ腕どうぶつドクター４「クリスマスがやって来る！」</title>
     <desc lang="ja">クリスマス・シーズン到来！厳しい寒さにも負けず往診にでかけるドクター・ポール。トナカイの治療を試みるブレンダ。一方、チャールズはエルフを演じることに【二ヶ国語】</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18806520/image/0157c19021fb73b255b2e27b1e7a642d.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="ナショナル-ジオグラフィック_jp">
     <title lang="ja">密着！空港警察：ペルー＆ブラジル「コカインに溺れて」[二]</title>
@@ -27194,7 +27133,6 @@
   <programme start="20261105073000 +0900" stop="20261105083000 +0900" channel="ディスカバリーチャンネル_jp">
     <title lang="ja">【連日放送】激撮！警察カーチェイス S1：殺人容疑者(二)</title>
     <desc lang="ja">連日放送殺人の容疑者が人質をとって逃亡。フロリダ州では、警官が沼地で怪しい車を追うと、運転手は命がけで逃げようとする。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672934/image/657bba5c9c078d5f0f93b3be6d022c20.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105093000 +0900" channel="ディスカバリーチャンネル_jp">
     <title lang="ja">【ミリタリーSP】ミリタリー百科 戦闘機(二)</title>
@@ -27499,7 +27437,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">【ネイチャー特選】野生のギャングたち(二)</title>
     <desc lang="ja">ネイチャー特選抜群のチームワークで獲物を狙うオオカミの群れや、サンゴ礁に集まる魚を恐怖に陥れるミノカサゴの群れを紹介する。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18672810/image/1160b3363f6361a53e71097b71733871.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">【アンコール一挙】オーシャンワイルド神秘の海の物語：フィリピン(二)</title>
@@ -27834,12 +27771,10 @@
   <programme start="20261105073000 +0900" stop="20261105074600 +0900" channel="囲碁・将棋チャンネル_jp">
     <title lang="ja">囲碁）挑戦！テレビ囲碁認定 No.1366</title>
     <desc lang="ja">番組進行：中島美絵子三段 ★解答応募〆切日★令和08年11月7日(土) 消印有効</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18803507/image/b3ac2a59bc8525c1f2d73bc407a479db.jpg"/>
   </programme>
   <programme start="20261105074600 +0900" stop="20261105080000 +0900" channel="囲碁・将棋チャンネル_jp">
     <title lang="ja">囲碁）Let'sチャレンジ詰碁 No.5</title>
     <desc lang="ja">番組進行：田村千明二段</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18803508/image/9348b968bcc087e131882a5f2ab2212f.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105094600 +0900" channel="囲碁・将棋チャンネル_jp">
     <title lang="ja">将棋）ヒューリック杯 第97期 棋聖戦</title>
@@ -28141,7 +28076,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">[解]アジングへ行こう！ 56 夏の佐渡島</title>
     <desc lang="ja">今回の『アジングへ行こう！』は新潟県佐渡島が舞台。普段のアジングはナイトゲームを中心に楽しむ“ぽけいさ”コンビが、初挑戦となるデイアジングで、攻略の糸口を探る。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18677004/image/fa60c058266b2e225226a68437fe8d1f.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">とことんエギパラダイス 169 上々ティップラン</title>
@@ -29115,7 +29049,6 @@
   <programme start="20261105064000 +0900" stop="20261105075500 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">【映】織田同志会 織田征仁 第二章</title>
     <desc lang="ja">２０２０年／日本／６５分／監督：藤原健一／出演：的場浩司、原田大二郎、萩野崇　ほか／狂犬と呼ばれた男と織田同志会のメンバーがヤクザ・警察に立ち向かう！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18786692/image/dcf4b7172b495132b633a6c32e1238cd.jpg"/>
   </programme>
   <programme start="20261105075500 +0900" stop="20261105081000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">インフォメーション</title>
@@ -29124,7 +29057,6 @@
   <programme start="20261105081000 +0900" stop="20261105084500 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">パチンコ頂上決戦！４ 〜オリ法vs必勝本〜 #17</title>
     <desc lang="ja">オカルト攻略のオリ法チームＶＳボーダー攻略の必勝本チーム。第４弾となる今回も、それぞれの理論を掲げる２チームの目が離せない戦いが始まる！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18786694/image/86957ba806b8bd3fd5294be5a704d4c3.jpg"/>
   </programme>
   <programme start="20261105084500 +0900" stop="20261105091500 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">インフォメーション</title>
@@ -30914,7 +30846,6 @@
   <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="ショップチャンネル_jp">
     <title lang="ja">北條いちおし　ギンカウィンカ　前髪ウィッグ＆カチューシャセット</title>
     <desc lang="ja">バラエティ／キャストいちおしデイ／お馴染みの人気キャストが３０周年の大創業祭に大集合！みんなのいちおしはコレ！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18794416/image/708e446e8e9e9785b03327a5d41009c5.jpg"/>
   </programme>
   <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="ショップチャンネル_jp">
     <title lang="ja">木村いちおし　宝寿茶</title>
@@ -31545,12 +31476,10 @@
   <programme start="20261105060000 +0900" stop="20261105074500 +0900" channel="チャンネル銀河_jp">
     <title lang="ja">ＢＳ日本のうた　＃３２８</title>
     <desc lang="ja">【出演】大月みやこ、キム・ヨンジャ、ジェロ、橋幸夫、三田明、岡ゆう子、多岐川舞子、田川寿美、西方裕之、花村菊江、林あさ美、松村和子、長山洋子/2009年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18794015/image/4ae42a94b79f3914d2c2a7407ddcc757.jpg"/>
   </programme>
   <programme start="20261105074500 +0900" stop="20261105083000 +0900" channel="チャンネル銀河_jp">
     <title lang="ja">孤独のグルメ　Season８＃１２＜全１２話＞[終]</title>
     <desc lang="ja">【東京都台東区三ノ輪のカツ丼と冷し麻婆麺】輸入雑貨商を営む井之頭五郎は仕事で訪れた町で、ふと店に立ち寄り自由に食事をする/2019年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261105/18794016/image/3c0885439b45c5f235188f8f9fb1f5d0.jpg"/>
   </programme>
   <programme start="20261105083000 +0900" stop="20261105093000 +0900" channel="チャンネル銀河_jp">
     <title lang="ja">中国ドラマ「似錦〜華めく運命〜」＃１＜字幕＞</title>
@@ -32593,212 +32522,212 @@
     <desc lang="ja">＜黒川結 初結＞TV初 日本 2026年 141分出演：黒川結</desc>
   </programme>
   <programme start="20261105000000 +0900" stop="20261105010000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">新人風俗嬢５人！最後まで許してしまいました</title>
-    <desc lang="ja">▽１ケ月前まで女子●生だった風俗嬢や入店直後で初勤務の人妻デリヘル嬢などの新人風俗嬢５人に店側で禁止されている本●行為を狙う！そして、ナマ挿入＆中●しを敢行！</desc>
+    <title lang="ja">妖艶独身熟女が息子代行サービスの若い男性スタッフを誘惑</title>
+    <desc lang="ja">◆独身の美人熟女姉妹がそれぞれ「息子代行サービス」をエロ行為目的で依頼！そのエロすぎる姿態と挑発行為に困惑する息子役キャストたち。しかし最後は興奮を抑えきれず…</desc>
   </programme>
   <programme start="20261105010000 +0900" stop="20261105020000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">皮膚科のキレイな先生に怒張したアレ見せつけ挑発（２３）</title>
-    <desc lang="ja">◆今回はショートボブが似合うデキる女オーラ漂うアラフォー美人女医が登場！適度な肉づきの絶妙にソソる体型！診察で勃起したチ●ポを彼女に見せつけてスケベ行為をお願い</desc>
-  </programme>
-  <programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">ガチ口説きⅠ～かわいいシロウト女性５人と本気のＳＥＸ</title>
-    <desc lang="ja">ナンパＳＥＸに鉄則あり！ガチで口説けば絶対にヤレる！夜勤明けに呑んでる看護師から大阪で出会った可愛いコ、銀座美人ＯＬまで！シロウト女性５人と本気ＳＥＸキメるぜ！</desc>
-  </programme>
-  <programme start="20261105030000 +0900" stop="20261105040000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">ちょっとエッチな女の子・はるなちゃん２２歳と一泊旅行</title>
-    <desc lang="ja">◆イケメン男優と一泊旅行に行きませんか？ただし、ゲームにクリアー出来なかったらＳＥＸです！と募集したところ、刺激が欲しい２２歳のデカ尻アパレル店員が来てくれた！</desc>
-  </programme>
-  <programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">フェチキングｖｏｌ．２　レオタードマニア</title>
-    <desc lang="ja">◆「人には言えないけど実は○○フェチ」…そんなアナタに贈るフェチシリーズ第２弾！今回は女の子のボディラインをクッキリと浮かび上がらせるレオタードの魅力をお届け。</desc>
-  </programme>
-  <programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">四十路×五十路熟女５人！大発情ＳＰ（８）</title>
-    <desc lang="ja">◆年齢と共に高まり続ける女たちの底なし性欲…もう止まらない熟々ま●こ。四十路、五十路が熟れた肢体で肉欲を貪り大発情スペシャル第８弾！厳選した５人がＳＥＸに狂う。</desc>
-  </programme>
-  <programme start="20261105060000 +0900" stop="20261105070000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">大きなイチモツを奥までずっぷりブチ込まれたい人妻たち８</title>
-    <desc lang="ja">★家庭を壊す気はないが欲求不満。今まで浮気をしたこともないがどうせするなら、大きなイチモツをもつ男とＳＥＸしたい、そんな願望をもつエロい人妻達が応募してきた！</desc>
-  </programme>
-  <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">魅惑の果実～Ｆ、Ｇ、Ｈ、Ｉカップ　爆乳美●女たち</title>
-    <desc lang="ja">◆弾けそうな爆乳を持つ美●女たちのエロスイメージ。Ｓ心をくすぐるＧカップのロリ娘・富永まなみやＩカップの社長令嬢・風友セリーヌ、Ｆカップの美咲恋などが登場！</desc>
-  </programme>
-  <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">新・アナタのおっぱい見せて下さい！（７）</title>
-    <desc lang="ja">▽新・街頭シ●ウト娘ナンパ「アナタのおっぱい見せて下さい！」（７）～今回は若い娘祭り！かわいい子達のおっぱいをテクニックを駆使して拝んでいく！</desc>
-  </programme>
-  <programme start="20261105090000 +0900" stop="20261105100000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">普通の女子大生・りなちゃんが初めてエッチ動画に出演！</title>
-    <desc lang="ja">◆マスク着用を条件にＡＶに出演してくれた普通の大学生りなちゃん。幼い顔立ちの彼女が服を脱ぐと形の良いＦカップのおっぱいが！結局、普通の女の子が一番エロいのかもね</desc>
-  </programme>
-  <programme start="20261105100000 +0900" stop="20261105110000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">「あのデカ乳ヤバいでしょ！」街で目をひく巨乳娘を…</title>
-    <desc lang="ja">▽着衣の状態からでも絶賛してしまうような、これぞっ！という巨乳女子を街でナンパしてハメ撮りまでしちゃう企画。最高級の巨乳女子を求めて街に繰り出す！！</desc>
-  </programme>
-  <programme start="20261105110000 +0900" stop="20261105120000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">キレイな五十路熟女を性感マッサージでイカせてみた（７）</title>
-    <desc lang="ja">▽キレイな五十路熟女をＡＶ女優の一条みおちゃんがナンパ！豊満な五十路熟女に妖艶な五十路熟女、一条みおちゃんも先生のテクニックでおもわず何度もイッてしまう！！</desc>
-  </programme>
-  <programme start="20261105120000 +0900" stop="20261105130000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">美女１０人の本気オナニーを覗いてみた（２４）</title>
-    <desc lang="ja">◆１０人の女性が様々なシチュエーションでオナニー！その姿を透明人間の視点でじっくりと至近距離でガン見！アソコの匂いがしてきそうなほどの臨場感！シリーズ第２４弾！</desc>
-  </programme>
-  <programme start="20261105130000 +0900" stop="20261105140000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">誰もがムラムラするデカパイ熟女５人！（１２）</title>
-    <desc lang="ja">★見よ！この豊満でエロい身体を！この柔乳にまみれて射精したい！誰もがムラムラするデカパイ熟女５人！肉欲にまみれて最後の一滴まで搾り取られたい！大好評第１２弾！</desc>
-  </programme>
-  <programme start="20261105140000 +0900" stop="20261105150000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">妖艶独身熟女が息子代行サービスの若い男性スタッフを誘惑</title>
-    <desc lang="ja">◆独身の美人熟女姉妹がそれぞれ「息子代行サービス」をエロ行為目的で依頼！そのエロすぎる姿態と挑発行為に困惑する息子役キャストたち。しかし最後は興奮を抑えきれず…</desc>
-  </programme>
-  <programme start="20261105150000 +0900" stop="20261105160000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">お姉さん５人！思わず中でイッちゃいました（１３）</title>
-    <desc lang="ja">エッチすぎるお姉さん５人が登場！色々なシチュエーションでＳＥＸ５連発！しかも５人全員ガマンできずに中でイッちゃいました！５人の膣にたっぷりザーメン発射！第１３弾</desc>
-  </programme>
-  <programme start="20261105160000 +0900" stop="20261105170000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">街頭シ●ウト熟女ナンパ「アナタのおっぱい見せて下さい」</title>
-    <desc lang="ja">▽街頭シ●ウト熟女ナンパ「アナタのおっぱい見せて下さい！」スタート！熟女ならではのおっぱいが満載！熟女好き、おっぱい好きは必見！熟したおっぱいを鑑賞ください♪</desc>
-  </programme>
-  <programme start="20261105170000 +0900" stop="20261105180000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">近所の綺麗なお婆ちゃん宅に泊まりこんで迫ってみた総集編</title>
-    <desc lang="ja">▽お婆ちゃん好きな男性がお婆ちゃんの家へ泊まりこみ、一宿一飯の恩義をチンポでお返しする大人気シリーズ総集編（４）崩れた肉体でも感度はバツグンのお婆ちゃんたち</desc>
-  </programme>
-  <programme start="20261105180000 +0900" stop="20261105190000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">池袋のリフレ店のエロ尻お姉さんは多分ヤレる</title>
-    <desc lang="ja">◆池袋のリフレ店に通っているＡＶ男優がイチオシだと豪語するプリケツがエロすぎるヤリマン顔のお姉さんが２人いる。ＣＡコスがウリのその店で、ＳＥＸ目指して潜入した…</desc>
-  </programme>
-  <programme start="20261105190000 +0900" stop="20261105200000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">祖父の介護中に僕を執拗に挑発してくる豪華版</title>
-    <desc lang="ja">◆自宅にやって来るムチ尻な４人の介護士は欲求不満なのか？おじいちゃんの孫を狙い積極的にアプローチ！介護をする傍ら、孫には女の身体を教え込むどスケベ美熟女だった！</desc>
-  </programme>
-  <programme start="20261105200000 +0900" stop="20261105210000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">画面の女の子とシテいるかのような映像６連発</title>
-    <desc lang="ja">羽月希、坂井亜美、西村ニーナ、百合川さら、川菜美鈴、玉木くるみ！大人気セクシー女優たちとＳＥＸしてみませんか？！ヴァーチャルな妄想６連発の人気シリーズ第５弾！！</desc>
-  </programme>
-  <programme start="20261105210000 +0900" stop="20261105220000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">五十路おばさん５人がＡＶデビューする理由ＳＰ</title>
-    <desc lang="ja">番組ＨＰでＡＶ出演したい５０歳以上の女性を大募集。応募してきた女性の中から面接を希望した５人を呼んだ。そしてＡＶデビュー！なぜ５０代でＡＶ出演を決めたのか？</desc>
-  </programme>
-  <programme start="20261105220000 +0900" stop="20261105230000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">妖艶独身熟女が息子代行サービスの若い男性スタッフを誘惑</title>
-    <desc lang="ja">◆独身の美人熟女姉妹がそれぞれ「息子代行サービス」をエロ行為目的で依頼！そのエロすぎる姿態と挑発行為に困惑する息子役キャストたち。しかし最後は興奮を抑えきれず…</desc>
-  </programme>
-  <programme start="20261105230000 +0900" stop="20261106000000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">新人風俗嬢５人！最後まで許してしまいました</title>
-    <desc lang="ja">▽１ケ月前まで女子●生だった風俗嬢や入店直後で初勤務の人妻デリヘル嬢などの新人風俗嬢５人に店側で禁止されている本●行為を狙う！そして、ナマ挿入＆中●しを敢行！</desc>
-  </programme>
-  <programme start="20261106000000 +0900" stop="20261106010000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">画面の女の子とシテいるかのような映像６連発</title>
-    <desc lang="ja">羽月希、坂井亜美、西村ニーナ、百合川さら、川菜美鈴、玉木くるみ！大人気セクシー女優たちとＳＥＸしてみませんか？！ヴァーチャルな妄想６連発の人気シリーズ第５弾！！</desc>
-  </programme>
-  <programme start="20261106010000 +0900" stop="20261106020000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">お母さんの女友達はみ～んな欲求不満</title>
     <desc lang="ja">◇母親の女友達が家に遊びに来ている。ある日昼まで寝ていると、母親の女友達が部屋に入ってきた。アソコをぐっしょり濡らしてみんなボクのイチモツを挿れたがる…</desc>
   </programme>
-  <programme start="20261106020000 +0900" stop="20261106030000 +0900" channel="ヌーヴェルパラダイス_jp">
+  <programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">新・アナタのおっぱい見せて下さい！（７）</title>
     <desc lang="ja">▽新・街頭シ●ウト娘ナンパ「アナタのおっぱい見せて下さい！」（７）～今回は若い娘祭り！かわいい子達のおっぱいをテクニックを駆使して拝んでいく！</desc>
   </programme>
-  <programme start="20261106030000 +0900" stop="20261106040000 +0900" channel="ヌーヴェルパラダイス_jp">
+  <programme start="20261105030000 +0900" stop="20261105040000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">普通の女子大生・りなちゃんが初めてエッチ動画に出演！</title>
     <desc lang="ja">◆マスク着用を条件にＡＶに出演してくれた普通の大学生りなちゃん。幼い顔立ちの彼女が服を脱ぐと形の良いＦカップのおっぱいが！結局、普通の女の子が一番エロいのかもね</desc>
   </programme>
-  <programme start="20261106040000 +0900" stop="20261106050000 +0900" channel="ヌーヴェルパラダイス_jp">
+  <programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">「あのデカ乳ヤバいでしょ！」街で目をひく巨乳娘を…</title>
     <desc lang="ja">▽着衣の状態からでも絶賛してしまうような、これぞっ！という巨乳女子を街でナンパしてハメ撮りまでしちゃう企画。最高級の巨乳女子を求めて街に繰り出す！！</desc>
   </programme>
-  <programme start="20261106050000 +0900" stop="20261106060000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">魅惑の果実～Ｆ、Ｇ、Ｈ、Ｉカップ　爆乳美●女たち</title>
-    <desc lang="ja">◆弾けそうな爆乳を持つ美●女たちのエロスイメージ。Ｓ心をくすぐるＧカップのロリ娘・富永まなみやＩカップの社長令嬢・風友セリーヌ、Ｆカップの美咲恋などが登場！</desc>
+  <programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">新人風俗嬢５人！最後まで許してしまいました</title>
+    <desc lang="ja">▽１ケ月前まで女子●生だった風俗嬢や入店直後で初勤務の人妻デリヘル嬢などの新人風俗嬢５人に店側で禁止されている本●行為を狙う！そして、ナマ挿入＆中●しを敢行！</desc>
   </programme>
-  <programme start="20261106060000 +0900" stop="20261106070000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">美女１０人の本気オナニーを覗いてみた（２４）</title>
-    <desc lang="ja">◆１０人の女性が様々なシチュエーションでオナニー！その姿を透明人間の視点でじっくりと至近距離でガン見！アソコの匂いがしてきそうなほどの臨場感！シリーズ第２４弾！</desc>
-  </programme>
-  <programme start="20261106070000 +0900" stop="20261106080000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">極上美人エステティシャンを超高級メンズエステ店で発見！</title>
-    <desc lang="ja">◆美人で巨乳のエステ嬢がいるという噂を聞きつけて東京都港区赤坂にある隠れ家的な高級メンズエステに潜入！巨乳店員えなさんと美形店員いおりさんが担当でＷチャンス！</desc>
-  </programme>
-  <programme start="20261106080000 +0900" stop="20261106090000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">フェチキングｖｏｌ．２　レオタードマニア</title>
-    <desc lang="ja">◆「人には言えないけど実は○○フェチ」…そんなアナタに贈るフェチシリーズ第２弾！今回は女の子のボディラインをクッキリと浮かび上がらせるレオタードの魅力をお届け。</desc>
-  </programme>
-  <programme start="20261106090000 +0900" stop="20261106100000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">池袋のリフレ店のエロ尻お姉さんは多分ヤレる</title>
-    <desc lang="ja">◆池袋のリフレ店に通っているＡＶ男優がイチオシだと豪語するプリケツがエロすぎるヤリマン顔のお姉さんが２人いる。ＣＡコスがウリのその店で、ＳＥＸ目指して潜入した…</desc>
-  </programme>
-  <programme start="20261106100000 +0900" stop="20261106110000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">祖父の介護中に僕を執拗に挑発してくる豪華版</title>
-    <desc lang="ja">◆自宅にやって来るムチ尻な４人の介護士は欲求不満なのか？おじいちゃんの孫を狙い積極的にアプローチ！介護をする傍ら、孫には女の身体を教え込むどスケベ美熟女だった！</desc>
-  </programme>
-  <programme start="20261106110000 +0900" stop="20261106120000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">ごく一般的な夫婦のリアルな性生活を隠し撮り（３）</title>
-    <desc lang="ja">◆ＡＶとは一味違うリアルな夫婦の夜の営みを隠し撮り◆美人妻４８歳が亭主関白な夫の変貌ぶりに困惑？夫婦の性愛の再燃◆和風美人の白肌妻３７歳が久しぶりの濃密性交！</desc>
-  </programme>
-  <programme start="20261106120000 +0900" stop="20261106130000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">四十路×五十路熟女５人！大発情ＳＰ⑯</title>
-    <desc lang="ja">年齢と共に高まり続ける女たちの底なし性欲…もう止まらない熟々ま●こ…四十路、五十路が熟れた肢体で肉欲を貪り大発情スペシャル第１６弾！厳選した５人がＳＥＸに狂う…</desc>
-  </programme>
-  <programme start="20261106130000 +0900" stop="20261106140000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">激かわヤンキー娘をナンパ即ハメ！豪華版</title>
-    <desc lang="ja">★ヤンキー娘は実は押しに弱く、押したらなんでもしてくれるんです！あどけないヤンキーや金髪ヤンキー娘達４人を押しまくって、ディープフェラからの中●し♪</desc>
-  </programme>
-  <programme start="20261106140000 +0900" stop="20261106150000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">女上司がデリヘルで働いていたので弱みにつけこみ本●④</title>
-    <desc lang="ja">◆会社に内緒でデリヘル店で働いていた美人上司の弱みにつけこんで本●をお願いしちゃいました！★巨乳上司＆５３歳の女役員にチ●コぶっこみ！</desc>
-  </programme>
-  <programme start="20261106150000 +0900" stop="20261106160000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">素人娘にヤリたい放題！エッチな催●でエロエロに豪華版２</title>
-    <desc lang="ja">◆実は催●術を嗜む人気男優・東雲怜弥が街で見つけた女の子たちに催●術をかけてエッチなことをしまくるというナンパ企画の２作品を再編集してまとめた豪華版ＳＰ</desc>
-  </programme>
-  <programme start="20261106160000 +0900" stop="20261106170000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">人妻訪問マッサージは頼めばヌキ以上の行為も④</title>
-    <desc lang="ja">◆人妻訪問マッサージは割とお触りを許してくれる人が多いので、お願いしたら射精させてくれるかも！人妻のマッサージでチ●コはビンビン。中●しＳＥＸ最高です！</desc>
-  </programme>
-  <programme start="20261106170000 +0900" stop="20261106180000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">ちょっとエッチな女の子・はるなちゃん２２歳と一泊旅行</title>
-    <desc lang="ja">◆イケメン男優と一泊旅行に行きませんか？ただし、ゲームにクリアー出来なかったらＳＥＸです！と募集したところ、刺激が欲しい２２歳のデカ尻アパレル店員が来てくれた！</desc>
-  </programme>
-  <programme start="20261106180000 +0900" stop="20261106190000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">盗●！美熟女たちがイキ狂う女性向け高級回春エステ④</title>
-    <desc lang="ja">◆熟女が悦ぶ女性向け高級回春エステの盗●映像を入手。そこに映っていたのは、美熟女の吉田さんと峰田さん。施術師のテクニックに我慢できずマン汁があふれ出しそのまま…</desc>
-  </programme>
-  <programme start="20261106190000 +0900" stop="20261106200000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">四十路×五十路熟女５人！大発情ＳＰ（８）</title>
-    <desc lang="ja">◆年齢と共に高まり続ける女たちの底なし性欲…もう止まらない熟々ま●こ。四十路、五十路が熟れた肢体で肉欲を貪り大発情スペシャル第８弾！厳選した５人がＳＥＸに狂う。</desc>
-  </programme>
-  <programme start="20261106200000 +0900" stop="20261106210000 +0900" channel="ヌーヴェルパラダイス_jp">
+  <programme start="20261105060000 +0900" stop="20261105070000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">ソソる体のガテン系美女５人！肉体派の性交激撮</title>
     <desc lang="ja">肉体労働のガテン系女子はムチムチボディがエロくてソソる。ＳＥＸは肉欲的で超ハード！職場でＳＥＸはもちろん、お客さん宅でダイナマイトなボインボインＳＥＸまで！</desc>
   </programme>
-  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="ヌーヴェルパラダイス_jp">
+  <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">肉感的なカラダを持て余す五十路熟女の淫らな遊戯豪華版３</title>
+    <desc lang="ja">◇露出大好き！スケベでエロい五十路熟女が自宅露出！宅配業者やデリバリースタッフ、若い男をターゲットに見せつける！変態熟女たちの露出豪華版！第３弾！！</desc>
+  </programme>
+  <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">同窓会で再会した同級生に欲情してしまいました</title>
     <desc lang="ja">★総勢８人とエッチな関係に！同窓会で再会した同級生が大人の雰囲気漂う熟れた体のイイ女になっていたので思わず欲情してしまい数十年ぶりに激しく燃えてＳＥＸしまくり！</desc>
   </programme>
-  <programme start="20261106220000 +0900" stop="20261106230000 +0900" channel="ヌーヴェルパラダイス_jp">
+  <programme start="20261105090000 +0900" stop="20261105100000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">新人風俗嬢５人！最後まで許してしまいました</title>
+    <desc lang="ja">▽１ケ月前まで女子●生だった風俗嬢や入店直後で初勤務の人妻デリヘル嬢などの新人風俗嬢５人に店側で禁止されている本●行為を狙う！そして、ナマ挿入＆中●しを敢行！</desc>
+  </programme>
+  <programme start="20261105100000 +0900" stop="20261105110000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">皮膚科のキレイな先生に怒張したアレ見せつけ挑発（２３）</title>
+    <desc lang="ja">◆今回はショートボブが似合うデキる女オーラ漂うアラフォー美人女医が登場！適度な肉づきの絶妙にソソる体型！診察で勃起したチ●ポを彼女に見せつけてスケベ行為をお願い</desc>
+  </programme>
+  <programme start="20261105110000 +0900" stop="20261105120000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">ガチ口説きⅠ～かわいいシロウト女性５人と本気のＳＥＸ</title>
+    <desc lang="ja">ナンパＳＥＸに鉄則あり！ガチで口説けば絶対にヤレる！夜勤明けに呑んでる看護師から大阪で出会った可愛いコ、銀座美人ＯＬまで！シロウト女性５人と本気ＳＥＸキメるぜ！</desc>
+  </programme>
+  <programme start="20261105120000 +0900" stop="20261105130000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">ちょっとエッチな女の子・はるなちゃん２２歳と一泊旅行</title>
+    <desc lang="ja">◆イケメン男優と一泊旅行に行きませんか？ただし、ゲームにクリアー出来なかったらＳＥＸです！と募集したところ、刺激が欲しい２２歳のデカ尻アパレル店員が来てくれた！</desc>
+  </programme>
+  <programme start="20261105130000 +0900" stop="20261105140000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">フェチキングｖｏｌ．２　レオタードマニア</title>
+    <desc lang="ja">◆「人には言えないけど実は○○フェチ」…そんなアナタに贈るフェチシリーズ第２弾！今回は女の子のボディラインをクッキリと浮かび上がらせるレオタードの魅力をお届け。</desc>
+  </programme>
+  <programme start="20261105140000 +0900" stop="20261105150000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">四十路×五十路熟女５人！大発情ＳＰ（８）</title>
+    <desc lang="ja">◆年齢と共に高まり続ける女たちの底なし性欲…もう止まらない熟々ま●こ。四十路、五十路が熟れた肢体で肉欲を貪り大発情スペシャル第８弾！厳選した５人がＳＥＸに狂う。</desc>
+  </programme>
+  <programme start="20261105150000 +0900" stop="20261105160000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">大きなイチモツを奥までずっぷりブチ込まれたい人妻たち８</title>
+    <desc lang="ja">★家庭を壊す気はないが欲求不満。今まで浮気をしたこともないがどうせするなら、大きなイチモツをもつ男とＳＥＸしたい、そんな願望をもつエロい人妻達が応募してきた！</desc>
+  </programme>
+  <programme start="20261105160000 +0900" stop="20261105170000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">魅惑の果実～Ｆ、Ｇ、Ｈ、Ｉカップ　爆乳美●女たち</title>
+    <desc lang="ja">◆弾けそうな爆乳を持つ美●女たちのエロスイメージ。Ｓ心をくすぐるＧカップのロリ娘・富永まなみやＩカップの社長令嬢・風友セリーヌ、Ｆカップの美咲恋などが登場！</desc>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105180000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">新・アナタのおっぱい見せて下さい！（７）</title>
+    <desc lang="ja">▽新・街頭シ●ウト娘ナンパ「アナタのおっぱい見せて下さい！」（７）～今回は若い娘祭り！かわいい子達のおっぱいをテクニックを駆使して拝んでいく！</desc>
+  </programme>
+  <programme start="20261105180000 +0900" stop="20261105190000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">普通の女子大生・りなちゃんが初めてエッチ動画に出演！</title>
+    <desc lang="ja">◆マスク着用を条件にＡＶに出演してくれた普通の大学生りなちゃん。幼い顔立ちの彼女が服を脱ぐと形の良いＦカップのおっぱいが！結局、普通の女の子が一番エロいのかもね</desc>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105200000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">「あのデカ乳ヤバいでしょ！」街で目をひく巨乳娘を…</title>
+    <desc lang="ja">▽着衣の状態からでも絶賛してしまうような、これぞっ！という巨乳女子を街でナンパしてハメ撮りまでしちゃう企画。最高級の巨乳女子を求めて街に繰り出す！！</desc>
+  </programme>
+  <programme start="20261105200000 +0900" stop="20261105210000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">キレイな五十路熟女を性感マッサージでイカせてみた（７）</title>
+    <desc lang="ja">▽キレイな五十路熟女をＡＶ女優の一条みおちゃんがナンパ！豊満な五十路熟女に妖艶な五十路熟女、一条みおちゃんも先生のテクニックでおもわず何度もイッてしまう！！</desc>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105220000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">美女１０人の本気オナニーを覗いてみた（２４）</title>
+    <desc lang="ja">◆１０人の女性が様々なシチュエーションでオナニー！その姿を透明人間の視点でじっくりと至近距離でガン見！アソコの匂いがしてきそうなほどの臨場感！シリーズ第２４弾！</desc>
+  </programme>
+  <programme start="20261105220000 +0900" stop="20261105230000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">誰もがムラムラするデカパイ熟女５人！（１２）</title>
+    <desc lang="ja">★見よ！この豊満でエロい身体を！この柔乳にまみれて射精したい！誰もがムラムラするデカパイ熟女５人！肉欲にまみれて最後の一滴まで搾り取られたい！大好評第１２弾！</desc>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106000000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">妖艶独身熟女が息子代行サービスの若い男性スタッフを誘惑</title>
+    <desc lang="ja">◆独身の美人熟女姉妹がそれぞれ「息子代行サービス」をエロ行為目的で依頼！そのエロすぎる姿態と挑発行為に困惑する息子役キャストたち。しかし最後は興奮を抑えきれず…</desc>
+  </programme>
+  <programme start="20261106000000 +0900" stop="20261106010000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">お姉さん５人！思わず中でイッちゃいました（１３）</title>
     <desc lang="ja">エッチすぎるお姉さん５人が登場！色々なシチュエーションでＳＥＸ５連発！しかも５人全員ガマンできずに中でイッちゃいました！５人の膣にたっぷりザーメン発射！第１３弾</desc>
   </programme>
-  <programme start="20261106230000 +0900" stop="20261107000000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">画面の女の子とシテいるかのような映像６連発</title>
-    <desc lang="ja">羽月希、坂井亜美、西村ニーナ、百合川さら、川菜美鈴、玉木くるみ！大人気セクシー女優たちとＳＥＸしてみませんか？！ヴァーチャルな妄想６連発の人気シリーズ第５弾！！</desc>
+  <programme start="20261106010000 +0900" stop="20261106020000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">街頭シ●ウト熟女ナンパ「アナタのおっぱい見せて下さい」</title>
+    <desc lang="ja">▽街頭シ●ウト熟女ナンパ「アナタのおっぱい見せて下さい！」スタート！熟女ならではのおっぱいが満載！熟女好き、おっぱい好きは必見！熟したおっぱいを鑑賞ください♪</desc>
   </programme>
-  <programme start="20261107000000 +0900" stop="20261107010000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">ソソる体のガテン系美女５人！肉体派の性交激撮</title>
-    <desc lang="ja">肉体労働のガテン系女子はムチムチボディがエロくてソソる。ＳＥＸは肉欲的で超ハード！職場でＳＥＸはもちろん、お客さん宅でダイナマイトなボインボインＳＥＸまで！</desc>
-  </programme>
-  <programme start="20261107010000 +0900" stop="20261107020000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">極上美人エステティシャンを超高級メンズエステ店で発見！</title>
-    <desc lang="ja">◆美人で巨乳のエステ嬢がいるという噂を聞きつけて東京都港区赤坂にある隠れ家的な高級メンズエステに潜入！巨乳店員えなさんと美形店員いおりさんが担当でＷチャンス！</desc>
-  </programme>
-  <programme start="20261107020000 +0900" stop="20261107030000 +0900" channel="ヌーヴェルパラダイス_jp">
+  <programme start="20261106020000 +0900" stop="20261106030000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">近所の綺麗なお婆ちゃん宅に泊まりこんで迫ってみた総集編</title>
     <desc lang="ja">▽お婆ちゃん好きな男性がお婆ちゃんの家へ泊まりこみ、一宿一飯の恩義をチンポでお返しする大人気シリーズ総集編（４）崩れた肉体でも感度はバツグンのお婆ちゃんたち</desc>
   </programme>
-  <programme start="20261107030000 +0900" stop="20261107033000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">岡田奈々／炎の伝説</title>
-    <desc lang="ja">◆伝説のスーパーアイドルの人気作を完全復刻するシリーズに、現在も女優として活躍する岡田奈々の『炎の伝説』が登場。整った顔立ちとクールな瞳が印象的な彼女。</desc>
+  <programme start="20261106030000 +0900" stop="20261106040000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">池袋のリフレ店のエロ尻お姉さんは多分ヤレる</title>
+    <desc lang="ja">◆池袋のリフレ店に通っているＡＶ男優がイチオシだと豪語するプリケツがエロすぎるヤリマン顔のお姉さんが２人いる。ＣＡコスがウリのその店で、ＳＥＸ目指して潜入した…</desc>
+  </programme>
+  <programme start="20261106040000 +0900" stop="20261106050000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">祖父の介護中に僕を執拗に挑発してくる豪華版</title>
+    <desc lang="ja">◆自宅にやって来るムチ尻な４人の介護士は欲求不満なのか？おじいちゃんの孫を狙い積極的にアプローチ！介護をする傍ら、孫には女の身体を教え込むどスケベ美熟女だった！</desc>
+  </programme>
+  <programme start="20261106050000 +0900" stop="20261106060000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">画面の女の子とシテいるかのような映像６連発</title>
+    <desc lang="ja">羽月希、坂井亜美、西村ニーナ、百合川さら、川菜美鈴、玉木くるみ！大人気セクシー女優たちとＳＥＸしてみませんか？！ヴァーチャルな妄想６連発の人気シリーズ第５弾！！</desc>
+  </programme>
+  <programme start="20261106060000 +0900" stop="20261106070000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">五十路おばさん５人がＡＶデビューする理由ＳＰ</title>
+    <desc lang="ja">番組ＨＰでＡＶ出演したい５０歳以上の女性を大募集。応募してきた女性の中から面接を希望した５人を呼んだ。そしてＡＶデビュー！なぜ５０代でＡＶ出演を決めたのか？</desc>
+  </programme>
+  <programme start="20261106070000 +0900" stop="20261106080000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">妖艶独身熟女が息子代行サービスの若い男性スタッフを誘惑</title>
+    <desc lang="ja">◆独身の美人熟女姉妹がそれぞれ「息子代行サービス」をエロ行為目的で依頼！そのエロすぎる姿態と挑発行為に困惑する息子役キャストたち。しかし最後は興奮を抑えきれず…</desc>
+  </programme>
+  <programme start="20261106080000 +0900" stop="20261106090000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">新人風俗嬢５人！最後まで許してしまいました</title>
+    <desc lang="ja">▽１ケ月前まで女子●生だった風俗嬢や入店直後で初勤務の人妻デリヘル嬢などの新人風俗嬢５人に店側で禁止されている本●行為を狙う！そして、ナマ挿入＆中●しを敢行！</desc>
+  </programme>
+  <programme start="20261106090000 +0900" stop="20261106100000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">画面の女の子とシテいるかのような映像６連発</title>
+    <desc lang="ja">羽月希、坂井亜美、西村ニーナ、百合川さら、川菜美鈴、玉木くるみ！大人気セクシー女優たちとＳＥＸしてみませんか？！ヴァーチャルな妄想６連発の人気シリーズ第５弾！！</desc>
+  </programme>
+  <programme start="20261106100000 +0900" stop="20261106110000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">お母さんの女友達はみ～んな欲求不満</title>
+    <desc lang="ja">◇母親の女友達が家に遊びに来ている。ある日昼まで寝ていると、母親の女友達が部屋に入ってきた。アソコをぐっしょり濡らしてみんなボクのイチモツを挿れたがる…</desc>
+  </programme>
+  <programme start="20261106110000 +0900" stop="20261106120000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">新・アナタのおっぱい見せて下さい！（７）</title>
+    <desc lang="ja">▽新・街頭シ●ウト娘ナンパ「アナタのおっぱい見せて下さい！」（７）～今回は若い娘祭り！かわいい子達のおっぱいをテクニックを駆使して拝んでいく！</desc>
+  </programme>
+  <programme start="20261106120000 +0900" stop="20261106130000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">普通の女子大生・りなちゃんが初めてエッチ動画に出演！</title>
+    <desc lang="ja">◆マスク着用を条件にＡＶに出演してくれた普通の大学生りなちゃん。幼い顔立ちの彼女が服を脱ぐと形の良いＦカップのおっぱいが！結局、普通の女の子が一番エロいのかもね</desc>
+  </programme>
+  <programme start="20261106130000 +0900" stop="20261106140000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">「あのデカ乳ヤバいでしょ！」街で目をひく巨乳娘を…</title>
+    <desc lang="ja">▽着衣の状態からでも絶賛してしまうような、これぞっ！という巨乳女子を街でナンパしてハメ撮りまでしちゃう企画。最高級の巨乳女子を求めて街に繰り出す！！</desc>
+  </programme>
+  <programme start="20261106140000 +0900" stop="20261106150000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">魅惑の果実～Ｆ、Ｇ、Ｈ、Ｉカップ　爆乳美●女たち</title>
+    <desc lang="ja">◆弾けそうな爆乳を持つ美●女たちのエロスイメージ。Ｓ心をくすぐるＧカップのロリ娘・富永まなみやＩカップの社長令嬢・風友セリーヌ、Ｆカップの美咲恋などが登場！</desc>
+  </programme>
+  <programme start="20261106150000 +0900" stop="20261106160000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">美女１０人の本気オナニーを覗いてみた（２４）</title>
+    <desc lang="ja">◆１０人の女性が様々なシチュエーションでオナニー！その姿を透明人間の視点でじっくりと至近距離でガン見！アソコの匂いがしてきそうなほどの臨場感！シリーズ第２４弾！</desc>
+  </programme>
+  <programme start="20261106160000 +0900" stop="20261106170000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">極上美人エステティシャンを超高級メンズエステ店で発見！</title>
+    <desc lang="ja">◆美人で巨乳のエステ嬢がいるという噂を聞きつけて東京都港区赤坂にある隠れ家的な高級メンズエステに潜入！巨乳店員えなさんと美形店員いおりさんが担当でＷチャンス！</desc>
+  </programme>
+  <programme start="20261106170000 +0900" stop="20261106180000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">フェチキングｖｏｌ．２　レオタードマニア</title>
+    <desc lang="ja">◆「人には言えないけど実は○○フェチ」…そんなアナタに贈るフェチシリーズ第２弾！今回は女の子のボディラインをクッキリと浮かび上がらせるレオタードの魅力をお届け。</desc>
+  </programme>
+  <programme start="20261106180000 +0900" stop="20261106190000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">池袋のリフレ店のエロ尻お姉さんは多分ヤレる</title>
+    <desc lang="ja">◆池袋のリフレ店に通っているＡＶ男優がイチオシだと豪語するプリケツがエロすぎるヤリマン顔のお姉さんが２人いる。ＣＡコスがウリのその店で、ＳＥＸ目指して潜入した…</desc>
+  </programme>
+  <programme start="20261106190000 +0900" stop="20261106200000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">祖父の介護中に僕を執拗に挑発してくる豪華版</title>
+    <desc lang="ja">◆自宅にやって来るムチ尻な４人の介護士は欲求不満なのか？おじいちゃんの孫を狙い積極的にアプローチ！介護をする傍ら、孫には女の身体を教え込むどスケベ美熟女だった！</desc>
+  </programme>
+  <programme start="20261106200000 +0900" stop="20261106210000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">ごく一般的な夫婦のリアルな性生活を隠し撮り（３）</title>
+    <desc lang="ja">◆ＡＶとは一味違うリアルな夫婦の夜の営みを隠し撮り◆美人妻４８歳が亭主関白な夫の変貌ぶりに困惑？夫婦の性愛の再燃◆和風美人の白肌妻３７歳が久しぶりの濃密性交！</desc>
+  </programme>
+  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">四十路×五十路熟女５人！大発情ＳＰ⑯</title>
+    <desc lang="ja">年齢と共に高まり続ける女たちの底なし性欲…もう止まらない熟々ま●こ…四十路、五十路が熟れた肢体で肉欲を貪り大発情スペシャル第１６弾！厳選した５人がＳＥＸに狂う…</desc>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261106230000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">激かわヤンキー娘をナンパ即ハメ！豪華版</title>
+    <desc lang="ja">★ヤンキー娘は実は押しに弱く、押したらなんでもしてくれるんです！あどけないヤンキーや金髪ヤンキー娘達４人を押しまくって、ディープフェラからの中●し♪</desc>
+  </programme>
+  <programme start="20261106230000 +0900" stop="20261107000000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">女上司がデリヘルで働いていたので弱みにつけこみ本●④</title>
+    <desc lang="ja">◆会社に内緒でデリヘル店で働いていた美人上司の弱みにつけこんで本●をお願いしちゃいました！★巨乳上司＆５３歳の女役員にチ●コぶっこみ！</desc>
+  </programme>
+  <programme start="20261107000000 +0900" stop="20261107010000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">素人娘にヤリたい放題！エッチな催●でエロエロに豪華版２</title>
+    <desc lang="ja">◆実は催●術を嗜む人気男優・東雲怜弥が街で見つけた女の子たちに催●術をかけてエッチなことをしまくるというナンパ企画の２作品を再編集してまとめた豪華版ＳＰ</desc>
+  </programme>
+  <programme start="20261107010000 +0900" stop="20261107020000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">人妻訪問マッサージは頼めばヌキ以上の行為も④</title>
+    <desc lang="ja">◆人妻訪問マッサージは割とお触りを許してくれる人が多いので、お願いしたら射精させてくれるかも！人妻のマッサージでチ●コはビンビン。中●しＳＥＸ最高です！</desc>
+  </programme>
+  <programme start="20261107020000 +0900" stop="20261107030000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">ちょっとエッチな女の子・はるなちゃん２２歳と一泊旅行</title>
+    <desc lang="ja">◆イケメン男優と一泊旅行に行きませんか？ただし、ゲームにクリアー出来なかったらＳＥＸです！と募集したところ、刺激が欲しい２２歳のデカ尻アパレル店員が来てくれた！</desc>
+  </programme>
+  <programme start="20261107030000 +0900" stop="20261107040000 +0900" channel="ヌーヴェルパラダイス_jp">
+    <title lang="ja">盗●！美熟女たちがイキ狂う女性向け高級回春エステ④</title>
+    <desc lang="ja">◆熟女が悦ぶ女性向け高級回春エステの盗●映像を入手。そこに映っていたのは、美熟女の吉田さんと峰田さん。施術師のテクニックに我慢できずマン汁があふれ出しそのまま…</desc>
   </programme>
   <programme start="20261105050000 +0900" stop="20261105053000 +0900" channel="MUSIC-ON!-TV(エムオン!)_jp">
     <title lang="ja">四星球特集/METROCK 2026 アーティストスペシャル</title>
@@ -33156,6 +33085,38 @@
     <title lang="ja">日テレNEWS</title>
     <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
   </programme>
+  <programme start="20261105160000 +0900" stop="20261105170000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105180000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261105180000 +0900" stop="20261105190000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105200000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261105200000 +0900" stop="20261105210000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105220000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261105220000 +0900" stop="20261105230000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106000000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
   <programme start="20261106000000 +0900" stop="20261106010000 +0900" channel="rch_47">
     <title lang="ja">日テレNEWS</title>
     <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
@@ -33217,6 +33178,38 @@
     <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
   </programme>
   <programme start="20261106150000 +0900" stop="20261106160000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261106160000 +0900" stop="20261106170000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261106170000 +0900" stop="20261106180000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261106180000 +0900" stop="20261106190000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261106190000 +0900" stop="20261106200000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261106200000 +0900" stop="20261106210000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261106230000 +0900" channel="rch_47">
+    <title lang="ja">日テレNEWS</title>
+    <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
+  </programme>
+  <programme start="20261106230000 +0900" stop="20261107000000 +0900" channel="rch_47">
     <title lang="ja">日テレNEWS</title>
     <desc lang="ja">最新のニュースをピックアップしてお届けします。</desc>
   </programme>
@@ -33968,7 +33961,63 @@
     <title lang="ja">日テレNEWSセレクト</title>
     <desc lang="ja">最新ニュースの深堀りや気になる話題をお届けします。</desc>
   </programme>
-  <programme start="20261105020000 +0900" stop="20261106020000 +0900" channel="rch_54">
+  <programme start="20261105020000 +0900" stop="20261105050000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261105050000 +0900" stop="20261105080000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261105080000 +0900" stop="20261105110000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261105110000 +0900" stop="20261105140000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261105140000 +0900" stop="20261105170000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105200000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261105200000 +0900" stop="20261105230000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106020000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261106020000 +0900" stop="20261106050000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261106050000 +0900" stop="20261106080000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261106080000 +0900" stop="20261106110000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261106110000 +0900" stop="20261106140000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261106140000 +0900" stop="20261106170000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261106170000 +0900" stop="20261106200000 +0900" channel="rch_54">
+    <title lang="ja">オリコンニュース</title>
+    <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
+  </programme>
+  <programme start="20261106200000 +0900" stop="20261106230000 +0900" channel="rch_54">
     <title lang="ja">オリコンニュース</title>
     <desc lang="ja">最新のトレンドニュースを毎日更新してお届けします！</desc>
   </programme>
@@ -35598,53 +35647,97 @@
     <title lang="ja">ALL THE GOALS | Ewa Pajor</title>
     <desc lang="ja">All the goals by Ewa Pajor as FC Barcelona player</desc>
   </programme>
-  <programme start="20261105023911 +0900" stop="20261105051020 +0900" channel="rch_89">
+  <programme start="20261105023911 +0900" stop="20261105042235 +0900" channel="rch_89">
     <title lang="ja">FULL MATCH | Badalona Women - FC Barcelona | Liga F 2026-27</title>
     <desc lang="ja">Enjoy the 2026-27 Liga F Match between Badalona Women and Barça</desc>
   </programme>
-  <programme start="20261105051021 +0900" stop="20261105073355 +0900" channel="rch_89">
+  <programme start="20261105042235 +0900" stop="20261105050738 +0900" channel="rch_89">
+    <title lang="ja">ALL THE GOALS | Ewa Pajor</title>
+    <desc lang="ja">All the goals by Ewa Pajor as FC Barcelona player</desc>
+  </programme>
+  <programme start="20261105050738 +0900" stop="20261105053112 +0900" channel="rch_89">
     <title lang="ja">ALL THE GOALS | Fermín López</title>
     <desc lang="ja">All the goals by Fermín López as Barça player</desc>
   </programme>
-  <programme start="20261105073355 +0900" stop="20261105082528 +0900" channel="rch_89">
+  <programme start="20261105053113 +0900" stop="20261105071631 +0900" channel="rch_89">
+    <title lang="ja">FULL MATCH | FC Barcelona - Deportivo Alavés | La Liga 202627</title>
+    <desc lang="ja">Enjoy the 202627 La Liga match between Barça and Deportivo Alavés</desc>
+  </programme>
+  <programme start="20261105071630 +0900" stop="20261105080803 +0900" channel="rch_89">
     <title lang="ja">ALL THE GOALS | Leo Messi | Part 6</title>
     <desc lang="ja">All the goals by Leo Messi</desc>
   </programme>
-  <programme start="20261105082527 +0900" stop="20261105085514 +0900" channel="rch_89">
+  <programme start="20261105080803 +0900" stop="20261105083750 +0900" channel="rch_89">
     <title lang="ja">HIGHLIGHTS | Barça Atlètic - Arnedo | 2a RFEF 2026-27</title>
     <desc lang="ja">Enjoy the best moments of 2026-27 2a RFEF match between Barça Atlètic and Arnedo</desc>
   </programme>
-  <programme start="20261105085515 +0900" stop="20261105114920 +0900" channel="rch_89">
+  <programme start="20261105083751 +0900" stop="20261105090156 +0900" channel="rch_89">
     <title lang="ja">ALL THE GOALS | Pedri</title>
     <desc lang="ja">All the goals by Pedri as FC Barcelona player</desc>
   </programme>
-  <programme start="20261105114920 +0900" stop="20261105141254 +0900" channel="rch_89">
+  <programme start="20261105090156 +0900" stop="20261105104603 +0900" channel="rch_89">
+    <title lang="ja">FULL MATCH | FC Barcelona - Aston Villa | UEFA Champions League 2026-27</title>
+    <desc lang="ja">Enjoy the 2026-27 UEFA Champions League Match between Barça and Aston Villa</desc>
+  </programme>
+  <programme start="20261105104603 +0900" stop="20261105110937 +0900" channel="rch_89">
     <title lang="ja">ALL THE GOALS | Fermín López</title>
     <desc lang="ja">All the goals by Fermín López as Barça player</desc>
   </programme>
-  <programme start="20261105141254 +0900" stop="20261105170659 +0900" channel="rch_89">
+  <programme start="20261105110937 +0900" stop="20261105125516 +0900" channel="rch_89">
+    <title lang="ja">FULL MATCH | FC Barcelona U-19 - Aston Villa | UYL 2026-27</title>
+    <desc lang="ja">Enjoy the 2026-27 UYL match between Barça and Aston Villa</desc>
+  </programme>
+  <programme start="20261105125516 +0900" stop="20261105131921 +0900" channel="rch_89">
     <title lang="ja">ALL THE GOALS | Pedri</title>
     <desc lang="ja">All the goals by Pedri as FC Barcelona player</desc>
   </programme>
-  <programme start="20261105170700 +0900" stop="20261105192751 +0900" channel="rch_89">
+  <programme start="20261105131921 +0900" stop="20261105140000 +0900" channel="rch_89">
+    <title lang="ja">FULL MATCH | FC Barcelona - Aston Villa | UEFA Champions League 2026-27</title>
+    <desc lang="ja">Enjoy the 2026-27 UEFA Champions League Match between Barça and Aston Villa</desc>
+  </programme>
+  <programme start="20261105140000 +0900" stop="20261105150328 +0900" channel="rch_89">
+    <title lang="ja">FULL MATCH | FC Barcelona - Aston Villa | UEFA Champions League 2026-27</title>
+    <desc lang="ja">Enjoy the 2026-27 UEFA Champions League Match between Barça and Aston Villa</desc>
+  </programme>
+  <programme start="20261105150328 +0900" stop="20261105153107 +0900" channel="rch_89">
+    <title lang="ja">HIGHLIGHTS | Atlético de Madrid - FC Barcelona | La Liga 2006-07</title>
+    <desc lang="ja">Enjoy the best moments of La Liga 2006-07 match between Atlético Madrid and Barça</desc>
+  </programme>
+  <programme start="20261105153107 +0900" stop="20261105171431 +0900" channel="rch_89">
+    <title lang="ja">FULL MATCH | Badalona Women - FC Barcelona | Liga F 2026-27</title>
+    <desc lang="ja">Enjoy the 2026-27 Liga F Match between Badalona Women and Barça</desc>
+  </programme>
+  <programme start="20261105171431 +0900" stop="20261105173522 +0900" channel="rch_89">
     <title lang="ja">ALL THE GOALS | Dani Olmo</title>
     <desc lang="ja">All the goals by Dani Olmo as FC Barcelona player</desc>
   </programme>
-  <programme start="20261105192751 +0900" stop="20261105210429 +0900" channel="rch_89">
+  <programme start="20261105173522 +0900" stop="20261105191929 +0900" channel="rch_89">
+    <title lang="ja">FULL MATCH | FC Barcelona - Aston Villa | UEFA Champions League 2026-27</title>
+    <desc lang="ja">Enjoy the 2026-27 UEFA Champions League Match between Barça and Aston Villa</desc>
+  </programme>
+  <programme start="20261105191929 +0900" stop="20261105202607 +0900" channel="rch_89">
     <title lang="ja">ALL THE GOALS | Raphinha</title>
     <desc lang="ja">All the goals by Raphinha as FC Barcelona player</desc>
   </programme>
-  <programme start="20261105210429 +0900" stop="20261105235602 +0900" channel="rch_89">
-    <title lang="ja">ALL THE GOALS | Leo Messi | Part 6</title>
-    <desc lang="ja">All the goals by Leo Messi</desc>
+  <programme start="20261105202607 +0900" stop="20261105221146 +0900" channel="rch_89">
+    <title lang="ja">FULL MATCH | FC Barcelona U-19 - Aston Villa | UYL 2026-27</title>
+    <desc lang="ja">Enjoy the 2026-27 UYL match between Barça and Aston Villa</desc>
   </programme>
-  <programme start="20261105235601 +0900" stop="20261106000000 +0900" channel="rch_89">
+  <programme start="20261105221146 +0900" stop="20261105225700 +0900" channel="rch_89">
     <title lang="ja">ALL THE GOALS | Lamine Yamal</title>
     <desc lang="ja">All the goals by Lamine Yamal as FC Barcelona player</desc>
+  </programme>
+  <programme start="20261105225700 +0900" stop="20261105232631 +0900" channel="rch_89">
+    <title lang="ja">HIGHLIGHTS | Atlético de Madrid - FC Barcelona | La Liga 2025-26</title>
+    <desc lang="ja">Enjoy the best moments of 2025-26 La Liga match between Atlético de Madrid and Barça</desc>
+  </programme>
+  <programme start="20261105232631 +0900" stop="20261106000000 +0900" channel="rch_89">
+    <title lang="ja">FULL MATCH | FC Barcelona - Aston Villa | UEFA Champions League 2026-27</title>
+    <desc lang="ja">Enjoy the 2026-27 UEFA Champions League Match between Barça and Aston Villa</desc>
   </programme>
   <programme start="20261106000000 +0900" stop="20261106011115 +0900" channel="rch_89">
-    <title lang="ja">ALL THE GOALS | Lamine Yamal</title>
-    <desc lang="ja">All the goals by Lamine Yamal as FC Barcelona player</desc>
+    <title lang="ja">FULL MATCH | FC Barcelona - Aston Villa | UEFA Champions League 2026-27</title>
+    <desc lang="ja">Enjoy the 2026-27 UEFA Champions League Match between Barça and Aston Villa</desc>
   </programme>
   <programme start="20261106011115 +0900" stop="20261106033206 +0900" channel="rch_89">
     <title lang="ja">ALL THE GOALS | Dani Olmo</title>
